@@ -50,7 +50,7 @@
         "MP Stoinis",
         "N Pooran",
         "KH Pandya",
-        "Arshad Khan (2)",
+        "Arshad Khan",
         "Mohsin Khan",
         "Ravi Bishnoi",
         "S Joseph",
@@ -78,7 +78,7 @@
         "A Totre": "b1d7d7bc",
         "AD Russell": "bbd41817",
         "Amit Sharma": "7ea3e0cc",
-        "Arshad Khan (2)": "12314277",
+        "Arshad Khan": "12314277",
         "CV Varun": "5b7ab5a9",
         "DJ Hooda": "73ad96ed",
         "Harshit Rana": "77b1aa15",
@@ -1543,13 +1543,13 @@
               ]
             },
             {
-              "batter": "Arshad Khan (2)",
+              "batter": "Arshad Khan",
               "bowler": "MA Starc",
               "non_striker": "KH Pandya",
               "replacements": {
                 "match": [
                   {
-                    "in": "Arshad Khan (2)",
+                    "in": "Arshad Khan",
                     "out": "Q de Kock",
                     "team": "Lucknow Super Giants",
                     "reason": "impact_player"
@@ -1563,7 +1563,7 @@
               }
             },
             {
-              "batter": "Arshad Khan (2)",
+              "batter": "Arshad Khan",
               "bowler": "MA Starc",
               "non_striker": "KH Pandya",
               "runs": {
@@ -1573,7 +1573,7 @@
               }
             },
             {
-              "batter": "Arshad Khan (2)",
+              "batter": "Arshad Khan",
               "bowler": "MA Starc",
               "non_striker": "KH Pandya",
               "runs": {
@@ -1588,7 +1588,7 @@
               "extras": {
                 "legbyes": 1
               },
-              "non_striker": "Arshad Khan (2)",
+              "non_striker": "Arshad Khan",
               "runs": {
                 "batter": 0,
                 "extras": 1,
@@ -1596,7 +1596,7 @@
               }
             },
             {
-              "batter": "Arshad Khan (2)",
+              "batter": "Arshad Khan",
               "bowler": "MA Starc",
               "non_striker": "KH Pandya",
               "runs": {
@@ -1606,7 +1606,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "Arshad Khan (2)",
+                  "player_out": "Arshad Khan",
                   "kind": "bowled"
                 }
               ]
@@ -2175,7 +2175,7 @@
           "deliveries": [
             {
               "batter": "SS Iyer",
-              "bowler": "Arshad Khan (2)",
+              "bowler": "Arshad Khan",
               "extras": {
                 "wides": 2
               },
@@ -2188,7 +2188,7 @@
             },
             {
               "batter": "PD Salt",
-              "bowler": "Arshad Khan (2)",
+              "bowler": "Arshad Khan",
               "non_striker": "SS Iyer",
               "runs": {
                 "batter": 4,
@@ -2198,7 +2198,7 @@
             },
             {
               "batter": "PD Salt",
-              "bowler": "Arshad Khan (2)",
+              "bowler": "Arshad Khan",
               "non_striker": "SS Iyer",
               "runs": {
                 "batter": 1,
@@ -2208,7 +2208,7 @@
             },
             {
               "batter": "SS Iyer",
-              "bowler": "Arshad Khan (2)",
+              "bowler": "Arshad Khan",
               "non_striker": "PD Salt",
               "runs": {
                 "batter": 0,
@@ -2218,7 +2218,7 @@
             },
             {
               "batter": "SS Iyer",
-              "bowler": "Arshad Khan (2)",
+              "bowler": "Arshad Khan",
               "non_striker": "PD Salt",
               "runs": {
                 "batter": 4,
@@ -2228,7 +2228,7 @@
             },
             {
               "batter": "SS Iyer",
-              "bowler": "Arshad Khan (2)",
+              "bowler": "Arshad Khan",
               "non_striker": "PD Salt",
               "runs": {
                 "batter": 0,
@@ -2238,7 +2238,7 @@
             },
             {
               "batter": "SS Iyer",
-              "bowler": "Arshad Khan (2)",
+              "bowler": "Arshad Khan",
               "non_striker": "PD Salt",
               "runs": {
                 "batter": 1,
@@ -2331,7 +2331,7 @@
           "deliveries": [
             {
               "batter": "SS Iyer",
-              "bowler": "Arshad Khan (2)",
+              "bowler": "Arshad Khan",
               "non_striker": "PD Salt",
               "runs": {
                 "batter": 4,
@@ -2341,7 +2341,7 @@
             },
             {
               "batter": "SS Iyer",
-              "bowler": "Arshad Khan (2)",
+              "bowler": "Arshad Khan",
               "extras": {
                 "legbyes": 1
               },
@@ -2354,7 +2354,7 @@
             },
             {
               "batter": "PD Salt",
-              "bowler": "Arshad Khan (2)",
+              "bowler": "Arshad Khan",
               "non_striker": "SS Iyer",
               "runs": {
                 "batter": 4,
@@ -2364,7 +2364,7 @@
             },
             {
               "batter": "PD Salt",
-              "bowler": "Arshad Khan (2)",
+              "bowler": "Arshad Khan",
               "non_striker": "SS Iyer",
               "runs": {
                 "batter": 4,
@@ -2374,7 +2374,7 @@
             },
             {
               "batter": "PD Salt",
-              "bowler": "Arshad Khan (2)",
+              "bowler": "Arshad Khan",
               "non_striker": "SS Iyer",
               "runs": {
                 "batter": 0,
@@ -2384,7 +2384,7 @@
             },
             {
               "batter": "PD Salt",
-              "bowler": "Arshad Khan (2)",
+              "bowler": "Arshad Khan",
               "non_striker": "SS Iyer",
               "runs": {
                 "batter": 0,

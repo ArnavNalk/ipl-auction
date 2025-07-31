@@ -43,7 +43,7 @@
     ],
     "players": {
       "Rajasthan Royals": [
-        "NA Saini",
+        "Navdeep Saini",
         "YBK Jaiswal",
         "JC Buttler",
         "SV Samson",
@@ -87,7 +87,7 @@
         "KM Asif": "798cc28e",
         "KN Ananthapadmanabhan": "3144063a",
         "MA Agarwal": "00ea847a",
-        "NA Saini": "21d4e29b",
+        "Navdeep Saini": "21d4e29b",
         "Navdeep Singh": "a3e3d8a4",
         "R Ashwin": "495d42a5",
         "R Pandit": "8a604384",
@@ -2323,7 +2323,7 @@
               "replacements": {
                 "match": [
                   {
-                    "in": "NA Saini",
+                    "in": "Navdeep Saini",
                     "out": "YBK Jaiswal",
                     "team": "Rajasthan Royals",
                     "reason": "impact_player"
@@ -2419,7 +2419,7 @@
           "deliveries": [
             {
               "batter": "Abdul Samad",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "extras": {
                 "legbyes": 1
               },
@@ -2432,7 +2432,7 @@
             },
             {
               "batter": "AU Rashid",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "non_striker": "Abdul Samad",
               "runs": {
                 "batter": 0,
@@ -2442,7 +2442,7 @@
             },
             {
               "batter": "AU Rashid",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "extras": {
                 "noballs": 1
               },
@@ -2455,7 +2455,7 @@
             },
             {
               "batter": "Abdul Samad",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "extras": {
                 "noballs": 1
               },
@@ -2468,7 +2468,7 @@
             },
             {
               "batter": "AU Rashid",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "non_striker": "Abdul Samad",
               "runs": {
                 "batter": 4,
@@ -2478,7 +2478,7 @@
             },
             {
               "batter": "AU Rashid",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "non_striker": "Abdul Samad",
               "runs": {
                 "batter": 1,
@@ -2488,7 +2488,7 @@
             },
             {
               "batter": "Abdul Samad",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "non_striker": "AU Rashid",
               "runs": {
                 "batter": 1,
@@ -2498,7 +2498,7 @@
             },
             {
               "batter": "AU Rashid",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "non_striker": "Abdul Samad",
               "runs": {
                 "batter": 1,
@@ -2920,7 +2920,7 @@
           "deliveries": [
             {
               "batter": "Abdul Samad",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "non_striker": "Umran Malik",
               "runs": {
                 "batter": 6,
@@ -2930,7 +2930,7 @@
             },
             {
               "batter": "Abdul Samad",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "non_striker": "Umran Malik",
               "runs": {
                 "batter": 1,
@@ -2940,7 +2940,7 @@
             },
             {
               "batter": "Umran Malik",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "extras": {
                 "noballs": 1
               },
@@ -2953,7 +2953,7 @@
             },
             {
               "batter": "Umran Malik",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "non_striker": "Abdul Samad",
               "runs": {
                 "batter": 1,
@@ -2963,7 +2963,7 @@
             },
             {
               "batter": "Abdul Samad",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "non_striker": "Umran Malik",
               "runs": {
                 "batter": 4,
@@ -2973,7 +2973,7 @@
             },
             {
               "batter": "Abdul Samad",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "non_striker": "Umran Malik",
               "runs": {
                 "batter": 4,
@@ -2983,7 +2983,7 @@
             },
             {
               "batter": "Abdul Samad",
-              "bowler": "NA Saini",
+              "bowler": "Navdeep Saini",
               "non_striker": "Umran Malik",
               "runs": {
                 "batter": 0,

@@ -1,0 +1,256 @@
+Player Name,Country,Age,Role,Batting Style,Bowling Style,C/U/A,Base Price
+Ravindra Jadeja,India,35,All-rounder,LHB,LEFT ARM Slow Orthodox,Capped,
+Ruturaj Gaikwad,India,27,Batsman,RHB,-,Capped,
+Matheesha Pathirana,Sri Lanka,21,Bowler,RHB,RIGHT ARM Fast,Capped,
+Shivam Dube,India,31,All-rounder,LHB,RIGHT ARM Medium,Capped,
+Noor Ahmad,Afghanistan,20,BOWLER,RHB,LEFT ARM Slow Unorthodox,Capped,200
+Ravichandran Ashwin,India,38,All-rounder,RHB,RIGHT ARM Off Spin,Capped,200
+Devon Conway,New Zealand,33,BATTER,LHB,-,Capped,200
+Khaleel Ahmed,India,27,BOWLER,RHB,LEFT ARM Fast Medium,Capped,200
+MS Dhoni,India,43,Wicketkeeper,RHB,-,Capped,
+Rachin Ravindra,New Zealand,25,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,Capped,150
+Rahul Tripathi,India,34,BATTER,RHB,RIGHT ARM Medium,Capped,75
+Anshul Kamboj,India,24,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Sam Curran,England,26,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,Capped,200
+Gurjapneet Singh,India,26,BOWLER,RHB,LEFT ARM Fast Medium,Uncapped,30
+Nathan Ellis,Australia,30,BOWLER,RHB,RIGHT ARM Fast Medium,Capped,125
+Deepak Hooda,India,29,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,Capped,75
+Jamie Overton,England,30,ALL-ROUNDER,RHB,RIGHT ARM Fast,Capped,150
+Vijay Shankar,India,34,ALL-ROUNDER,RHB,RIGHT ARM Medium,Uncapped,30
+Vansh Bedi,India,22,WICKETKEEPER,RHB,-,Uncapped,30
+Mukesh Choudhary,India,28,BOWLER,LHB,LEFT ARM Fast,Uncapped,30
+Shaik Rasheed,India,20,BATTER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Andre Siddharth,India,18,BATTER,RHB,-,Uncapped,50
+Ramakrishna Ghosh,India,27,ALL-ROUNDER,RHB,RIGHT ARM Fast,Uncapped,30
+Kamlesh Nagarkoti,India,25,ALL-ROUNDER,RHB,RIGHT ARM Fast,Uncapped,30
+Shreyas Gopal,India,31,BOWLER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Axar Patel,India,30,All-rounder,LHB,LEFT ARM Slow Orthodox,Capped,
+KL Rahul,India,32,WICKETKEEPER,RHB,-,Capped,200
+Kuldeep Yadav,India,29,Bowler,LHB,LEFT ARM Slow Unorthodox,Capped,
+Mitchell Starc,Australia,35,BOWLER,LHB,LEFT ARM Fast,Capped,200
+T Natarajan,India,33,BOWLER,LHB,LEFT ARM Fast Medium,Capped,200
+Tristan Stubbs,South Africa,24,Wicketkeeper,RHB,RIGHT ARM Off Spin,Capped,
+Jake Fraser-McGurk,Australia,22,BATTER,RHB,-,Capped,200
+Mukesh Kumar,India,31,BOWLER,RHB,RIGHT ARM Fast Medium,Capped,200
+Harry Brook,England,26,BATTER,RHB,RIGHT ARM Medium,Capped,200
+Abishek Porel,India,22,Wicketkeeper,LHB,-,Uncapped,
+Ashutosh Sharma,India,26,ALL-ROUNDER,RHB,RIGHT ARM Medium,Uncapped,30
+Mohit Sharma,India,36,BOWLER,RHB,RIGHT ARM Fast,Uncapped,50
+Faf du Plessis,South Africa,40,BATTER,RHB,-,Capped,200
+Sameer Rizvi,India,21,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Dushmantha Chameera,Sri Lanka,33,BOWLER,RHB,RIGHT ARM Fast,Capped,75
+Donovan Ferreira,South Africa,26,WICKETKEEPER,RHB,RIGHT ARM Off Spin,Capped,75
+Vipraj Nigam,India,20,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Karun Nair,India,33,BATTER,RHB,RIGHT ARM Off Spin,Uncapped,30
+Madhav Tiwari,India,21,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Ajay Mandal,India,29,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,Uncapped,30
+Tripurana Vijay,India,23,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,Uncapped,30
+Manvanth Kumar L,India,21,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,Uncapped,30
+Darshan Nalkande,India,26,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Jasprit Bumrah,India,30,Bowler,RHB,RIGHT ARM Fast,Capped,
+Hardik Pandya,India,31,All-rounder,RHB,RIGHT ARM Fast Medium,Capped,
+Suryakumar Yadav,India,34,Batsman,RHB,-,Capped,
+Rohit Sharma,India,37,Batsman,RHB,-,Capped,
+Trent Boult,New Zealand,35,BOWLER,RHB,LEFT ARM Fast Medium,Capped,200
+Deepak Chahar,India,32,BOWLER,RHB,RIGHT ARM Fast Medium,Capped,200
+Tilak Varma,India,22,All-rounder,LHB,RIGHT ARM Off Spin,Capped,
+Naman Dhir,India,25,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,Uncapped,30
+Will Jacks,England,26,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,Capped,200
+AM Ghazanfar,Afghanistan,19,BOWLER,RHB,RIGHT ARM Off Spin,Capped,75
+Mitchell Santner,New Zealand,33,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,Capped,200
+Ryan Rickelton,South Africa,28,WICKETKEEPER,LHB,-,Capped,100
+Lizaad Williams,South Africa,31,BOWLER,LHB,RIGHT ARM Fast,Capped,75
+Reece Topley,England,31,BOWLER,RHB,LEFT ARM Fast,Capped,75
+Robin Minz,India,22,WICKETKEEPER,LHB,RIGHT ARM Off Spin,Uncapped,30
+Karn Sharma,India,37,BOWLER,LHB,RIGHT ARM Leg Spin,Uncapped,50
+Krishnan Shrijith,India,28,WICKETKEEPER,LHB,-,Uncapped,30
+Raj Bawa,India,22,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,Uncapped,30
+Ashwani Kumar,India,23,BOWLER,LHB,LEFT ARM Fast,Uncapped,30
+Vignesh Puthur,India,24,ALL-ROUNDER,RHB,LEFT ARM Slow Unorthodox,Uncapped,30
+Satyanarayana Raju,India,25,BOWLER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Bevon Jacobs,New Zealand,22,BATTER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Arjun Tendulkar,India,25,BOWLER,LHB,LEFT ARM Fast Medium,Uncapped,30
+Rishabh Pant,India,27,BATTER,LHB,RIGHT ARM Off Spin,Capped,200
+Nicholas Pooran,West Indies,29,Wicketkeeper,LHB,-,Capped,
+Ravi Bishnoi,India,24,Bowler,RHB,RIGHT ARM Leg Spin,Capped,
+Mayank Yadav,India,22,Bowler,RHB,RIGHT ARM Fast Medium,Uncapped,
+Avesh Khan,India,28,BOWLER,RHB,RIGHT ARM Fast,Capped,200
+Akash Deep,India,28,BOWLER,RHB,RIGHT ARM Fast,Capped,100
+David Miller,South Africa,35,BATTER,LHB,-,Capped,150
+Abdul Samad,India,23,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Mohsin Khan,India,26,Bowler,LHB,LEFT ARM Fast Medium,Uncapped,
+Ayush Badoni,India,24,All-rounder,RHB,RIGHT ARM Off Spin,Uncapped,
+Mitchell Marsh,Australia,33,ALL-ROUNDER,RHB,RIGHT ARM Fast,Capped,200
+Shahbaz Ahmed,India,29,All-rounder,LHB,LEFT ARM Slow Orthodox,Capped,100
+Aiden Markram,South Africa,30,BATTER,RHB,RIGHT ARM Off Spin,Capped,200
+Shamar Joseph,West Indies,25,BOWLER,LHB,RIGHT ARM Fast,Capped,75
+Matthew Breetzke,South Africa,26,BATTER,RHB,-,Capped,75
+M. Siddharth,India,26,BOWLER,RHB,LEFT ARM Slow Orthodox,Uncapped,30
+Rajvardhan Hangargekar,India,22,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Akash Singh,India,22,BOWLER,RHB,LEFT ARM Fast,Uncapped,30
+Yuvraj Chaudhary,India,23,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,Uncapped,30
+Prince Yadav,India,23,BOWLER,RHB,RIGHT ARM Fast,Uncapped,30
+Arshin Kulkarni,India,20,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Digvesh Singh,India,25,BOWLER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Aryan Juyal,India,23,WICKETKEEPER,RHB,RIGHT ARM Off Spin,Uncapped,30
+Himmat Singh,India,28,BATTER,RHB,RIGHT ARM Off Spin,Uncapped,30
+Rashid Khan,Afghanistan,26,Bowler,RHB,RIGHT ARM Leg Spin,Capped,
+Shubman Gill,India,25,Batsman,RHB,-,Capped,
+Jos Buttler,England,34,WICKETKEEPER,RHB,RIGHT ARM Off Spin,Capped,200
+Mohammed Siraj,India,31,Bowler,RHB,RIGHT ARM Fast,Capped,200
+Kagiso Rabada,South Africa,29,BOWLER,RHB,RIGHT ARM Fast,Capped,200
+Prasidh Krishna,India,29,BOWLER,RHB,RIGHT ARM Fast,Capped,200
+Sai Sudharsan,India,23,Batsman,LHB,RIGHT ARM Leg Spin,Capped,
+Rahul Tewatia,India,31,All-rounder,LHB,RIGHT ARM Leg Spin,Capped,
+Shahrukh Khan,India,29,All-rounder,RHB,RIGHT ARM Off Spin,Uncapped,
+Washington Sundar,India,25,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,Capped,200
+Sherfane Rutherford,West Indies,26,BATTER,LHB,RIGHT ARM Fast Medium,Capped,150
+Gerald Coetzee,South Africa,24,BOWLER,RHB,RIGHT ARM Fast,Capped,125
+Sai Kishore,India,28,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,Capped,75
+Glenn Phillips,New Zealand,28,BATTER,RHB,RIGHT ARM Off Spin,Capped,200
+Mahipal Lomror,India,25,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,Uncapped,50
+Arshad Khan,India,27,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,Uncapped,30
+Gurnoor Brar,India,24,BOWLER,LHB,RIGHT ARM Fast,Uncapped,30
+Karim Janat,Afghanistan,26,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,Capped,75
+Ishant Sharma,India,36,BOWLER,RHB,RIGHT ARM Fast,Capped,75
+Jayant Yadav,India,35,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,Capped,75
+Kumar Kushagra,India,20,WICKETKEEPER,RHB,-,Uncapped,30
+Nishant Sindhu,India,20,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,Uncapped,30
+Manav Suthar,India,22,BOWLER,LHB,LEFT ARM Slow Orthodox,Uncapped,30
+Anuj Rawat,India,25,WICKETKEEPER,LHB,RIGHT ARM Leg Spin,Uncapped,30
+Kulwant Khejroliya,India,33,BOWLER,LHB,LEFT ARM Fast Medium,Uncapped,30
+Venkatesh Iyer,India,30,ALL-ROUNDER,LHB,RIGHT ARM Medium,Capped,200
+Rinku Singh,India,27,Batsman,LHB,-,Capped,
+Varun Chakaravarthy,India,33,Bowler,RHB,RIGHT ARM Leg Spin,Capped,
+Sunil Narine,West Indies,36,All-rounder,LHB,RIGHT ARM Off Spin,Capped,
+Andre Russell,West Indies,36,All-rounder,RHB,RIGHT ARM Fast,Capped,
+Anrich Nortje,South Africa,31,BOWLER,RHB,RIGHT ARM Fast,Capped,200
+Ramandeep Singh,India,27,All-rounder,RHB,RIGHT ARM Medium,Uncapped,
+Harshit Rana,India,22,All-rounder,RHB,RIGHT ARM Fast Medium,Capped,
+Quinton de Kock,South Africa,32,WICKETKEEPER,LHB,-,Capped,200
+Angkrish Raghuvanshi,India,20,BATTER,RHB,RIGHT ARM Off Spin,Uncapped,30
+Spencer Johnson,Australia,29,BOWLER,LHB,LEFT ARM Fast,Capped,200
+Moeen Ali,England,37,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,Capped,200
+Rahmanullah Gurbaz,Afghanistan,23,WICKETKEEPER,RHB,-,Capped,200
+Vaibhav Arora,India,27,BOWLER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Rovman Powell,West Indies,31,BATTER,RHB,RIGHT ARM Fast Medium,Capped,150
+Ajinkya Rahane,India,36,BATTER,RHB,-,Capped,150
+Manish Pandey,India,35,BATTER,RHB,-,Capped,75
+Umran Malik,India,25,BOWLER,RHB,RIGHT ARM Fast,Capped,75
+Anukul Roy,India,26,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,Uncapped,30
+Luvnith Sisodia,India,25,WICKETKEEPER,LHB,-,Uncapped,30
+Mayank Markande,India,27,BOWLER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Shreyas Iyer,India,30,BATTER,RHB,RIGHT ARM Off Spin,Capped,200
+Yuzvendra Chahal,India,34,BOWLER,RHB,RIGHT ARM Leg Spin,Capped,200
+Arshdeep Singh,India,26,BOWLER,LHB,LEFT ARM Fast Medium,Capped,200
+Marcus Stoinis,Australia,35,ALL-ROUNDER,RHB,RIGHT ARM Fast,Capped,200
+Marco Jansen,South Africa,24,ALL-ROUNDER,RHB,LEFT ARM Fast,Capped,125
+Shashank Singh,India,33,All-rounder,LHB,RIGHT ARM Off Spin,Capped,
+Nehal Wadhera,India,24,BATTER,LHB,RIGHT ARM Leg Spin,Uncapped,30
+Glenn Maxwell,Australia,36,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,Capped,200
+Prabhsimran Singh,India,24,Wicketkeeper,RHB,-,Uncapped,
+Priyansh Arya,India,23,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,Uncapped,30
+Josh Inglis,Australia,30,WICKETKEEPER,RHB,-,Capped,200
+Azmatullah Omarzai,Afghanistan,25,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,Capped,150
+Lockie Ferguson,New Zealand,33,BOWLER,RHB,RIGHT ARM Fast,Capped,200
+Vijaykumar Vyshak,India,28,BOWLER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Yash Thakur,India,26,BOWLER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Harpreet Brar,India,29,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,Uncapped,30
+Aaron Hardie,Australia,26,ALL-ROUNDER,RHB,RIGHT ARM Medium,Capped,125
+Vishnu Vinod,India,31,WICKETKEEPER,RHB,-,Uncapped,30
+Xavier Bartlett,Australia,26,BOWLER,RHB,RIGHT ARM Fast Medium,Capped,75
+Kuldeep Sen,India,28,BOWLER,RHB,RIGHT ARM Fast,Capped,75
+Harnoor Singh,India,22,BATTER,LHB,RIGHT ARM Leg Spin,Uncapped,30
+Suryansh Shedge,India,22,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Pyla Avinash,India,24,BATTER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Musheer Khan,India,20,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,Uncapped,30
+Pravin Dubey,India,31,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Sanju Samson,India,30,Wicketkeeper,RHB,-,Capped,
+Yashasvi Jaiswal,India,22,Batsman,LHB,-,Capped,
+Riyan Parag,India,23,All-rounder,RHB,RIGHT ARM Leg Spin,Capped,
+Dhruv Jurel,India,23,Wicketkeeper,RHB,-,Capped,
+Jofra Archer,England,30,BOWLER,RHB,RIGHT ARM Fast,Capped,200
+Shimron Hetmyer,West Indies,27,Batsman,LHB,-,Capped,
+Tushar Deshpande,India,29,BOWLER,LHB,RIGHT ARM Fast,Capped,100
+Wanindu Hasaranga,Sri Lanka,27,BOWLER,RHB,RIGHT ARM Leg Spin,Capped,200
+Maheesh Theekshana,Sri Lanka,24,BOWLER,RHB,RIGHT ARM Off Spin,Capped,200
+Nitish Rana,India,31,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,Capped,150
+Sandeep Sharma,India,31,Bowler,RHB,RIGHT ARM Medium,Capped,
+Fazalhaq Farooqi,Afghanistan,24,BOWLER,RHB,LEFT ARM Fast Medium,Capped,200
+Kwena Maphaka,South Africa,18,BOWLER,LHB,LEFT ARM Fast,Capped,75
+Akash Madhwal,India,31,BOWLER,RHB,RIGHT ARM Fast,Uncapped,30
+Vaibhav Suryavanshi,India,14,BATTER,LHB,LEFT ARM Slow Orthodox,Uncapped,30
+Shubham Dubey,India,30,BATTER,LHB,RIGHT ARM Off Spin,Uncapped,30
+Yudhvir Singh,India,27,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Ashok Sharma,India,22,BOWLER,RHB,RIGHT ARM Fast,Uncapped,30
+Kumar Kartikeya,India,27,BOWLER,RHB,LEFT ARM Slow Orthodox,Uncapped,30
+Kunal Singh Rathore,India,22,WICKETKEEPER,LHB,RIGHT ARM Off Spin,Uncapped,30
+Virat Kohli,India,36,Batsman,RHB,-,Capped,
+Josh Hazlewood,Australia,34,BOWLER,LHB,RIGHT ARM Fast Medium,Capped,200
+Phil Salt,England,28,WICKETKEEPER,RHB,-,Capped,200
+Jitesh Sharma,India,31,WICKETKEEPER,RHB,-,Capped,100
+Rajat Patidar,India,31,Batsman,RHB,-,Capped,
+Bhuvneshwar Kumar,India,35,BOWLER,RHB,RIGHT ARM Fast Medium,Capped,200
+Liam Livingstone,England,31,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,Capped,200
+Rasikh Dar,India,25,BOWLER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Krunal Pandya,India,34,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,Capped,200
+Yash Dayal,India,26,Bowler,LHB,LEFT ARM Fast Medium,Uncapped,
+Tim David,Australia,29,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,Capped,200
+Suyash Sharma,India,21,BOWLER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Jacob Bethell,England,21,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,Capped,125
+Devdutt Padikkal,India,24,BATTER,LHB,-,Capped,200
+Nuwan Thushara,Sri Lanka,30,BOWLER,RHB,RIGHT ARM Fast,Capped,75
+Romario Shepherd,West Indies,30,ALL-ROUNDER,RHB,RIGHT ARM Fast,Capped,150
+Lungi Ngidi,South Africa,29,BOWLER,RHB,RIGHT ARM Fast Medium,Capped,100
+Swapnil Singh,India,34,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,Uncapped,30
+Manoj Bhandage,India,26,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,Uncapped,30
+Abhinandan Singh,India,28,BOWLER,RHB,RIGHT ARM Fast Medium,Uncapped,30
+Mohit Rathee,India,26,BOWLER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Swastik Chikara,India,20,BATTER,RHB,RIGHT ARM Off Spin,Uncapped,30
+Heinrich Klaasen,South Africa,33,Wicketkeeper,RHB,-,Capped,
+Pat Cummins,Australia,31,All-rounder,RHB,RIGHT ARM Fast,Capped,
+Travis Head,Australia,30,Batsman,LHB,RIGHT ARM Off Spin,Capped,
+Abhishek Sharma,India,24,All-rounder,LHB,LEFT ARM Slow Orthodox,Capped,
+Ishan Kishan,India,26,WICKETKEEPER,LHB,-,Capped,200
+Mohammed Shami,India,34,Bowler,RHB,RIGHT ARM Fast,Capped,200
+Harshal Patel,India,34,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,Capped,200
+Nitish Kumar Reddy,India,21,All-rounder,RHB,RIGHT ARM Fast Medium,Uncapped,
+Abhinav Manohar,India,30,BATTER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Rahul Chahar,India,25,BOWLER,RHB,RIGHT ARM Leg Spin,Capped,100
+Adam Zampa,Australia,32,BOWLER,RHB,RIGHT ARM Leg Spin,Capped,200
+Simarjeet Singh,India,27,BOWLER,RHB,RIGHT ARM Fast,Uncapped,30
+Eshan Malinga,Sri Lanka,24,BOWLER,LHB,RIGHT ARM Fast,Uncapped,30
+Brydon Carse,England,29,ALL-ROUNDER,RHB,RIGHT ARM Fast,Capped,100
+Jaydev Unadkat,India,33,BOWLER,RHB,LEFT ARM Fast Medium,Capped,100
+Kamindu Mendis,Sri Lanka,26,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,Capped,75
+Zeeshan Ansari,India,25,BOWLER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Aniket Verma,India,23,BATTER,RHB,-,Uncapped,30
+Atharva Taide,India,24,BATTER,LHB,LEFT ARM Slow Orthodox,Uncapped,30
+Sachin Baby,India,36,BATTER,LHB,RIGHT ARM Off Spin,Uncapped,30
+Mujeeb Ur Rahman,Afghanistan,24,BOWLER,RHB,RIGHT ARM Off Spin,Capped,200
+Wiaan Mulder,South Africa,27,ALL-ROUNDER,RHB,RIGHT ARM Medium,Capped,75
+Corbin Bosch,South Africa,30,ALL-ROUNDER,RHB,RIGHT ARM Fast,Uncapped,30
+Sediqullah Atal,Afghanistan,23,BATTER,LHB,-,Capped,75
+Chetan Sakariya,India,27,BOWLER,LHB,LEFT ARM Medium,Capped,75
+Shardul Thakur,India,33,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,Capped,200
+Ayush Mhatre,India,17,BATTER,RHB,RIGHT ARM Off Spin,Uncapped,30
+Dasun Shanaka,Sri Lanka,33,ALL-ROUNDER,RHB,RIGHT ARM Fast,Capped,75
+Kyle Jamieson,New Zealand,30,BOWLER,RHB,RIGHT ARM Fast,Capped,150
+Smaran Ravichandran,India,21,BATTER,LHB,RIGHT ARM Off Spin,Uncapped,30
+Dewald Brevis,South Africa,21,BATTER,RHB,RIGHT ARM Leg Spin,Capped,75
+Raghu Sharma,India,31,BOWLER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Mitchell Owen,Australia,23,All-rounder,RHB,RIGHT ARM Fast Medium,Uncapped,0
+Urvil Patel,India,26,WICKETKEEPER,RHB,-,Uncapped,30
+Harsh Dubey,India,22,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,Uncapped,30
+Mayank Agarwal,India,34,BATTER,RHB,RIGHT ARM Off Spin,Capped,100
+Lhuan-dre Pretorius,South Africa,18,Wicketkeeper,LHB,-,Uncapped,75
+Nandre Burger,South Africa,29,BOWLER,LHB,LEFT ARM Fast,Capped,125
+Mustafizur Rahman,Bangladesh,29,BOWLER,LHB,LEFT ARM Fast,Capped,200
+Kusal Mendis,Sri Lanka,30,WICKETKEEPER,RHB,RIGHT ARM Leg Spin,Capped,75
+Will O'Rourke,New Zealand,23,BOWLER,RHB,RIGHT ARM Fast,Capped,150
+Shivam Shukla,India,29,BOWLER,RHB,RIGHT ARM Leg Spin,Uncapped,30
+Blessing Muzarabani,Zimbabwe,28,BOWLER,RHB,RIGHT ARM Fast,Capped,75
+Jonny Bairstow,England,35,WICKETKEEPER,RHB,RIGHT ARM Medium,Capped,200
+Richard Gleeson,England,37,BOWLER,RHB,RIGHT ARM Fast,Capped,75
+Charith Asalanka,Sri Lanka,27,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,Capped,75
+Tim Seifert,New Zealand,30,WICKETKEEPER,RHB,-,Capped,125
