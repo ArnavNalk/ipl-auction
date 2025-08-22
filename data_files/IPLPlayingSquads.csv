@@ -1,0 +1,811 @@
+,Player Name_json,Team,Year,Player ID,Player Name_squad,Price,Replacement,Retained,Country,Age,Role,Batting Style,Bowling Style,C/U/A,Base Price
+0,TM Head,SRH,2024,12b610c2,Travis Head,6.8,No,No,Australia,30,Batsman,LHB,Right Arm Off Spin,Capped,2.0
+1,Abhishek Sharma,SRH,2024,f29185a1,Abhishek Sharma,6.5,No,Yes,India,23,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+2,AK Markram,SRH,2024,6a26221c,Aiden Markram,2.6,No,Yes,South Africa,29,All-Rounder,RHB,Right Arm Off Spin,Capped,
+3,Nithish Kumar Reddy,SRH,2024,aad0c365,Nitish Kumar Reddy,0.2,No,Yes,India,20,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,
+4,RA Tripathi,SRH,2024,77255a9e,Rahul Tripathi,8.5,No,Yes,India,32,Batsman,RHB,-,Capped,
+5,H Klaasen,SRH,2024,235c2bb6,Heinrich Klaasen,5.25,No,Yes,South Africa,32,Wicketkeeper,RHB,-,Capped,
+6,Abdul Samad,SRH,2024,8e514b4c,Abdul Samad,4.0,No,Yes,India,22,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,
+7,Shahbaz Ahmed,SRH,2024,f9e6e7ef,Shahbaz Ahmed,2.4,No,No,India,29,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,0.0
+8,PJ Cummins,SRH,2024,ded9240e,Pat Cummins,20.5,No,No,Australia,30,All-Rounder,RHB,Right Arm Fast,Capped,2.0
+9,B Kumar,SRH,2024,2e81a32d,Bhuvneshwar Kumar,4.2,No,Yes,India,33,Bowler,RHB,Right Arm Fast Medium,Capped,
+10,JD Unadkat,SRH,2024,1e66c162,Jaydev Unadkat,1.6,No,No,India,32,Bowler,RHB,Left Arm Fast Medium,Capped,0.5
+11,T Natarajan,SRH,2024,ce794613,T Natarajan,4.0,No,Yes,India,32,Bowler,LHB,Left Arm Fast Medium,Capped,
+12,Arshdeep Singh,PBKS,2024,244048f6,Arshdeep Singh,4.0,No,Yes,India,24,Bowler,LHB,Left Arm Fast Medium,Capped,
+13,S Dhawan,PBKS,2024,0a476045,Shikhar Dhawan,8.25,No,Yes,India,38,Batsman,LHB,-,Capped,
+14,JM Bairstow,PBKS,2024,abb83e27,Jonny Bairstow,6.75,No,Yes,England,34,Wicketkeeper,RHB,-,Capped,
+15,P Simran Singh,PBKS,2024,9418198b,Arshdeep Singh,4.0,No,Yes,India,24,Bowler,LHB,Left Arm Fast Medium,Capped,
+16,SM Curran,PBKS,2024,e94915e6,Sam Curran,18.5,No,Yes,England,25,All-Rounder,LHB,Left Arm Fast Medium,Capped,
+17,Sikandar Raza,PBKS,2024,26d041c4,Sikandar Raza,0.5,No,Yes,Zimbabwe,37,All-Rounder,RHB,Right Arm Off Spin,Capped,
+18,Shashank Singh,PBKS,2024,26989d80,Shashank Singh,0.2,No,No,India,20,Batsman,RHB,-,Uncapped,0.2
+19,JM Sharma,PBKS,2024,800d2d97,Jitesh Sharma,0.2,No,Yes,India,30,Wicketkeeper,RHB,-,Capped,
+20,Ashutosh Sharma,PBKS,2024,84d9c311,Ashutosh Sharma,0.2,No,No,India,25,All-Rounder,RHB,Right Arm Medium,Uncapped,0.2
+21,Harpreet Brar,PBKS,2024,c05edf8e,Harpreet Brar,3.8,No,Yes,India,28,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,
+22,HV Patel,PBKS,2024,f986ca1a,Harshal Patel,11.75,No,No,India,33,All-Rounder,RHB,Right Arm Fast Medium,Capped,2.0
+23,K Rabada,PBKS,2024,e62dd25d,Kagiso Rabada,9.25,No,Yes,South Africa,28,Bowler,LHB,Right Arm Fast,Capped,
+24,Akash Singh,CSK,2023,b483905d,Akash Singh,0.2,Yes,No,India,20,Bowler,RHB,Left Arm Fast,Uncapped,0.2
+25,RD Gaikwad,CSK,2023,45a43fe2,Ruturaj Gaikwad,6.0,No,Yes,India,25,Batsman,RHB,-,Capped,
+26,DP Conway,CSK,2023,df5a6881,Devon Conway,1.0,No,Yes,New Zealand,31,Wicketkeeper,LHB,-,Capped,
+27,AM Rahane,CSK,2023,29e95537,Ajinkya Rahane,0.5,No,No,India,34,Batsman,RHB,-,Capped,0.5
+28,S Dube,CSK,2023,a4e37e47,Shivam Dube,4.0,No,Yes,India,29,All-Rounder,LHB,Right Arm Medium,Capped,
+29,RA Jadeja,CSK,2023,fe93fd9d,Ravindra Jadeja,16.0,No,Yes,India,34,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+30,MS Dhoni,CSK,2023,4a8a2e3b,MS Dhoni,12.0,No,Yes,India,41,Wicketkeeper,RHB,-,Capped,
+31,MM Ali,CSK,2023,bb351c23,Moeen Ali,8.0,No,Yes,England,35,All-Rounder,LHB,Right Arm Off Spin,Capped,
+32,AT Rayudu,CSK,2023,70d205c9,Ambati Rayudu,6.75,No,Yes,India,37,Batsman,RHB,-,Capped,
+33,M Pathirana,CSK,2023,64839cb3,Matheesha Pathirana,0.2,No,Yes,Sri Lanka,20,Bowler,RHB,Right Arm Fast,Capped,
+34,TU Deshpande,CSK,2023,46a9bea1,Tushar Deshpande,0.2,No,Yes,India,27,Bowler,LHB,Right Arm Medium,Uncapped,
+35,M Theekshana,CSK,2023,f24c6701,Maheesh Theekshana,0.7,No,Yes,Sri Lanka,22,Bowler,RHB,Right Arm Off Spin,Capped,
+36,Suyash Sharma,KKR,2023,9440ef41,Suyash Sharma,0.2,No,No,India,19,Bowler,RHB,Right Arm Leg Spin,Uncapped,0.2
+37,N Jagadeesan,KKR,2023,bd54eef5,Narayan Jagadeesan,0.9,No,No,India,27,Wicketkeeper,RHB,-,Uncapped,0.2
+38,SP Narine,KKR,2023,9d430b40,Sunil Narine,6.0,No,Yes,West Indies,34,Bowler,LHB,Right Arm Off Spin,Capped,
+39,VR Iyer,KKR,2023,a24be938,Venkatesh Iyer,8.0,No,Yes,India,28,All-Rounder,LHB,Right Arm Medium,Capped,
+40,N Rana,KKR,2023,fb2d1dda,Nitish Rana,8.0,No,Yes,India,28,All-Rounder,LHB,Right Arm Off Spin,Capped,
+41,JJ Roy,KKR,2023,d1c36f5c,Jason Roy,2.8,Yes,No,England,32,Batsman,RHB,-,Capped,1.5
+42,RK Singh,KKR,2023,0a509d6b,Rinku Singh,0.55,No,Yes,India,25,Batsman,LHB,-,Uncapped,
+43,AD Russell,KKR,2023,bbd41817,Andre Russell,16.0,No,Yes,West Indies,34,All-Rounder,RHB,Right Arm Fast,Capped,
+44,D Wiese,KKR,2023,aa8d28ae,David Wiese,1.0,No,No,Namibia,37,All-Rounder,RHB,Right Arm Medium,Associate,1.0
+45,UT Yadav,KKR,2023,cc1e8c68,Umesh Yadav,2.0,No,Yes,India,35,Bowler,RHB,Right Arm Fast,Capped,
+46,Varun Chakravarthy,KKR,2023,5b7ab5a9,Varun Chakaravarthy,12.0,No,Yes,India,31,Bowler,RHB,Right Arm Leg Spin,Capped,
+47,K Khejroliya,KKR,2023,fa2f1dde,Kulwant Khejroliya,0.2,No,No,India,31,Bowler,LHB,Left Arm Fast,Uncapped,0.2
+48,Abhishek Sharma,SRH,2022,f29185a1,Abhishek Sharma,6.5,No,No,India,21,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,0.2
+49,KS Williamson,SRH,2022,d027ba9f,Kane Williamson,14.0,No,Yes,New Zealand,31,Batsman,RHB,-,Capped,
+50,RA Tripathi,SRH,2022,77255a9e,Rahul Tripathi,8.5,No,No,India,31,Batsman,RHB,Right Arm Medium,Uncapped,0.4
+51,AK Markram,SRH,2022,6a26221c,Aiden Markram,2.6,No,No,South Africa,27,Batsman,RHB,Right Arm Off Spin,Capped,1.0
+52,N Pooran,SRH,2022,3241e3fd,Nicholas Pooran,10.75,No,No,West Indies,26,Wicketkeeper,LHB,-,Capped,1.5
+53,Washington Sundar,SRH,2022,f19ccfad,Washington Sundar,8.75,No,No,India,22,All-Rounder,LHB,Right Arm Off Spin,Capped,1.5
+54,Shashank Singh,SRH,2022,26989d80,Shashank Singh,0.2,No,No,India,30,All-Rounder,RHB,Right Arm Medium,Uncapped,0.2
+55,M Jansen,SRH,2022,81c36ee9,Marco Jansen,4.2,No,No,South Africa,21,All-Rounder,RHB,Left Arm Fast,Capped,0.5
+56,B Kumar,SRH,2022,2e81a32d,Bhuvneshwar Kumar,4.2,No,No,India,32,Bowler,RHB,Right Arm Fast Medium,Capped,2.0
+57,T Natarajan,SRH,2022,ce794613,T Natarajan,4.0,No,No,India,30,Bowler,LHB,Left Arm Fast,Capped,1.0
+58,Umran Malik,SRH,2022,81c08fa3,Umran Malik,4.0,No,Yes,India,22,Bowler,RHB,Right Arm Fast,Uncapped,
+59,WP Saha,GT,2022,fe11caa6,Wriddhiman Saha,1.9,No,No,India,37,Wicketkeeper,RHB,-,Capped,1.0
+60,Shubman Gill,GT,2022,b4b99816,Shubman Gill,8.0,No,Yes,India,22,Batsman,RHB,-,Capped,
+61,HH Pandya,GT,2022,dbe50b21,Hardik Pandya,15.0,No,Yes,India,28,All-Rounder,RHB,Right Arm Fast Medium,Capped,
+62,DA Miller,GT,2022,d67d5f00,David Miller,3.0,No,No,South Africa,32,Batsman,LHB,-,Capped,1.0
+63,R Tewatia,GT,2022,39a2dfa8,Rahul Tewatia,9.0,No,No,India,28,All-Rounder,LHB,Right Arm Leg Spin,Uncapped,0.4
+64,A Manohar,GT,2022,0890552f,Abhinav Manohar,2.6,No,No,India,27,Batsman,RHB,Right Arm Leg Spin,Uncapped,0.2
+65,Rashid Khan,GT,2022,5f547c8b,Rashid Khan,15.0,No,Yes,Afghanistan,23,Bowler,RHB,Right Arm Leg Spin,Capped,
+66,LH Ferguson,GT,2022,2f9d0389,Lockie Ferguson,10.0,No,No,New Zealand,30,Bowler,RHB,Right Arm Fast,Capped,2.0
+67,AS Joseph,GT,2022,b0946605,Alzarri Joseph,2.4,No,No,West Indies,25,Bowler,RHB,Right Arm Fast,Capped,0.75
+68,Yash Dayal,GT,2022,7210d461,Yash Dayal,3.2,No,No,India,24,Bowler,RHB,Left Arm Fast,Uncapped,0.2
+69,Mohammed Shami,GT,2022,8cf9814c,Mohammed Shami,6.25,No,No,India,32,Bowler,RHB,Right Arm Fast,Capped,2.0
+70,MA Agarwal,PBKS,2022,00ea847a,Mayank Agarwal,12.0,No,Yes,India,30,Batsman,RHB,-,Capped,
+71,S Dhawan,PBKS,2022,0a476045,Shikhar Dhawan,8.25,No,No,India,36,Batsman,LHB,-,Capped,2.0
+72,JM Bairstow,PBKS,2022,abb83e27,Jonny Bairstow,6.75,No,No,England,32,Wicketkeeper,RHB,-,Capped,1.5
+73,LS Livingstone,PBKS,2022,50c6bc2b,Liam Livingstone,11.5,No,No,England,28,All-Rounder,RHB,Right Arm Leg Spin,Capped,1.0
+74,JM Sharma,PBKS,2022,800d2d97,Jitesh Sharma,0.2,No,No,India,28,Wicketkeeper,RHB,-,Uncapped,0.2
+75,Shahrukh Khan,PBKS,2022,7dcb9bc9,Shahrukh Khan,9.0,No,No,India,26,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.4
+76,OF Smith,PBKS,2022,23cca426,Odean Smith,6.0,No,No,West Indies,25,All-Rounder,RHB,Right Arm Fast,Capped,1.0
+77,K Rabada,PBKS,2022,e62dd25d,Kagiso Rabada,9.25,No,No,South Africa,26,Bowler,LHB,Right Arm Fast,Capped,2.0
+78,RD Chahar,PBKS,2022,2ed569a0,Rahul Chahar,5.25,No,No,India,22,Bowler,RHB,Right Arm Leg Spin,Capped,0.75
+79,VG Arora,PBKS,2022,7c3b3b78,Vaibhav Arora,2.0,No,No,India,24,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.2
+80,Arshdeep Singh,PBKS,2022,244048f6,Arshdeep Singh,4.0,No,Yes,India,23,Bowler,LHB,Left Arm Fast Medium,Uncapped,
+81,RG Sharma,MI,2022,740742ef,Rohit Sharma,16.0,No,Yes,India,34,Batsman,RHB,-,Capped,
+82,Ishan Kishan,MI,2022,752f7486,Ishan Kishan,15.25,No,No,India,23,Wicketkeeper,LHB,-,Capped,2.0
+83,D Brevis,MI,2022,844e79d1,Dewald Brevis,3.0,No,No,South Africa,18,Batsman,RHB,Right Arm Leg Spin,Uncapped,0.2
+84,Tilak Varma,MI,2022,b0482a1d,Tilak Varma,1.7,No,No,India,19,All-Rounder,LHB,Right Arm Off Spin,Uncapped,0.2
+85,SA Yadav,MI,2022,271f83cd,Suryakumar Yadav,8.0,No,Yes,India,31,Batsman,RHB,-,Capped,
+86,KA Pollard,MI,2022,a757b0d8,Kieron Pollard,6.0,No,Yes,West Indies,34,All-Rounder,RHB,Right Arm Medium,Capped,
+87,JD Unadkat,MI,2022,1e66c162,Jaydev Unadkat,1.3,No,No,India,30,Bowler,RHB,Left Arm Fast Medium,Capped,0.75
+88,M Ashwin,MI,2022,e2db2409,Murugan Ashwin,1.6,No,No,India,31,Bowler,RHB,Right Arm Leg Spin,Uncapped,0.2
+89,JJ Bumrah,MI,2022,462411b3,Jasprit Bumrah,12.0,No,Yes,India,28,Bowler,RHB,Right Arm Fast,Capped,
+90,TS Mills,MI,2022,245c97cb,Tymal Mills,1.5,No,No,England,29,Bowler,RHB,Left Arm Fast,Capped,1.0
+91,Basil Thampi,MI,2022,871e9faf,Basil Thampi,0.3,No,No,India,28,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.3
+92,I Sharma,GT,2025,5bb1a1c4,Ishant Sharma,0.75,No,No,India,36,Bowler,RHB,Right Arm Fast,Capped,0.75
+93,B Sai Sudharsan,GT,2025,d5130a30,Sai Sudharsan,8.5,No,Yes,India,23,Batsman,LHB,Right Arm Leg Spin,Capped,
+94,Shubman Gill,GT,2025,b4b99816,Shubman Gill,16.5,No,Yes,India,25,Batsman,RHB,-,Capped,
+95,JC Buttler,GT,2025,99b75528,Jos Buttler,15.75,No,No,England,34,Wicketkeeper,RHB,Right Arm Off Spin,Capped,2.0
+96,Shahrukh Khan,GT,2025,7dcb9bc9,Shahrukh Khan,4.0,No,Yes,India,29,All-Rounder,RHB,Right Arm Off Spin,Uncapped,
+97,SE Rutherford,GT,2025,d014d5ac,Sherfane Rutherford,2.6,No,No,West Indies,26,Batsman,LHB,Right Arm Fast Medium,Capped,1.5
+98,R Tewatia,GT,2025,39a2dfa8,Rahul Tewatia,4.0,No,Yes,India,31,All-Rounder,LHB,Right Arm Leg Spin,Capped,
+99,Rashid Khan,GT,2025,5f547c8b,Rashid Khan,18.0,No,Yes,Afghanistan,26,Bowler,RHB,Right Arm Leg Spin,Capped,
+100,K Rabada,GT,2025,e62dd25d,Kagiso Rabada,10.75,No,No,South Africa,29,Bowler,RHB,Right Arm Fast,Capped,2.0
+101,R Sai Kishore,GT,2025,c7a995d3,Sai Kishore,2.0,No,No,India,28,All-Rounder,LHB,Left Arm Slow Unorthodox,Capped,0.75
+102,Mohammed Siraj,GT,2025,2f49c897,Mohammed Siraj,12.25,No,No,India,31,Bowler,RHB,Right Arm Fast,Capped,2.0
+103,M Prasidh Krishna,GT,2025,85e0cf10,Prasidh Krishna,9.5,No,No,India,29,Bowler,RHB,Right Arm Fast,Capped,2.0
+104,Satyanarayana Raju,MI,2025,c27b5a0e,Satyanarayana Raju,0.3,No,No,India,25,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.3
+105,RG Sharma,MI,2025,740742ef,Rohit Sharma,16.3,No,Yes,India,37,Batsman,RHB,-,Capped,
+106,RD Rickelton,MI,2025,e66732f8,Ryan Rickelton,1.0,No,No,South Africa,28,Wicketkeeper,LHB,-,Capped,1.0
+107,Tilak Varma,MI,2025,b0482a1d,Tilak Varma,8.0,No,Yes,India,22,All-Rounder,LHB,Right Arm Off Spin,Capped,
+108,SA Yadav,MI,2025,271f83cd,Suryakumar Yadav,16.35,No,Yes,India,34,Batsman,RHB,-,Capped,
+109,R Minz,MI,2025,bafd0398,Robin Minz,0.65,No,No,India,22,Wicketkeeper,LHB,Right Arm Off Spin,Uncapped,0.3
+110,HH Pandya,MI,2025,dbe50b21,Hardik Pandya,16.35,No,Yes,India,31,All-Rounder,RHB,Right Arm Fast Medium,Capped,
+111,Naman Dhir,MI,2025,fffa744b,Naman Dhir,5.25,No,No,India,25,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.3
+112,MJ Santner,MI,2025,e4a0deae,Mitchell Santner,2.0,No,No,New Zealand,33,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,2.0
+113,DL Chahar,MI,2025,23eeb873,Deepak Chahar,9.25,No,No,India,32,Bowler,RHB,Right Arm Fast Medium,Capped,2.0
+114,TA Boult,MI,2025,a818c1be,Trent Boult,12.5,No,No,New Zealand,35,Bowler,RHB,Left Arm Fast Medium,Capped,2.0
+115,Mujeeb Ur Rahman,MI,2025,7d92277a,Mujeeb Ur Rahman,2.0,Yes,No,Afghanistan,24,Bowler,RHB,Right Arm Off Spin,Capped,2.0
+116,Abhishek Sharma,SRH,2025,f29185a1,Abhishek Sharma,14.0,No,Yes,India,24,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+117,TM Head,SRH,2025,12b610c2,Travis Head,14.0,No,Yes,Australia,30,Batsman,LHB,Right Arm Off Spin,Capped,
+118,Ishan Kishan,SRH,2025,752f7486,Ishan Kishan,11.25,No,No,India,26,Wicketkeeper,LHB,-,Capped,2.0
+119,H Klaasen,SRH,2025,235c2bb6,Heinrich Klaasen,23.0,No,Yes,South Africa,33,Wicketkeeper,RHB,-,Capped,
+120,Aniket Verma,SRH,2025,a3b0600d,Aniket Verma,0.3,No,No,India,23,Batsman,RHB,-,Uncapped,0.3
+121,Nithish Kumar Reddy,SRH,2025,aad0c365,Nitish Kumar Reddy,6.0,No,Yes,India,21,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,
+122,A Manohar,SRH,2025,0890552f,Abhinav Manohar,3.2,No,No,India,30,Batsman,RHB,Right Arm Leg Spin,Uncapped,0.3
+123,PJ Cummins,SRH,2025,ded9240e,Pat Cummins,18.0,No,Yes,Australia,31,All-Rounder,RHB,Right Arm Fast,Capped,
+124,HV Patel,SRH,2025,f986ca1a,Harshal Patel,8.0,No,No,India,34,All-Rounder,RHB,Right Arm Fast Medium,Capped,2.0
+125,JD Unadkat,SRH,2025,1e66c162,Jaydev Unadkat,1.0,No,No,India,33,Bowler,RHB,Left Arm Fast Medium,Capped,1.0
+126,E Malinga,SRH,2025,5750bcb4,Eshan Malinga,1.2,No,No,Sri Lanka,24,Bowler,LHB,Right Arm Fast,Uncapped,0.3
+127,Harsh Dubey,SRH,2025,25228673,Harsh Dubey,0.3,Yes,No,India,22,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,0.3
+128,PD Salt,RCB,2025,3d284ca3,Phil Salt,11.5,No,No,England,28,Wicketkeeper,RHB,-,Capped,2.0
+129,V Kohli,RCB,2025,ba607b88,Virat Kohli,21.0,No,Yes,India,36,Batsman,RHB,-,Capped,
+130,MA Agarwal,RCB,2025,00ea847a,Mayank Agarwal,1.0,Yes,No,India,34,Batsman,RHB,Right Arm Off Spin,Capped,1.0
+131,RM Patidar,RCB,2025,c740ea83,Rajat Patidar,11.0,No,Yes,India,31,Batsman,RHB,-,Capped,
+132,JM Sharma,RCB,2025,800d2d97,Jitesh Sharma,11.0,No,No,India,31,Wicketkeeper,RHB,-,Capped,1.0
+133,R Shepherd,RCB,2025,c5aef772,Romario Shepherd,1.5,No,No,West Indies,30,All-Rounder,RHB,Right Arm Fast,Capped,1.5
+134,KH Pandya,RCB,2025,5b8c830e,Krunal Pandya,5.75,No,No,India,34,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,2.0
+135,TH David,RCB,2025,f1f99156,Tim David,3.0,No,No,Australia,29,All-Rounder,RHB,Right Arm Off Spin,Capped,2.0
+136,B Kumar,RCB,2025,2e81a32d,Bhuvneshwar Kumar,10.75,No,No,India,35,Bowler,RHB,Right Arm Fast Medium,Capped,2.0
+137,Yash Dayal,RCB,2025,7210d461,Yash Dayal,5.0,No,Yes,India,26,Bowler,LHB,Left Arm Fast Medium,Uncapped,
+138,L Ngidi,RCB,2025,f834dcfc,Lungi Ngidi,1.0,No,No,South Africa,29,Bowler,RHB,Right Arm Fast Medium,Capped,1.0
+139,Suyash Sharma,RCB,2025,9440ef41,Suyash Sharma,2.6,No,No,India,21,Bowler,RHB,Right Arm Leg Spin,Uncapped,0.3
+140,JC Buttler,RR,2022,99b75528,Jos Buttler,10.0,No,Yes,England,31,Wicketkeeper,RHB,-,Capped,
+141,D Padikkal,RR,2022,2c25d4f5,Devdutt Padikkal,7.75,No,No,India,21,Batsman,LHB,Right Arm Off Spin,Capped,2.0
+142,SV Samson,RR,2022,a4cc73aa,Sanju Samson,14.0,No,Yes,India,27,Wicketkeeper,RHB,-,Capped,
+143,DJ Mitchell,RR,2022,eade4650,Daryl Mitchell,0.75,No,No,New Zealand,30,All-Rounder,RHB,Right Arm Medium,Capped,0.75
+144,SO Hetmyer,RR,2022,48a1d7b7,Shimron Hetmyer,8.5,No,No,West Indies,25,Batsman,LHB,Right Arm Leg Spin,Capped,1.5
+145,R Parag,RR,2022,04a418e8,Riyan Parag,3.8,No,No,India,20,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.3
+146,R Ashwin,RR,2022,495d42a5,Ravichandran Ashwin,5.0,No,No,India,35,All-Rounder,RHB,Right Arm Off Spin,Capped,2.0
+147,TA Boult,RR,2022,a818c1be,Trent Boult,8.0,No,No,New Zealand,32,Bowler,RHB,Left Arm Fast Medium,Capped,2.0
+148,M Prasidh Krishna,RR,2022,85e0cf10,Prasidh Krishna,10.0,No,No,India,26,Bowler,RHB,Right Arm Fast,Capped,1.0
+149,YS Chahal,RR,2022,57ee1fde,Yuzvendra Chahal,6.5,No,No,India,31,Bowler,RHB,Right Arm Leg Spin,Capped,2.0
+150,KR Sen,RR,2022,2e78f685,Kuldeep Sen,0.2,No,No,India,25,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.2
+151,TH David,MI,2022,f1f99156,Tim David,8.25,No,No,Australia,26,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.4
+152,DR Sams,MI,2022,caf69bf7,Daniel Sams,2.6,No,No,Australia,29,All-Rounder,RHB,Left Arm Fast Medium,Capped,1.0
+153,HR Shokeen,MI,2022,0c9652b0,Hrithik Shokeen,0.2,No,No,India,21,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.2
+154,K Kartikeya,MI,2022,f6d8a7ab,Kumar Kartikeya,0.2,Yes,No,India,24,All-Rounder,RHB,Left Arm Slow Orthodox,Uncapped,0.2
+155,RP Meredith,MI,2022,64775749,Riley Meredith,1.0,No,No,Australia,25,Bowler,RHB,Right Arm Fast,Capped,1.0
+156,M Siddharth,LSG,2025,cf0ccafa,Manimaran Siddharth,0.75,No,No,India,26,Bowler,RHB,Left Arm Slow Orthodox,Uncapped,0.3
+157,AK Markram,LSG,2025,6a26221c,Aiden Markram,2.0,No,No,South Africa,30,Batsman,RHB,Right Arm Off Spin,Capped,2.0
+158,MR Marsh,LSG,2025,3d8feaf8,Mitchell Marsh,3.4,No,No,Australia,33,All-Rounder,RHB,Right Arm Fast,Capped,2.0
+159,N Pooran,LSG,2025,3241e3fd,Nicholas Pooran,21.0,No,Yes,West Indies,29,Wicketkeeper,LHB,-,Capped,
+160,RR Pant,LSG,2025,919a3be2,Rishabh Pant,27.0,No,No,India,27,Batsman,LHB,Right Arm Off Spin,Capped,2.0
+161,A Badoni,LSG,2025,872b03f7,Ayush Badoni,4.0,No,Yes,India,24,All-Rounder,RHB,Right Arm Off Spin,Uncapped,
+162,DA Miller,LSG,2025,d67d5f00,David Miller,7.5,No,No,South Africa,35,Batsman,LHB,-,Capped,1.5
+163,Abdul Samad,LSG,2025,8e514b4c,Abdul Samad,4.2,No,No,India,23,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,0.3
+164,SN Thakur,LSG,2025,1abb78f8,Shardul Thakur,2.0,Yes,No,India,33,All-Rounder,RHB,Right Arm Fast Medium,Capped,2.0
+165,Avesh Khan,LSG,2025,eef2536f,Avesh Khan,9.75,No,No,India,28,Bowler,RHB,Right Arm Fast,Capped,2.0
+166,Ravi Bishnoi,LSG,2025,df064e1a,Ravi Bishnoi,11.0,No,Yes,India,24,Bowler,RHB,Right Arm Leg Spin,Capped,
+167,Digvesh Singh,LSG,2025,13fc5c6d,Digvesh Singh,0.3,No,No,India,25,Bowler,RHB,Right Arm Leg Spin,Uncapped,0.3
+168,YS Chahal,PBKS,2025,57ee1fde,Yuzvendra Chahal,18.0,No,No,India,34,Bowler,RHB,Right Arm Leg Spin,Capped,2.0
+169,Priyansh Arya,PBKS,2025,b5797845,Priyansh Arya,3.8,No,No,India,23,All-Rounder,LHB,Right Arm Off Spin,Uncapped,0.3
+170,P Simran Singh,PBKS,2025,9418198b,Arshdeep Singh,18.0,No,No,India,26,Bowler,LHB,Left Arm Fast Medium,Capped,2.0
+171,SS Iyer,PBKS,2025,85ec8e33,Shreyas Iyer,26.75,No,No,India,30,Batsman,RHB,Right Arm Off Spin,Capped,2.0
+172,N Wadhera,PBKS,2025,d1a60072,Nehal Wadhera,4.2,No,No,India,24,Batsman,LHB,Right Arm Leg Spin,Uncapped,0.3
+173,GJ Maxwell,PBKS,2025,b681e71e,Glenn Maxwell,4.2,No,No,Australia,36,All-Rounder,RHB,Right Arm Off Spin,Capped,2.0
+174,MP Stoinis,PBKS,2025,d9273ee7,Marcus Stoinis,11.0,No,No,Australia,35,All-Rounder,RHB,Right Arm Fast,Capped,2.0
+175,Shashank Singh,PBKS,2025,26989d80,Shashank Singh,5.5,No,Yes,India,33,All-Rounder,LHB,Right Arm Off Spin,Capped,
+176,Suryansh Shedge,PBKS,2025,970ddd24,Suryansh Shedge,0.3,No,No,India,22,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.3
+177,M Jansen,PBKS,2025,81c36ee9,Marco Jansen,7.0,No,No,South Africa,24,All-Rounder,RHB,Left Arm Fast,Capped,1.25
+178,LH Ferguson,PBKS,2025,2f9d0389,Lockie Ferguson,2.0,No,No,New Zealand,33,Bowler,RHB,Right Arm Fast,Capped,2.0
+179,Arshdeep Singh,PBKS,2025,244048f6,Arshdeep Singh,18.0,No,No,India,26,Bowler,LHB,Left Arm Fast Medium,Capped,2.0
+180,K Yadav,RR,2023,030f3089,Kuldip Yadav,0.2,No,Yes,India,26,Bowler,RHB,Left Arm Fast Medium,Uncapped,
+181,YBK Jaiswal,RR,2023,6c19c6e5,Yashasvi Jaiswal,4.0,No,Yes,India,21,Batsman,LHB,-,Uncapped,
+182,JC Buttler,RR,2023,99b75528,Jos Buttler,10.0,No,Yes,England,32,Wicketkeeper,RHB,-,Capped,
+183,SV Samson,RR,2023,a4cc73aa,Sanju Samson,14.0,No,Yes,India,28,Wicketkeeper,RHB,-,Capped,
+184,SO Hetmyer,RR,2023,48a1d7b7,Shimron Hetmyer,8.5,No,Yes,West Indies,25,Batsman,LHB,-,Capped,
+185,Dhruv Jurel,RR,2023,bcf325d2,Dhruv Jurel,0.2,No,Yes,India,21,Wicketkeeper,RHB,-,Uncapped,
+186,D Padikkal,RR,2023,2c25d4f5,Devdutt Padikkal,7.75,No,Yes,India,22,Batsman,LHB,-,Capped,
+187,R Ashwin,RR,2023,495d42a5,Ravichandran Ashwin,5.0,No,Yes,India,36,All-Rounder,RHB,Right Arm Off Spin,Capped,
+188,JO Holder,RR,2023,0f721006,Jason Holder,5.75,No,No,West Indies,31,All-Rounder,RHB,Right Arm Fast,Capped,2.0
+189,Sandeep Sharma,RR,2023,ce820073,Sandeep Sharma,0.5,Yes,No,India,29,Bowler,RHB,Right Arm Fast Medium,Capped,0.5
+190,YS Chahal,RR,2023,57ee1fde,Yuzvendra Chahal,6.5,No,Yes,India,32,Bowler,RHB,Right Arm Leg Spin,Capped,
+191,A Zampa,RR,2023,14f96089,Adam Zampa,1.5,No,No,Australia,30,Bowler,RHB,Right Arm Leg Spin,Capped,1.5
+192,SN Thakur,CSK,2024,1abb78f8,Shardul Thakur,4.0,No,No,India,32,All-Rounder,RHB,Right Arm Fast Medium,Capped,2.0
+193,AM Rahane,CSK,2024,29e95537,Ajinkya Rahane,0.5,No,Yes,India,35,Batsman,RHB,-,Capped,
+194,RD Gaikwad,CSK,2024,45a43fe2,Ruturaj Gaikwad,8.0,No,Yes,India,26,Batsman,RHB,-,Capped,
+195,DJ Mitchell,CSK,2024,eade4650,Daryl Mitchell,14.0,No,No,New Zealand,32,All-Rounder,RHB,Right Arm Fast Medium,Capped,1.0
+196,RA Jadeja,CSK,2024,fe93fd9d,Ravindra Jadeja,16.0,No,Yes,India,35,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+197,S Dube,CSK,2024,a4e37e47,Shivam Dube,4.0,No,Yes,India,30,All-Rounder,LHB,Right Arm Medium,Capped,
+198,MS Dhoni,CSK,2024,4a8a2e3b,MS Dhoni,12.0,No,Yes,India,42,Wicketkeeper,RHB,-,Capped,
+199,MM Ali,CSK,2024,bb351c23,Moeen Ali,6.0,No,Yes,England,36,All-Rounder,LHB,Right Arm Off Spin,Capped,
+200,DL Chahar,CSK,2024,23eeb873,Deepak Chahar,14.0,No,Yes,India,31,Bowler,RHB,Right Arm Fast Medium,Capped,
+201,TU Deshpande,CSK,2024,46a9bea1,Tushar Deshpande,0.2,No,Yes,India,28,Bowler,LHB,Right Arm Medium,Uncapped,
+202,Mustafizur Rahman,CSK,2024,0a8fce53,Mustafizur Rahman,2.0,No,No,Bangladesh,28,Bowler,LHB,Left Arm Fast Medium,Capped,2.0
+203,M Pathirana,CSK,2024,64839cb3,Matheesha Pathirana,0.2,No,Yes,Sri Lanka,21,Bowler,RHB,Right Arm Fast,Capped,
+204,Yash Thakur,LSG,2024,4b31f3a3,Yash Thakur,0.45,No,Yes,India,24,Bowler,RHB,Right Arm Fast Medium,Uncapped,
+205,Q de Kock,LSG,2024,372455c4,Quinton de Kock,6.75,No,Yes,South Africa,31,Wicketkeeper,LHB,-,Capped,
+206,KL Rahul,LSG,2024,b17e2f24,KL Rahul,17.0,No,Yes,India,31,Wicketkeeper,RHB,-,Capped,
+207,MP Stoinis,LSG,2024,d9273ee7,Marcus Stoinis,10.0,No,Yes,Australia,34,All-Rounder,RHB,Right Arm Medium,Capped,
+208,D Padikkal,LSG,2024,2c25d4f5,Devdutt Padikkal,7.75,No,No,India,23,Batsman,LHB,-,Capped,0.0
+209,N Pooran,LSG,2024,3241e3fd,Nicholas Pooran,16.0,No,Yes,West Indies,28,Wicketkeeper,LHB,-,Capped,
+210,DJ Hooda,LSG,2024,73ad96ed,Deepak Hooda,5.75,No,Yes,India,28,All-Rounder,RHB,Right Arm Off Spin,Capped,
+211,A Badoni,LSG,2024,872b03f7,Ayush Badoni,0.2,No,Yes,India,24,All-Rounder,RHB,Right Arm Off Spin,Uncapped,
+212,KH Pandya,LSG,2024,5b8c830e,Krunal Pandya,8.25,No,Yes,India,32,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+213,MJ Henry,LSG,2024,e84ac20c,Matt Henry,1.25,Yes,No,New Zealand,32,Bowler,RHB,Right Arm Fast,Capped,0.75
+214,Ravi Bishnoi,LSG,2024,df064e1a,Ravi Bishnoi,4.0,No,Yes,India,23,Bowler,RHB,Right Arm Leg Spin,Capped,
+215,Mohsin Khan,LSG,2024,c33d8116,Mohsin Khan,0.2,No,Yes,India,25,Bowler,LHB,Left Arm Fast Medium,Uncapped,
+216,VG Arora,KKR,2024,7c3b3b78,Vaibhav Arora,0.6,No,Yes,India,26,Bowler,RHB,Right Arm Fast Medium,Uncapped,
+217,PD Salt,KKR,2024,3d284ca3,Phil Salt,1.5,Yes,No,England,27,Wicketkeeper,RHB,Right Arm Medium,Capped,1.5
+218,SP Narine,KKR,2024,9d430b40,Sunil Narine,6.0,No,Yes,West Indies,35,All-Rounder,LHB,Right Arm Off Spin,Capped,
+219,VR Iyer,KKR,2024,a24be938,Venkatesh Iyer,8.0,No,Yes,India,29,All-Rounder,LHB,Right Arm Medium,Capped,
+220,SS Iyer,KKR,2024,85ec8e33,Shreyas Iyer,12.25,No,Yes,India,29,Batsman,RHB,-,Capped,
+221,N Rana,KKR,2024,fb2d1dda,Nitish Rana,8.0,No,Yes,India,29,All-Rounder,LHB,Right Arm Off Spin,Capped,
+222,AD Russell,KKR,2024,bbd41817,Andre Russell,16.0,No,Yes,West Indies,35,All-Rounder,RHB,Right Arm Fast,Capped,
+223,RK Singh,KKR,2024,0a509d6b,Rinku Singh,0.55,No,Yes,India,26,Batsman,LHB,-,Capped,
+224,Ramandeep Singh,KKR,2024,be24ead0,Ramandeep Singh,0.2,No,No,India,26,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.2
+225,MA Starc,KKR,2024,3fb19989,Mitchell Starc,24.75,No,No,Australia,34,Bowler,LHB,Left Arm Fast,Capped,2.0
+226,Harshit Rana,KKR,2024,77b1aa15,Harshit Rana,0.2,No,Yes,India,21,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,
+227,Varun Chakravarthy,KKR,2024,5b7ab5a9,Varun Chakaravarthy,12.0,No,Yes,India,32,Bowler,RHB,Right Arm Leg Spin,Capped,
+228,N Thushara,MI,2024,ee1b6c27,Nuwan Thushara,4.8,No,No,Sri Lanka,29,Bowler,RHB,Right Arm Fast Medium,Capped,0.5
+229,Ishan Kishan,MI,2024,752f7486,Ishan Kishan,15.25,No,Yes,India,25,Wicketkeeper,LHB,-,Capped,
+230,RG Sharma,MI,2024,740742ef,Rohit Sharma,16.0,No,Yes,India,36,Batsman,RHB,-,Capped,
+231,SA Yadav,MI,2024,271f83cd,Suryakumar Yadav,8.0,No,Yes,India,33,Batsman,RHB,-,Capped,
+232,Tilak Varma,MI,2024,b0482a1d,Tilak Varma,1.7,No,Yes,India,21,All-Rounder,LHB,Right Arm Off Spin,Capped,
+233,HH Pandya,MI,2024,dbe50b21,Hardik Pandya,15.0,No,No,India,30,All-Rounder,RHB,Right Arm Fast Medium,Capped,0.0
+234,TH David,MI,2024,f1f99156,Tim David,8.25,No,Yes,Australia,27,All-Rounder,RHB,Right Arm Off Spin,Capped,
+235,N Wadhera,MI,2024,d1a60072,Nehal Wadhera,0.2,No,Yes,India,23,All-Rounder,LHB,Right Arm Leg Spin,Uncapped,
+236,Naman Dhir,MI,2024,fffa744b,Naman Dhir,0.2,No,No,India,24,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.2
+237,A Kamboj,MI,2024,fcc21ace,Anshul Kamboj,0.2,No,No,India,23,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.2
+238,PP Chawla,MI,2024,98ae73b1,Piyush Chawla,0.5,No,Yes,India,34,Bowler,LHB,Right Arm Leg Spin,Capped,
+239,JJ Bumrah,MI,2024,462411b3,Jasprit Bumrah,12.0,No,Yes,India,30,Bowler,RHB,Right Arm Fast,Capped,
+240,RV Uthappa,CSK,2022,1c17e270,Robin Uthappa,2.0,No,No,India,36,Batsman,RHB,-,Capped,2.0
+241,RD Gaikwad,CSK,2022,45a43fe2,Ruturaj Gaikwad,6.0,No,Yes,India,25,Batsman,RHB,-,Capped,
+242,MM Ali,CSK,2022,bb351c23,Moeen Ali,8.0,No,Yes,England,34,All-Rounder,LHB,Right Arm Off Spin,Capped,
+243,S Dube,CSK,2022,a4e37e47,Shivam Dube,4.0,No,No,India,28,All-Rounder,LHB,Right Arm Fast Medium,Capped,0.5
+244,AT Rayudu,CSK,2022,70d205c9,Ambati Rayudu,6.75,No,No,India,36,Wicketkeeper,RHB,-,Capped,2.0
+245,RA Jadeja,CSK,2022,fe93fd9d,Ravindra Jadeja,16.0,No,Yes,India,33,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+246,MS Dhoni,CSK,2022,4a8a2e3b,MS Dhoni,12.0,No,Yes,India,40,Wicketkeeper,RHB,-,Capped,
+247,D Pretorius,CSK,2022,11614d87,Dwaine Pretorius,0.5,No,No,South Africa,33,All-Rounder,RHB,Right Arm Fast Medium,Capped,0.5
+248,DJ Bravo,CSK,2022,87e562a9,Dwayne Bravo,4.4,No,No,West Indies,38,All-Rounder,RHB,Right Arm Fast Medium,Capped,2.0
+249,TU Deshpande,CSK,2022,46a9bea1,Tushar Deshpande,0.2,No,No,India,26,Bowler,LHB,Right Arm Fast,Uncapped,0.2
+250,Mukesh Choudhary,CSK,2022,765a4731,Mukesh Choudhary,0.2,No,No,India,25,Bowler,LHB,Left Arm Fast,Uncapped,0.2
+251,KL Rahul,LSG,2022,b17e2f24,KL Rahul,17.0,No,Yes,India,29,Wicketkeeper,RHB,-,Capped,
+252,Q de Kock,LSG,2022,372455c4,Quinton de Kock,6.75,No,No,South Africa,29,Wicketkeeper,LHB,-,Capped,2.0
+253,MK Pandey,LSG,2022,93b4fc78,Manish Pandey,4.6,No,No,India,32,Batsman,RHB,Right Arm Off Spin,Capped,1.0
+254,E Lewis,LSG,2022,0ebfb1ad,Evin Lewis,2.0,No,No,West Indies,30,Batsman,LHB,-,Capped,2.0
+255,DJ Hooda,LSG,2022,73ad96ed,Deepak Hooda,5.75,No,No,India,26,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.4
+256,A Badoni,LSG,2022,872b03f7,Ayush Badoni,0.2,No,No,India,22,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.2
+257,KH Pandya,LSG,2022,5b8c830e,Krunal Pandya,8.25,No,No,India,31,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,2.0
+258,PVD Chameera,LSG,2022,327b58d3,Dushmantha Chameera,2.0,No,No,Sri Lanka,30,Bowler,RHB,Right Arm Fast,Capped,0.5
+259,AJ Tye,LSG,2022,7c7d63a2,Andrew Tye,1.5,Yes,No,Australia,35,Bowler,RHB,Right Arm Fast Medium,Capped,1.0
+260,Ravi Bishnoi,LSG,2022,df064e1a,Ravi Bishnoi,4.0,No,Yes,India,21,Bowler,RHB,Right Arm Leg Spin,Uncapped,
+261,Avesh Khan,LSG,2022,eef2536f,Avesh Khan,10.0,No,No,India,25,Bowler,RHB,Right Arm Fast,Uncapped,0.2
+262,PK Garg,SRH,2022,bb965e9a,Priyam Garg,0.2,No,No,India,21,Batsman,RHB,Right Arm Off Spin,Uncapped,0.2
+263,R Shepherd,SRH,2022,c5aef772,Romario Shepherd,7.75,No,No,West Indies,27,All-Rounder,RHB,Right Arm Fast Medium,Capped,0.75
+264,J Suchith,SRH,2022,4125d931,Jagadeesha Suchith,0.2,No,No,India,28,Bowler,LHB,Left Arm Slow Orthodox,Uncapped,0.2
+265,Fazalhaq Farooqi,SRH,2022,e9c7f0d0,Fazalhaq Farooqi,0.5,No,No,Afghanistan,21,Bowler,RHB,Left Arm Fast Medium,Capped,0.5
+266,PN Mankad,PBKS,2022,663b5e34,Prerak Mankad,0.2,No,No,India,27,All-Rounder,RHB,Right Arm Medium,Uncapped,0.2
+267,Harpreet Brar,PBKS,2022,c05edf8e,Harpreet Brar,3.8,No,No,India,26,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,0.2
+268,NT Ellis,PBKS,2022,9eb1455b,Nathan Ellis,0.75,No,No,Australia,27,Bowler,RHB,Right Arm Fast Medium,Capped,0.75
+269,WG Jacks,MI,2025,9caf69a1,Will Jacks,5.25,No,No,England,26,All-Rounder,RHB,Right Arm Off Spin,Capped,2.0
+270,C Bosch,MI,2025,172dff15,Corbin Bosch,0.75,Yes,No,South Africa,30,All-Rounder,RHB,Right Arm Fast,Uncapped,0.3
+271,KV Sharma,MI,2025,119678fd,Karn Sharma,0.5,No,No,India,37,Bowler,LHB,Right Arm Leg Spin,Uncapped,0.5
+272,JJ Bumrah,MI,2025,462411b3,Jasprit Bumrah,18.0,No,Yes,India,30,Bowler,RHB,Right Arm Fast,Capped,
+273,Ashwani Kumar,MI,2025,d45c29b1,Ashwani Kumar,0.3,No,No,India,23,Bowler,LHB,Left Arm Fast,Uncapped,0.3
+274,G Coetzee,GT,2025,3204c99f,Gerald Coetzee,2.4,No,No,South Africa,24,Bowler,RHB,Right Arm Fast,Capped,1.25
+275,Arshad Khan,GT,2025,12314277,Arshad Khan,1.3,No,No,India,27,All-Rounder,LHB,Left Arm Fast Medium,Uncapped,0.3
+276,Navdeep Saini,RR,2023,21d4e29b,Navdeep Saini,2.6,No,Yes,India,30,Bowler,RHB,Right Arm Fast,Capped,
+277,R Parag,RR,2023,04a418e8,Riyan Parag,3.8,No,Yes,India,21,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,
+278,TA Boult,RR,2023,a818c1be,Trent Boult,8.0,No,Yes,New Zealand,33,Bowler,RHB,Left Arm Fast,Capped,
+279,KM Asif,RR,2023,798cc28e,KM Asif,0.3,No,No,India,29,Bowler,RHB,Right Arm Fast,Uncapped,0.3
+280,Fazalhaq Farooqi,SRH,2023,e9c7f0d0,Fazalhaq Farooqi,0.5,No,Yes,Afghanistan,22,Bowler,RHB,Left Arm Fast Medium,Capped,
+281,Abhishek Sharma,SRH,2023,f29185a1,Abhishek Sharma,6.5,No,Yes,India,22,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,
+282,MA Agarwal,SRH,2023,00ea847a,Mayank Agarwal,8.25,No,No,India,32,Batsman,RHB,Right Arm Off Spin,Capped,1.0
+283,RA Tripathi,SRH,2023,77255a9e,Rahul Tripathi,8.5,No,Yes,India,31,Batsman,RHB,-,Capped,
+284,HC Brook,SRH,2023,4ae1755b,Harry Brook,13.25,No,No,England,24,Batsman,RHB,Right Arm Medium,Capped,1.5
+285,Washington Sundar,SRH,2023,f19ccfad,Washington Sundar,8.75,No,Yes,India,23,All-Rounder,LHB,Right Arm Off Spin,Capped,
+286,GD Phillips,SRH,2023,9a46c4e5,Glenn Phillips,1.5,No,Yes,New Zealand,26,Wicketkeeper,RHB,-,Capped,
+287,Abdul Samad,SRH,2023,8e514b4c,Abdul Samad,4.0,No,Yes,India,21,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,
+288,AU Rashid,SRH,2023,249d60c9,Adil Rashid,2.0,No,No,England,35,Bowler,RHB,Right Arm Leg Spin,Capped,2.0
+289,B Kumar,SRH,2023,2e81a32d,Bhuvneshwar Kumar,4.2,No,Yes,India,32,Bowler,RHB,Right Arm Fast Medium,Capped,
+290,Umran Malik,SRH,2023,81c08fa3,Umran Malik,4.0,No,Yes,India,23,Bowler,RHB,Right Arm Fast,Capped,
+291,T Natarajan,SRH,2023,ce794613,T Natarajan,4.0,No,Yes,India,31,Bowler,LHB,Left Arm Fast Medium,Capped,
+292,Noor Ahmad,GT,2023,efc04be7,Noor Ahmad,0.3,No,Yes,Afghanistan,17,Bowler,RHB,Left Arm Slow Unorthodox,Capped,
+293,WP Saha,GT,2023,fe11caa6,Wriddhiman Saha,1.9,No,Yes,India,38,Wicketkeeper,RHB,-,Capped,
+294,Shubman Gill,GT,2023,b4b99816,Shubman Gill,8.0,No,Yes,India,23,Batsman,RHB,-,Capped,
+295,B Sai Sudharsan,GT,2023,d5130a30,Sai Sudharsan,0.2,No,Yes,India,21,Batsman,LHB,-,Uncapped,
+296,HH Pandya,GT,2023,dbe50b21,Hardik Pandya,15.0,No,Yes,India,29,All-Rounder,RHB,Right Arm Fast Medium,Capped,
+297,DA Miller,GT,2023,d67d5f00,David Miller,3.0,No,Yes,South Africa,33,Batsman,LHB,-,Capped,
+298,A Manohar,GT,2023,0890552f,Abhinav Manohar,2.6,No,Yes,India,28,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,
+299,R Tewatia,GT,2023,39a2dfa8,Rahul Tewatia,9.0,No,Yes,India,29,All-Rounder,LHB,Right Arm Leg Spin,Capped,
+300,Rashid Khan,GT,2023,5f547c8b,Rashid Khan,15.0,No,Yes,Afghanistan,24,Bowler,RHB,Right Arm Leg Spin,Capped,
+301,AS Joseph,GT,2023,b0946605,Alzarri Joseph,2.4,No,Yes,West Indies,26,Bowler,RHB,Right Arm Fast,Capped,
+302,Mohammed Shami,GT,2023,8cf9814c,Mohammed Shami,6.25,No,Yes,India,32,Bowler,RHB,Right Arm Fast,Capped,
+303,MM Sharma,GT,2023,759ac88f,Mohit Sharma,0.5,No,No,India,34,Bowler,RHB,Right Arm Fast Medium,Capped,0.5
+304,Rasikh Dar,DC,2024,b8527c3d,Rasikh Dar,0.2,No,No,India,24,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.2
+305,PP Shaw,DC,2024,8b3e9c7c,Prithvi Shaw,8.0,No,Yes,India,24,Batsman,RHB,-,Capped,
+306,DA Warner,DC,2024,dcce6f09,David Warner,6.25,No,Yes,Australia,37,Batsman,LHB,-,Capped,
+307,RR Pant,DC,2024,919a3be2,Rishabh Pant,16.0,No,Yes,India,26,Wicketkeeper,LHB,-,Capped,
+308,MR Marsh,DC,2024,3d8feaf8,Mitchell Marsh,6.5,No,Yes,Australia,32,All-Rounder,RHB,Right Arm Fast Medium,Capped,
+309,T Stubbs,DC,2024,85b3fab2,Tristan Stubbs,0.5,No,No,South Africa,23,Wicketkeeper,RHB,Right Arm Off Spin,Capped,0.5
+310,AR Patel,DC,2024,2e171977,Axar Patel,12.0,No,Yes,India,29,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+311,Abishek Porel,DC,2024,ad3b6e95,Abishek Porel,0.2,No,Yes,India,21,Wicketkeeper,LHB,-,Uncapped,
+312,A Nortje,DC,2024,acdc62f5,Anrich Nortje,6.5,No,Yes,South Africa,30,Bowler,RHB,Right Arm Fast,Capped,
+313,Mukesh Kumar,DC,2024,2cffab74,Mukesh Kumar,5.5,No,Yes,India,30,Bowler,RHB,Right Arm Fast Medium,Capped,
+314,I Sharma,DC,2024,5bb1a1c4,Ishant Sharma,0.5,No,Yes,India,35,Bowler,RHB,Right Arm Fast Medium,Capped,
+315,KK Ahmed,DC,2024,a2f46292,Khaleel Ahmed,5.25,No,Yes,India,26,Bowler,RHB,Left Arm Fast Medium,Capped,
+316,R Ravindra,CSK,2024,ba5e1069,Rachin Ravindra,1.8,No,No,New Zealand,24,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,0.5
+317,Sameer Rizvi,CSK,2024,f89d3b11,Sameer Rizvi,8.4,No,No,India,20,Batsman,RHB,Right Arm Leg Spin,Uncapped,0.2
+318,V Shankar,GT,2023,0994d0ae,Vijay Shankar,1.4,No,Yes,India,31,All-Rounder,RHB,Right Arm Medium,Capped,
+319,J Little,GT,2023,9061a703,Joshua Little,4.4,No,No,Ireland,23,Bowler,RHB,Left Arm Fast,Capped,0.5
+320,DL Chahar,CSK,2023,23eeb873,Deepak Chahar,14.0,No,Yes,India,30,Bowler,RHB,Right Arm Fast Medium,Capped,
+321,KK Ahmed,DC,2023,a2f46292,Khaleel Ahmed,5.25,No,Yes,India,25,Bowler,RHB,Left Arm Fast Medium,Capped,
+322,DA Warner,DC,2023,dcce6f09,David Warner,6.25,No,Yes,Australia,36,Batsman,LHB,-,Capped,
+323,PP Shaw,DC,2023,8b3e9c7c,Prithvi Shaw,8.0,No,Yes,India,23,Batsman,RHB,-,Capped,
+324,MR Marsh,DC,2023,3d8feaf8,Mitchell Marsh,6.5,No,Yes,Australia,31,All-Rounder,RHB,Right Arm Fast Medium,Capped,
+325,SN Khan,DC,2023,f088b960,Sarfaraz Khan,0.2,No,Yes,India,25,Batsman,RHB,-,Uncapped,
+326,RR Rossouw,DC,2023,cad00a4d,Rilee Rossouw,4.6,No,No,South Africa,33,Batsman,LHB,-,Capped,2.0
+327,Abishek Porel,DC,2023,ad3b6e95,Abishek Porel,0.2,Yes,No,India,20,Wicketkeeper,LHB,-,Uncapped,0.2
+328,AR Patel,DC,2023,2e171977,Axar Patel,12.0,No,Yes,India,28,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+329,Aman Hakim Khan,DC,2023,378daa89,Aman Khan,0.2,No,Yes,India,26,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,
+330,Kuldeep Yadav,DC,2023,8d2c70ad,Kuldeep Yadav,2.0,No,Yes,India,28,Bowler,LHB,Left Arm Slow Unorthodox,Capped,
+331,A Nortje,DC,2023,acdc62f5,Anrich Nortje,6.5,No,Yes,South Africa,29,Bowler,RHB,Right Arm Fast,Capped,
+332,Mukesh Kumar,DC,2023,2cffab74,Mukesh Kumar,5.5,No,No,India,29,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.2
+333,Yash Dayal,GT,2023,7210d461,Yash Dayal,3.2,No,Yes,India,25,Bowler,LHB,Left Arm Fast Medium,Uncapped,
+334,N Burger,RR,2024,465aa633,Nandre Burger,0.5,No,No,South Africa,28,Bowler,LHB,Left Arm Fast,Uncapped,0.2
+335,YBK Jaiswal,RR,2024,6c19c6e5,Yashasvi Jaiswal,4.0,No,Yes,India,21,Batsman,LHB,-,Capped,
+336,JC Buttler,RR,2024,99b75528,Jos Buttler,10.0,No,Yes,England,33,Wicketkeeper,RHB,-,Capped,
+337,SV Samson,RR,2024,a4cc73aa,Sanju Samson,14.0,No,Yes,India,29,Wicketkeeper,RHB,-,Capped,
+338,R Parag,RR,2024,04a418e8,Riyan Parag,3.8,No,Yes,India,22,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,
+339,R Ashwin,RR,2024,495d42a5,Ravichandran Ashwin,5.0,No,Yes,India,37,All-Rounder,RHB,Right Arm Off Spin,Capped,
+340,Dhruv Jurel,RR,2024,bcf325d2,Dhruv Jurel,0.2,No,Yes,India,22,Wicketkeeper,RHB,-,Uncapped,
+341,SO Hetmyer,RR,2024,48a1d7b7,Shimron Hetmyer,8.5,No,Yes,West Indies,26,Batsman,LHB,-,Capped,
+342,TA Boult,RR,2024,a818c1be,Trent Boult,8.0,No,Yes,New Zealand,34,Bowler,RHB,Left Arm Fast,Capped,
+343,Avesh Khan,RR,2024,eef2536f,Avesh Khan,10.0,No,No,India,27,Bowler,RHB,Right Arm Fast Medium,Capped,0.0
+344,Sandeep Sharma,RR,2024,ce820073,Sandeep Sharma,0.5,No,Yes,India,30,Bowler,RHB,Right Arm Medium,Capped,
+345,YS Chahal,RR,2024,57ee1fde,Yuzvendra Chahal,6.5,No,Yes,India,33,Bowler,RHB,Right Arm Leg Spin,Capped,
+346,RK Bhui,DC,2024,b63e358a,Ricky Bhui,0.2,No,No,India,27,Wicketkeeper,RHB,-,Uncapped,0.2
+347,Sumit Kumar,DC,2024,8998a68f,Sumit Kumar,1.0,No,No,India,28,All-Rounder,RHB,Right Arm Fast,Uncapped,0.2
+348,Kuldeep Yadav,DC,2024,8d2c70ad,Kuldeep Yadav,2.0,No,Yes,India,29,Bowler,LHB,Left Arm Slow Unorthodox,Capped,
+349,YBK Jaiswal,RR,2022,6c19c6e5,Yashasvi Jaiswal,4.0,No,Yes,India,20,Batsman,LHB,-,Uncapped,
+350,OC McCoy,RR,2022,529eb9e0,Obed McCoy,0.75,No,No,West Indies,25,Bowler,LHB,Left Arm Fast,Capped,0.75
+351,MS Wade,GT,2022,afa7e784,Matthew Wade,2.4,No,No,Australia,34,Wicketkeeper,LHB,-,Capped,2.0
+352,R Sai Kishore,GT,2022,c7a995d3,Sai Kishore,3.0,No,No,India,25,Bowler,LHB,Left Arm Slow Orthodox,Uncapped,0.2
+353,V Kohli,RCB,2022,ba607b88,Virat Kohli,15.0,No,Yes,India,33,Batsman,RHB,-,Capped,
+354,F du Plessis,RCB,2022,3355b542,Faf du Plessis,7.0,No,No,South Africa,37,Batsman,RHB,Right Arm Leg Spin,Capped,2.0
+355,RM Patidar,RCB,2022,c740ea83,Rajat Patidar,0.2,Yes,No,India,28,Batsman,RHB,Right Arm Off Spin,Uncapped,0.2
+356,GJ Maxwell,RCB,2022,b681e71e,Glenn Maxwell,11.0,No,Yes,Australia,33,All-Rounder,RHB,Right Arm Off Spin,Capped,
+357,KD Karthik,RCB,2022,c03f1114,Dinesh Karthik,5.5,No,No,India,36,Wicketkeeper,RHB,-,Capped,2.0
+358,MK Lomror,RCB,2022,da934ee8,Mahipal Lomror,0.95,No,No,India,22,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,0.4
+359,Shahbaz Ahmed,RCB,2022,f9e6e7ef,Shahbaz Ahmed,2.4,No,No,India,27,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,0.3
+360,Wanindu Hasaranga,RCB,2022,a97c8ec2,Wanindu Hasaranga,10.75,No,No,Sri Lanka,24,All-Rounder,RHB,Right Arm Leg Spin,Capped,1.0
+361,HV Patel,RCB,2022,f986ca1a,Harshal Patel,10.75,No,No,India,31,All-Rounder,RHB,Right Arm Fast Medium,Capped,2.0
+362,JR Hazlewood,RCB,2022,03806cf8,Josh Hazlewood,7.75,No,No,Australia,31,Bowler,LHB,Right Arm Fast,Capped,2.0
+363,Mohammed Siraj,RCB,2022,2f49c897,Mohammed Siraj,7.0,No,Yes,India,27,Bowler,RHB,Right Arm Fast,Capped,
+364,Kartik Tyagi,SRH,2022,5d2eea49,Kartik Tyagi,4.0,No,No,India,21,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.2
+365,VG Arora,KKR,2025,7c3b3b78,Vaibhav Arora,1.8,No,No,India,27,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.3
+366,Rahmanullah Gurbaz,KKR,2025,0bacade8,Rahmanullah Gurbaz,2.0,No,No,Afghanistan,23,Wicketkeeper,RHB,-,Capped,2.0
+367,SP Narine,KKR,2025,9d430b40,Sunil Narine,12.0,No,Yes,West Indies,36,All-Rounder,LHB,Right Arm Off Spin,Capped,
+368,AM Rahane,KKR,2025,29e95537,Ajinkya Rahane,1.5,No,No,India,36,Batsman,RHB,-,Capped,1.5
+369,A Raghuvanshi,KKR,2025,d7017798,Angkrish Raghuvanshi,3.0,No,No,India,20,Batsman,RHB,Right Arm Off Spin,Uncapped,0.3
+370,VR Iyer,KKR,2025,a24be938,Venkatesh Iyer,23.75,No,No,India,30,All-Rounder,LHB,Right Arm Medium,Capped,2.0
+371,RK Singh,KKR,2025,0a509d6b,Rinku Singh,13.0,No,Yes,India,27,Batsman,LHB,-,Capped,
+372,AD Russell,KKR,2025,bbd41817,Andre Russell,12.0,No,Yes,West Indies,36,All-Rounder,RHB,Right Arm Fast,Capped,
+373,R Powell,KKR,2025,650d5e49,Rovman Powell,1.5,No,No,West Indies,31,Batsman,RHB,Right Arm Fast Medium,Capped,1.5
+374,AS Roy,KKR,2025,e4cdf230,Anukul Roy,0.4,No,No,India,26,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,0.3
+375,Harshit Rana,KKR,2025,77b1aa15,Harshit Rana,4.0,No,Yes,India,22,All-Rounder,RHB,Right Arm Fast Medium,Capped,
+376,Varun Chakravarthy,KKR,2025,5b7ab5a9,Varun Chakaravarthy,12.0,No,Yes,India,33,Bowler,RHB,Right Arm Leg Spin,Capped,
+377,Mukesh Kumar,DC,2025,2cffab74,Mukesh Kumar,8.0,No,No,India,31,Bowler,RHB,Right Arm Fast Medium,Capped,2.0
+378,Abishek Porel,DC,2025,ad3b6e95,Abishek Porel,4.0,No,Yes,India,22,Wicketkeeper,LHB,-,Uncapped,
+379,F du Plessis,DC,2025,3355b542,Faf du Plessis,2.0,No,No,South Africa,40,Batsman,RHB,-,Capped,2.0
+380,KK Nair,DC,2025,944533a5,Karun Nair,0.5,No,No,India,33,Batsman,RHB,Right Arm Off Spin,Uncapped,0.3
+381,KL Rahul,DC,2025,b17e2f24,KL Rahul,14.0,No,No,India,32,Wicketkeeper,RHB,-,Capped,2.0
+382,AR Patel,DC,2025,2e171977,Axar Patel,16.5,No,Yes,India,30,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+383,T Stubbs,DC,2025,85b3fab2,Tristan Stubbs,10.0,No,Yes,South Africa,24,Wicketkeeper,RHB,Right Arm Off Spin,Capped,
+384,V Nigam,DC,2025,5ffc0565,Vipraj Nigam,0.5,No,No,India,20,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,0.3
+385,Ashutosh Sharma,DC,2025,84d9c311,Ashutosh Sharma,3.8,No,No,India,26,All-Rounder,RHB,Right Arm Medium,Uncapped,0.3
+386,MA Starc,DC,2025,3fb19989,Mitchell Starc,11.75,No,No,Australia,35,Bowler,LHB,Left Arm Fast,Capped,2.0
+387,PVD Chameera,DC,2025,327b58d3,Dushmantha Chameera,0.75,No,No,Sri Lanka,33,Bowler,RHB,Right Arm Fast,Capped,0.75
+388,Kuldeep Yadav,DC,2025,8d2c70ad,Kuldeep Yadav,13.25,No,Yes,India,29,Bowler,LHB,Left Arm Slow Unorthodox,Capped,
+389,A Mishra,LSG,2024,6b19d823,Amit Mishra,0.5,No,Yes,India,41,Bowler,RHB,Right Arm Leg Spin,Capped,
+390,R Powell,RR,2024,650d5e49,Rovman Powell,7.4,No,No,West Indies,30,Batsman,RHB,Right Arm Medium,Capped,1.0
+391,PP Shaw,DC,2022,8b3e9c7c,Prithvi Shaw,7.5,No,Yes,India,22,Batsman,RHB,-,Capped,
+392,DA Warner,DC,2022,dcce6f09,David Warner,6.25,No,No,Australia,35,Batsman,LHB,-,Capped,2.0
+393,RR Pant,DC,2022,919a3be2,Rishabh Pant,16.0,No,Yes,India,24,Wicketkeeper,LHB,-,Capped,
+394,Lalit Yadav,DC,2022,ad427b5c,Lalit Yadav,0.65,No,No,India,25,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.2
+395,R Powell,DC,2022,650d5e49,Rovman Powell,2.8,No,No,West Indies,28,Batsman,RHB,Right Arm Fast Medium,Capped,0.75
+396,AR Patel,DC,2022,2e171977,Axar Patel,9.0,No,Yes,India,28,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+397,SN Thakur,DC,2022,1abb78f8,Shardul Thakur,10.75,No,No,India,30,Bowler,RHB,Right Arm Fast Medium,Capped,2.0
+398,SN Khan,DC,2022,f088b960,Sarfaraz Khan,0.2,No,No,India,24,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,0.2
+399,Kuldeep Yadav,DC,2022,8d2c70ad,Kuldeep Yadav,2.0,No,No,India,27,Bowler,LHB,Left Arm Slow Unorthodox,Capped,1.0
+400,Mustafizur Rahman,DC,2022,0a8fce53,Mustafizur Rahman,2.0,No,No,Bangladesh,26,Bowler,LHB,Left Arm Fast Medium,Capped,2.0
+401,KK Ahmed,DC,2022,a2f46292,Khaleel Ahmed,5.25,No,No,India,24,Bowler,RHB,Left Arm Fast,Capped,0.5
+402,AM Rahane,KKR,2022,29e95537,Ajinkya Rahane,1.0,No,No,India,33,Batsman,RHB,-,Capped,1.0
+403,VR Iyer,KKR,2022,a24be938,Venkatesh Iyer,8.0,No,Yes,India,27,All-Rounder,LHB,Right Arm Medium,Capped,
+404,SS Iyer,KKR,2022,85ec8e33,Shreyas Iyer,12.25,No,No,India,27,Batsman,RHB,Right Arm Leg Spin,Capped,2.0
+405,N Rana,KKR,2022,fb2d1dda,Nitish Rana,8.0,No,No,India,28,All-Rounder,LHB,Right Arm Off Spin,Capped,1.0
+406,AD Russell,KKR,2022,bbd41817,Andre Russell,12.0,No,Yes,West Indies,33,All-Rounder,RHB,Right Arm Fast,Capped,
+407,SW Billings,KKR,2022,c16d4035,Sam Billings,2.0,No,No,England,30,Wicketkeeper,RHB,-,Capped,2.0
+408,PJ Cummins,KKR,2022,ded9240e,Pat Cummins,7.25,No,No,Australia,28,All-Rounder,RHB,Right Arm Fast,Capped,2.0
+409,SP Narine,KKR,2022,9d430b40,Sunil Narine,6.0,No,Yes,West Indies,33,Bowler,LHB,Right Arm Off Spin,Capped,
+410,UT Yadav,KKR,2022,cc1e8c68,Umesh Yadav,2.0,No,No,India,34,Bowler,RHB,Right Arm Fast,Capped,2.0
+411,Rasikh Dar,KKR,2022,b8527c3d,Rasikh Dar,0.2,No,No,India,22,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.2
+412,Varun Chakravarthy,KKR,2022,5b7ab5a9,Varun Chakravarthy,8.0,No,Yes,India,30,Bowler,RHB,Right Arm Leg Spin,Capped,
+413,Anuj Rawat,RCB,2022,c8f5f961,Anuj Rawat,3.4,No,No,India,22,Wicketkeeper,LHB,-,Uncapped,0.2
+414,SS Prabhudessai,RCB,2022,9385de2e,Suyash Prabhudessai,0.3,No,No,India,24,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.2
+415,MR Marsh,DC,2022,3d8feaf8,Mitchell Marsh,6.5,No,No,Australia,30,All-Rounder,RHB,Right Arm Fast Medium,Capped,2.0
+416,J Fraser-McGurk,DC,2024,9b6e1b3f,Jake Fraser-McGurk,0.5,Yes,No,Australia,21,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,0.2
+417,SD Hope,DC,2024,1fc6ef83,Shai Hope,0.75,No,No,West Indies,30,Wicketkeeper,RHB,-,Capped,0.75
+418,Gulbadin Naib,DC,2024,9f77963a,Gulbadin Naib,0.5,Yes,No,Afghanistan,32,All-Rounder,RHB,Right Arm Fast Medium,Capped,0.5
+419,SB Dubey,RR,2024,6b2ff18f,Shubham Dubey,5.8,No,No,India,29,Batsman,LHB,-,Uncapped,0.2
+420,D Ferreira,RR,2024,f0af99a7,Donovan Ferreira,0.5,No,Yes,South Africa,25,Wicketkeeper,RHB,-,Uncapped,
+421,RD Chahar,SRH,2025,2ed569a0,Rahul Chahar,3.2,No,No,India,25,Bowler,RHB,Right Arm Leg Spin,Capped,1.0
+422,Mohammed Shami,SRH,2025,8cf9814c,Mohammed Shami,10.0,No,No,India,34,Bowler,RHB,Right Arm Fast,Capped,2.0
+423,Zeeshan Ansari,SRH,2025,36619795,Zeeshan Ansari,0.4,No,No,India,25,Bowler,RHB,Right Arm Leg Spin,Uncapped,0.3
+424,Rahmanullah Gurbaz,KKR,2024,0bacade8,Rahmanullah Gurbaz,0.5,No,Yes,Afghanistan,22,Wicketkeeper,RHB,-,Capped,
+425,Akash Madhwal,MI,2023,4bd09374,Akash Madhwal,0.2,No,Yes,India,29,Bowler,RHB,Right Arm Fast Medium,Uncapped,
+426,Ishan Kishan,MI,2023,752f7486,Ishan Kishan,15.25,No,Yes,India,24,Wicketkeeper,LHB,-,Capped,
+427,RG Sharma,MI,2023,740742ef,Rohit Sharma,16.0,No,Yes,India,35,Batsman,RHB,-,Capped,
+428,SA Yadav,MI,2023,271f83cd,Suryakumar Yadav,8.0,No,Yes,India,32,Batsman,RHB,-,Capped,
+429,N Wadhera,MI,2023,d1a60072,Nehal Wadhera,0.2,No,No,India,22,All-Rounder,LHB,Right Arm Leg Spin,Uncapped,0.2
+430,Vishnu Vinod,MI,2023,0494fa6e,Vishnu Vinod,0.2,No,No,India,29,Wicketkeeper,RHB,-,Uncapped,0.2
+431,TH David,MI,2023,f1f99156,Tim David,8.25,No,Yes,Australia,26,All-Rounder,RHB,Right Arm Off Spin,Capped,
+432,C Green,MI,2023,eaa76d3c,Cameron Green,17.5,No,No,Australia,23,All-Rounder,RHB,Right Arm Fast,Capped,2.0
+433,CJ Jordan,MI,2023,ffe699c0,Chris Jordan,2.0,Yes,No,England,34,Bowler,RHB,Right Arm Fast Medium,Capped,2.0
+434,PP Chawla,MI,2023,98ae73b1,Piyush Chawla,0.5,No,No,India,34,Bowler,LHB,Right Arm Leg Spin,Capped,0.5
+435,JP Behrendorff,MI,2023,4933f499,Jason Behrendorff,0.75,No,Yes,Australia,32,Bowler,RHB,Left Arm Fast Medium,Capped,
+436,K Kartikeya,MI,2023,f6d8a7ab,Kumar Kartikeya,0.2,No,Yes,India,24,Bowler,RHB,Left Arm Slow Orthodox,Uncapped,
+437,NT Ellis,PBKS,2023,9eb1455b,Nathan Ellis,0.75,No,Yes,Australia,28,Bowler,RHB,Right Arm Fast Medium,Capped,
+438,P Simran Singh,PBKS,2023,9418198b,Arshdeep Singh,4.0,No,Yes,India,23,Bowler,LHB,Left Arm Fast Medium,Capped,
+439,S Dhawan,PBKS,2023,0a476045,Shikhar Dhawan,8.25,No,Yes,India,37,Batsman,LHB,-,Capped,
+440,PBB Rajapaksa,PBKS,2023,6c882e9a,Bhanuka Rajapaksa,0.5,No,Yes,Sri Lanka,31,Batsman,LHB,-,Capped,
+441,LS Livingstone,PBKS,2023,50c6bc2b,Liam Livingstone,11.5,No,Yes,England,29,All-Rounder,RHB,Right Arm Leg Spin,Capped,
+442,JM Sharma,PBKS,2023,800d2d97,Jitesh Sharma,0.2,No,Yes,India,29,Wicketkeeper,RHB,-,Uncapped,
+443,SM Curran,PBKS,2023,e94915e6,Sam Curran,18.5,No,No,England,24,All-Rounder,LHB,Left Arm Fast Medium,Capped,2.0
+444,R Dhawan,PBKS,2023,26a85969,Shikhar Dhawan,8.25,No,Yes,India,37,Batsman,LHB,-,Capped,
+445,Shahrukh Khan,PBKS,2023,7dcb9bc9,Shahrukh Khan,9.0,No,Yes,India,27,All-Rounder,RHB,Right Arm Off Spin,Uncapped,
+446,Harpreet Brar,PBKS,2023,c05edf8e,Harpreet Brar,3.8,No,Yes,India,27,Bowler,LHB,Left Arm Slow Orthodox,Uncapped,
+447,RD Chahar,PBKS,2023,2ed569a0,Rahul Chahar,5.25,No,Yes,India,23,Bowler,RHB,Right Arm Leg Spin,Capped,
+448,Arshdeep Singh,PBKS,2023,244048f6,Arshdeep Singh,4.0,No,Yes,India,23,Bowler,LHB,Left Arm Fast Medium,Capped,
+449,Rahmanullah Gurbaz,KKR,2023,0bacade8,Rahmanullah Gurbaz,0.5,No,Yes,Afghanistan,21,Wicketkeeper,RHB,-,Capped,
+450,SN Thakur,KKR,2023,1abb78f8,Shardul Thakur,10.75,No,Yes,India,31,Bowler,RHB,Right Arm Fast Medium,Capped,
+451,Harshit Rana,KKR,2023,77b1aa15,Harshit Rana,0.2,No,Yes,India,21,Bowler,RHB,Right Arm Fast Medium,Uncapped,
+452,VG Arora,KKR,2023,7c3b3b78,Vaibhav Arora,0.6,No,No,India,25,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.2
+453,JG Bethell,RCB,2025,3c55c703,Jacob Bethell,2.6,No,No,England,21,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,1.25
+454,D Padikkal,RCB,2025,2c25d4f5,Devdutt Padikkal,2.0,No,No,India,24,Batsman,LHB,-,Capped,2.0
+455,M Pathirana,CSK,2025,64839cb3,Matheesha Pathirana,13.0,No,Yes,Sri Lanka,21,Bowler,RHB,Right Arm Fast,Capped,
+456,A Mhatre,CSK,2025,b2b4f545,Ayush Mhatre,0.75,Yes,No,India,17,Batsman,RHB,Right Arm Off Spin,Uncapped,0.3
+457,SK Rasheed,CSK,2025,cbf58a86,Shaik Rasheed,0.3,No,No,India,20,Batsman,RHB,Right Arm Leg Spin,Uncapped,0.3
+458,SM Curran,CSK,2025,e94915e6,Sam Curran,2.4,No,No,England,26,All-Rounder,LHB,Left Arm Fast Medium,Capped,2.0
+459,RA Jadeja,CSK,2025,fe93fd9d,Ravindra Jadeja,18.0,No,Yes,India,35,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+460,D Brevis,CSK,2025,844e79d1,Dewald Brevis,2.2,Yes,No,South Africa,21,Batsman,RHB,Right Arm Leg Spin,Capped,0.75
+461,MS Dhoni,CSK,2025,4a8a2e3b,MS Dhoni,4.0,No,Yes,India,43,Wicketkeeper,RHB,-,Capped,
+462,S Dube,CSK,2025,a4e37e47,Shivam Dube,12.0,No,Yes,India,31,All-Rounder,LHB,Right Arm Medium,Capped,
+463,DJ Hooda,CSK,2025,73ad96ed,Deepak Hooda,1.7,No,No,India,29,All-Rounder,RHB,Right Arm Off Spin,Capped,0.75
+464,Noor Ahmad,CSK,2025,efc04be7,Noor Ahmad,10.0,No,No,Afghanistan,20,Bowler,RHB,Left Arm Slow Unorthodox,Capped,2.0
+465,KK Ahmed,CSK,2025,a2f46292,Khaleel Ahmed,4.8,No,No,India,27,Bowler,RHB,Left Arm Fast Medium,Capped,2.0
+466,A Kamboj,CSK,2025,fcc21ace,Anshul Kamboj,3.4,No,No,India,24,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.3
+467,J Fraser-McGurk,DC,2025,9b6e1b3f,Jake Fraser-McGurk,9.0,No,No,Australia,22,Batsman,RHB,-,Capped,2.0
+468,MM Sharma,DC,2025,759ac88f,Mohit Sharma,2.2,No,No,India,36,Bowler,RHB,Right Arm Fast,Uncapped,0.5
+469,SE Rutherford,RCB,2022,d014d5ac,Sherfane Rutherford,1.0,No,No,West Indies,23,All-Rounder,LHB,Right Arm Medium,Capped,1.0
+470,DJ Willey,RCB,2022,7f048519,David Willey,2.0,No,No,England,32,All-Rounder,LHB,Left Arm Fast Medium,Capped,2.0
+471,Akash Deep,RCB,2022,0a67aec0,Akash Deep,0.2,No,No,India,25,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.2
+472,PBB Rajapaksa,PBKS,2022,6c882e9a,Bhanuka Rajapaksa,0.5,No,No,Sri Lanka,30,Batsman,LHB,-,Capped,0.5
+473,RA Bawa,PBKS,2022,ba6b2f91,Raj Bawa,2.0,No,No,India,19,All-Rounder,LHB,Right Arm Fast Medium,Uncapped,0.2
+474,Sandeep Sharma,PBKS,2022,ce820073,Sandeep Sharma,0.5,No,No,India,28,Bowler,RHB,Right Arm Fast Medium,Capped,0.5
+475,Anmolpreet Singh,MI,2022,1399b39c,Anmolpreet Singh,0.2,No,No,India,24,Batsman,RHB,Right Arm Off Spin,Uncapped,0.2
+476,TL Seifert,DC,2022,4663bd23,Tim Seifert,0.5,No,No,New Zealand,27,Wicketkeeper,RHB,-,Capped,0.5
+477,Mandeep Singh,DC,2022,c3a96caf,Mandeep Singh,1.1,No,No,India,30,Batsman,RHB,Right Arm Medium,Capped,0.5
+478,KL Nagarkoti,DC,2022,b4f5c2d9,Kamlesh Nagarkoti,1.1,No,No,India,22,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.4
+479,Washington Sundar,GT,2025,f19ccfad,Washington Sundar,3.2,No,No,India,25,All-Rounder,LHB,Right Arm Off Spin,Capped,2.0
+480,Kamindu Mendis,SRH,2025,08548b13,Kamindu Mendis,0.75,No,No,Sri Lanka,26,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,0.75
+481,Akash Deep,LSG,2025,0a67aec0,Akash Deep,8.0,No,No,India,28,Bowler,RHB,Right Arm Fast,Capped,1.0
+482,R Ravindra,CSK,2025,ba5e1069,Rachin Ravindra,4.0,No,No,New Zealand,25,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,1.5
+483,RA Tripathi,CSK,2025,77255a9e,Rahul Tripathi,3.4,No,No,India,34,Batsman,RHB,Right Arm Medium,Capped,0.75
+484,V Shankar,CSK,2025,0994d0ae,Vijay Shankar,1.2,No,No,India,34,All-Rounder,RHB,Right Arm Medium,Uncapped,0.3
+485,J Overton,CSK,2025,59559bc2,Jamie Overton,1.5,No,No,England,30,All-Rounder,RHB,Right Arm Fast,Capped,1.5
+486,Naveen-ul-Haq,LSG,2024,c0c411cb,Naveen-ul-Haq,0.5,No,Yes,Afghanistan,24,Bowler,RHB,Right Arm Fast Medium,Capped,
+487,Arshad Khan,LSG,2024,12314277,Arshad Khan,0.2,No,No,India,26,All-Rounder,LHB,Left Arm Fast,Uncapped,0.2
+488,D Brevis,MI,2024,844e79d1,Dewald Brevis,3.0,No,Yes,South Africa,20,All-Rounder,RHB,Right Arm Leg Spin,Capped,
+489,R Shepherd,MI,2024,c5aef772,Romario Shepherd,0.5,No,No,West Indies,29,All-Rounder,RHB,Right Arm Fast Medium,Capped,0.0
+490,Arjun Tendulkar,MI,2024,44aac2f0,Arjun Tendulkar,0.3,No,Yes,India,24,All-Rounder,LHB,Left Arm Fast Medium,Uncapped,
+491,OC McCoy,RR,2023,529eb9e0,Obed McCoy,0.75,No,Yes,West Indies,25,Bowler,LHB,Left Arm Fast Medium,Capped,
+492,JE Root,RR,2023,a343262c,Joe Root,1.0,No,No,England,32,Batsman,RHB,Right Arm Off Spin,Capped,1.0
+493,M Ashwin,RR,2023,e2db2409,Murugan Ashwin,0.2,No,No,India,32,Bowler,RHB,Right Arm Leg Spin,Uncapped,0.2
+494,Anmolpreet Singh,SRH,2023,1399b39c,Anmolpreet Singh,0.2,No,No,India,25,Batsman,RHB,Right Arm Off Spin,Uncapped,0.2
+495,H Klaasen,SRH,2023,235c2bb6,Heinrich Klaasen,5.25,No,No,South Africa,31,Wicketkeeper,RHB,-,Capped,1.0
+496,AK Markram,SRH,2023,6a26221c,Aiden Markram,2.6,No,Yes,South Africa,28,Batsman,RHB,Right Arm Off Spin,Capped,
+497,M Jansen,SRH,2023,81c36ee9,Marco Jansen,4.2,No,Yes,South Africa,22,All-Rounder,RHB,Left Arm Fast,Capped,
+498,Vivrant Sharma,SRH,2023,1b7b0fa7,Vivrant Sharma,2.6,No,No,India,23,All-Rounder,LHB,Right Arm Leg Spin,Uncapped,0.2
+499,M Markande,SRH,2023,a9fd84fb,Mayank Markande,0.5,No,No,India,25,Bowler,RHB,Right Arm Leg Spin,Capped,0.5
+500,BA Stokes,CSK,2023,e087956b,Ben Stokes,16.25,No,No,England,31,All-Rounder,LHB,Right Arm Fast Medium,Capped,2.0
+501,MJ Santner,CSK,2023,e4a0deae,Mitchell Santner,1.9,No,Yes,New Zealand,30,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+502,RS Hangargekar,CSK,2023,c3c92b42,Rajvardhan Hangargekar,1.5,No,Yes,India,20,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,
+503,KS Williamson,GT,2023,d027ba9f,Kane Williamson,2.0,No,No,New Zealand,32,Batsman,RHB,-,Capped,2.0
+504,AS Roy,KKR,2023,e4cdf230,Anukul Roy,0.2,No,Yes,India,24,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,
+505,LS Livingstone,RCB,2025,50c6bc2b,Liam Livingstone,8.75,No,No,England,31,All-Rounder,RHB,Right Arm Leg Spin,Capped,2.0
+506,MS Bhandage,RCB,2025,e96801ea,Manoj Bhandage,0.3,No,No,India,26,All-Rounder,LHB,Right Arm Fast Medium,Uncapped,0.3
+507,JR Hazlewood,RCB,2025,03806cf8,Josh Hazlewood,12.5,No,No,Australia,34,Bowler,LHB,Right Arm Fast Medium,Capped,2.0
+508,JP Inglis,PBKS,2025,989889ff,Josh Inglis,2.6,No,No,Australia,30,Wicketkeeper,RHB,-,Capped,2.0
+509,Harpreet Brar,PBKS,2025,c05edf8e,Harpreet Brar,1.5,No,No,India,29,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,0.3
+510,XC Bartlett,PBKS,2025,3b53243a,Xavier Bartlett,0.8,No,No,Australia,26,Bowler,RHB,Right Arm Fast Medium,Capped,0.75
+511,K Gowtham,LSG,2024,90de905a,Krishnappa Gowtham,0.9,No,Yes,India,35,All-Rounder,RHB,Right Arm Off Spin,Capped,
+512,Sanvir Singh,SRH,2024,b0f2baf4,Sanvir Singh,0.2,No,Yes,India,27,All-Rounder,LHB,Right Arm Medium,Uncapped,
+513,V Viyaskanth,SRH,2024,03a83c50,Vijayakanth Viyaskanth,0.5,Yes,No,Sri Lanka,22,Bowler,RHB,Right Arm Leg Spin,Uncapped,0.5
+514,MP Stoinis,LSG,2022,d9273ee7,Marcus Stoinis,9.2,No,Yes,Australia,32,All-Rounder,RHB,Right Arm Medium,Capped,
+515,JO Holder,LSG,2022,0f721006,Jason Holder,8.75,No,No,West Indies,30,All-Rounder,RHB,Right Arm Fast,Capped,1.5
+516,FA Allen,MI,2022,b52ffbbd,Fabian Allen,0.75,No,No,West Indies,26,All-Rounder,RHB,Left Arm Slow Orthodox,Capped,0.75
+517,Ramandeep Singh,MI,2022,be24ead0,Ramandeep Singh,0.2,No,No,India,24,All-Rounder,RHB,Right Arm Fast,Uncapped,0.2
+518,S Sandeep Warrier,GT,2024,cdc6bdba,Sandeep Warrier,0.5,Yes,No,India,33,Bowler,RHB,Right Arm Fast,Capped,0.5
+519,WP Saha,GT,2024,fe11caa6,Wriddhiman Saha,1.9,No,Yes,India,39,Wicketkeeper,RHB,-,Capped,
+520,Shubman Gill,GT,2024,b4b99816,Shubman Gill,8.0,No,Yes,India,24,Batsman,RHB,-,Capped,
+521,B Sai Sudharsan,GT,2024,d5130a30,Sai Sudharsan,0.2,No,Yes,India,22,Batsman,LHB,-,Uncapped,
+522,Shahrukh Khan,GT,2024,7dcb9bc9,Shahrukh Khan,7.4,No,No,India,28,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.4
+523,DA Miller,GT,2024,d67d5f00,David Miller,3.0,No,Yes,South Africa,34,Batsman,LHB,-,Capped,
+524,Azmatullah Omarzai,GT,2024,8f6dd463,Azmatullah Omarzai,0.5,No,No,Afghanistan,24,All-Rounder,RHB,Right Arm Fast Medium,Capped,0.5
+525,R Tewatia,GT,2024,39a2dfa8,Rahul Tewatia,9.0,No,Yes,India,30,All-Rounder,LHB,Right Arm Leg Spin,Capped,
+526,Rashid Khan,GT,2024,5f547c8b,Rashid Khan,15.0,No,Yes,Afghanistan,25,Bowler,RHB,Right Arm Leg Spin,Capped,
+527,R Sai Kishore,GT,2024,c7a995d3,Sai Kishore,3.0,No,Yes,India,27,Bowler,LHB,Left Arm Slow Orthodox,Capped,
+528,MM Sharma,GT,2024,759ac88f,Mohit Sharma,0.5,No,Yes,India,35,Bowler,RHB,Right Arm Fast Medium,Capped,
+529,Noor Ahmad,GT,2024,efc04be7,Noor Ahmad,0.3,No,Yes,Afghanistan,18,Bowler,RHB,Left Arm Slow Unorthodox,Capped,
+530,V Kohli,RCB,2024,ba607b88,Virat Kohli,15.0,No,Yes,India,35,Batsman,RHB,-,Capped,
+531,F du Plessis,RCB,2024,3355b542,Faf du Plessis,7.0,No,Yes,South Africa,39,Batsman,RHB,-,Capped,
+532,WG Jacks,RCB,2024,9caf69a1,Will Jacks,3.2,No,Yes,England,25,All-Rounder,RHB,Right Arm Off Spin,Capped,
+533,RM Patidar,RCB,2024,c740ea83,Rajat Patidar,0.2,No,Yes,India,30,Batsman,RHB,-,Uncapped,
+534,GJ Maxwell,RCB,2024,b681e71e,Glenn Maxwell,11.0,No,Yes,Australia,35,All-Rounder,RHB,Right Arm Off Spin,Capped,
+535,C Green,RCB,2024,eaa76d3c,Cameron Green,17.5,No,No,Australia,24,All-Rounder,RHB,Right Arm Fast Medium,Capped,0.0
+536,KD Karthik,RCB,2024,c03f1114,Dinesh Karthik,5.5,No,Yes,India,38,Wicketkeeper,RHB,-,Capped,
+537,KV Sharma,RCB,2024,119678fd,Karn Sharma,0.5,No,Yes,India,36,Bowler,LHB,Right Arm Leg Spin,Capped,
+538,Mohammed Siraj,RCB,2024,2f49c897,Mohammed Siraj,7.0,No,Yes,India,29,Bowler,RHB,Right Arm Fast,Capped,
+539,Yash Dayal,RCB,2024,7210d461,Yash Dayal,5.0,No,No,India,26,Bowler,RHB,Left Arm Fast,Uncapped,0.2
+540,Swapnil Singh,RCB,2024,983f2f61,Swapnil Singh,0.2,No,No,India,33,All-Rounder,RHB,Left Arm Slow Orthodox,Uncapped,0.2
+541,Karim Janat,GT,2025,62175638,Karim Janat,0.75,No,No,Afghanistan,26,All-Rounder,RHB,Right Arm Fast Medium,Capped,0.75
+542,YBK Jaiswal,RR,2025,6c19c6e5,Yashasvi Jaiswal,18.0,No,Yes,India,22,Batsman,LHB,-,Capped,
+543,V Suryavanshi,RR,2025,470f446b,Vaibhav Suryavanshi,1.1,No,No,India,14,Batsman,LHB,Left Arm Slow Orthodox,Uncapped,0.3
+544,N Rana,RR,2025,fb2d1dda,Nitish Rana,4.2,No,No,India,31,All-Rounder,LHB,Right Arm Off Spin,Capped,1.5
+545,R Parag,RR,2025,04a418e8,Riyan Parag,14.0,No,Yes,India,23,All-Rounder,RHB,Right Arm Leg Spin,Capped,
+546,Dhruv Jurel,RR,2025,bcf325d2,Dhruv Jurel,14.0,No,Yes,India,23,Wicketkeeper,RHB,-,Capped,
+547,SO Hetmyer,RR,2025,48a1d7b7,Shimron Hetmyer,11.0,No,Yes,West Indies,27,Batsman,LHB,-,Capped,
+548,Wanindu Hasaranga,RR,2025,a97c8ec2,Wanindu Hasaranga,5.25,No,No,Sri Lanka,27,Bowler,RHB,Right Arm Leg Spin,Capped,2.0
+549,JC Archer,RR,2025,5574750c,Jofra Archer,12.5,No,No,England,30,Bowler,RHB,Right Arm Fast,Capped,2.0
+550,M Theekshana,RR,2025,f24c6701,Maheesh Theekshana,4.4,No,No,Sri Lanka,24,Bowler,RHB,Right Arm Off Spin,Capped,2.0
+551,Sandeep Sharma,RR,2025,ce820073,Sandeep Sharma,4.0,No,Yes,India,31,Bowler,RHB,Right Arm Medium,Capped,
+552,Yudhvir Singh,RR,2025,4885bbe6,Yudhvir Singh,0.35,No,No,India,27,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.3
+553,DP Conway,CSK,2022,df5a6881,Devon Conway,1.0,No,No,New Zealand,30,Batsman,LHB,Right Arm Medium,Capped,1.0
+554,Simarjeet Singh,CSK,2022,30df8c66,Simarjeet Singh,0.2,No,No,India,24,Bowler,RHB,Right Arm Fast,Uncapped,0.2
+555,M Theekshana,CSK,2022,f24c6701,Maheesh Theekshana,0.7,No,No,Sri Lanka,21,Bowler,RHB,Right Arm Off Spin,Capped,0.5
+556,KS Bharat,DC,2022,44a89551,KS Bharat,2.0,No,No,India,28,Wicketkeeper,RHB,-,Uncapped,0.2
+557,RV Patel,DC,2022,60500956,Ripal Patel,0.2,No,No,India,26,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.2
+558,A Nortje,DC,2022,acdc62f5,Anrich Nortje,6.5,No,Yes,South Africa,28,Bowler,RHB,Right Arm Fast,Capped,
+559,Umran Malik,SRH,2024,81c08fa3,Umran Malik,4.0,No,Yes,India,24,Bowler,RHB,Right Arm Fast,Capped,
+560,MA Agarwal,SRH,2024,00ea847a,Mayank Agarwal,8.25,No,Yes,India,32,Batsman,RHB,-,Capped,
+561,M Markande,SRH,2024,a9fd84fb,Mayank Markande,0.5,No,Yes,India,26,Bowler,RHB,Right Arm Leg Spin,Capped,
+562,KT Maphaka,MI,2024,107c26fb,Kwena Maphaka,0.5,Yes,No,South Africa,17,Bowler,LHB,Left Arm Fast,Uncapped,0.2
+563,G Coetzee,MI,2024,3204c99f,Gerald Coetzee,5.0,No,No,South Africa,23,All-Rounder,RHB,Right Arm Fast,Capped,2.0
+564,SZ Mulani,MI,2024,9d704f6f,Shams Mulani,0.2,No,Yes,India,26,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,
+565,Tilak Varma,MI,2023,b0482a1d,Tilak Varma,1.7,No,Yes,India,20,All-Rounder,LHB,Right Arm Off Spin,Uncapped,
+566,Avesh Khan,LSG,2023,eef2536f,Avesh Khan,10.0,No,Yes,India,26,Bowler,RHB,Right Arm Fast Medium,Capped,
+567,KL Rahul,LSG,2023,b17e2f24,KL Rahul,17.0,No,Yes,India,30,Wicketkeeper,RHB,-,Capped,
+568,KR Mayers,LSG,2023,73c18486,Kyle Mayers,0.5,No,Yes,West Indies,30,All-Rounder,LHB,Right Arm Medium,Capped,
+569,DJ Hooda,LSG,2023,73ad96ed,Deepak Hooda,5.75,No,Yes,India,27,All-Rounder,RHB,Right Arm Off Spin,Capped,
+570,KH Pandya,LSG,2023,5b8c830e,Krunal Pandya,8.25,No,Yes,India,31,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+571,MP Stoinis,LSG,2023,d9273ee7,Marcus Stoinis,10.0,No,Yes,Australia,33,All-Rounder,RHB,Right Arm Medium,Capped,
+572,N Pooran,LSG,2023,3241e3fd,Nicholas Pooran,16.0,No,No,West Indies,27,Wicketkeeper,LHB,-,Capped,2.0
+573,A Badoni,LSG,2023,872b03f7,Ayush Badoni,0.2,No,Yes,India,23,All-Rounder,RHB,Right Arm Off Spin,Uncapped,
+574,K Gowtham,LSG,2023,90de905a,Krishnappa Gowtham,0.9,No,Yes,India,34,All-Rounder,RHB,Right Arm Off Spin,Capped,
+575,MA Wood,LSG,2023,8d92a2c3,Mark Wood,7.5,No,Yes,England,32,Bowler,RHB,Right Arm Fast,Capped,
+576,Yash Thakur,LSG,2023,4b31f3a3,Yash Thakur,0.45,No,No,India,24,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.2
+577,Ravi Bishnoi,LSG,2023,df064e1a,Ravi Bishnoi,4.0,No,Yes,India,22,Bowler,RHB,Right Arm Leg Spin,Capped,
+578,Washington Sundar,SRH,2024,f19ccfad,Washington Sundar,8.75,No,Yes,India,24,All-Rounder,LHB,Right Arm Off Spin,Capped,
+579,V Shankar,GT,2024,0994d0ae,Vijay Shankar,1.4,No,Yes,India,32,All-Rounder,RHB,Right Arm Medium,Capped,
+580,UT Yadav,GT,2024,cc1e8c68,Umesh Yadav,5.8,No,No,India,36,Bowler,RHB,Right Arm Fast Medium,Capped,2.0
+581,DG Nalkande,GT,2024,cd8d2859,Darshan Nalkande,0.2,No,Yes,India,25,Bowler,RHB,Right Arm Fast Medium,Uncapped,
+582,HR Shokeen,MI,2023,0c9652b0,Hrithik Shokeen,0.2,No,Yes,India,22,All-Rounder,RHB,Right Arm Off Spin,Uncapped,
+583,Arshad Khan,MI,2023,12314277,Arshad Khan,0.2,No,Yes,India,25,All-Rounder,LHB,Left Arm Fast Medium,Uncapped,
+584,JC Archer,MI,2023,5574750c,Jofra Archer,8.0,No,Yes,England,27,Bowler,RHB,Right Arm Fast,Capped,
+585,V Kohli,RCB,2023,ba607b88,Virat Kohli,15.0,No,Yes,India,34,Batsman,RHB,-,Capped,
+586,F du Plessis,RCB,2023,3355b542,Faf du Plessis,7.0,No,Yes,South Africa,38,Batsman,RHB,-,Capped,
+587,KD Karthik,RCB,2023,c03f1114,Dinesh Karthik,5.5,No,Yes,India,37,Wicketkeeper,RHB,-,Capped,
+588,GJ Maxwell,RCB,2023,b681e71e,Glenn Maxwell,11.0,No,Yes,Australia,34,All-Rounder,RHB,Right Arm Off Spin,Capped,
+589,MG Bracewell,RCB,2023,e38bce7a,Michael Bracewell,1.0,Yes,No,New Zealand,32,All-Rounder,LHB,Right Arm Off Spin,Capped,1.0
+590,Shahbaz Ahmed,RCB,2023,f9e6e7ef,Shahbaz Ahmed,2.4,No,Yes,India,28,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,
+591,HV Patel,RCB,2023,f986ca1a,Harshal Patel,10.75,No,Yes,India,32,Bowler,RHB,Right Arm Fast Medium,Capped,
+592,Akash Deep,RCB,2023,0a67aec0,Akash Deep,0.2,No,Yes,India,26,Bowler,RHB,Right Arm Fast Medium,Uncapped,
+593,RJW Topley,RCB,2023,8db7f47f,Reece Topley,1.9,No,No,England,29,Bowler,RHB,Left Arm Fast,Capped,0.75
+594,Mohammed Siraj,RCB,2023,2f49c897,Mohammed Siraj,7.0,No,Yes,India,28,Bowler,RHB,Right Arm Fast,Capped,
+595,KV Sharma,RCB,2023,119678fd,Karn Sharma,0.5,No,Yes,India,35,Bowler,LHB,Right Arm Leg Spin,Capped,
+596,LH Ferguson,KKR,2023,2f9d0389,Lockie Ferguson,10.0,No,Yes,New Zealand,31,Bowler,RHB,Right Arm Fast,Capped,
+597,RP Meredith,MI,2023,64775749,Riley Meredith,1.5,Yes,No,Australia,26,Bowler,RHB,Right Arm Fast,Capped,1.5
+598,Arjun Tendulkar,MI,2023,44aac2f0,Arjun Tendulkar,0.3,No,Yes,India,23,All-Rounder,LHB,Left Arm Fast Medium,Uncapped,
+599,D Jansen,MI,2023,8dc152d1,Duan Jansen,0.2,No,No,South Africa,22,All-Rounder,RHB,Left Arm Fast,Uncapped,0.2
+600,T Natarajan,DC,2025,ce794613,T Natarajan,10.75,No,No,India,33,Bowler,LHB,Left Arm Fast Medium,Capped,2.0
+601,Sachin Baby,SRH,2025,dc9dd038,Sachin Baby,0.3,No,No,India,36,Batsman,LHB,Right Arm Off Spin,Uncapped,0.3
+602,SP Jackson,KKR,2022,acc1aeda,Sheldon Jackson,0.6,No,No,India,35,Wicketkeeper,RHB,-,Uncapped,0.3
+603,TG Southee,KKR,2022,13c35c9e,Tim Southee,1.5,No,No,New Zealand,33,Bowler,RHB,Right Arm Fast,Capped,1.5
+604,Mohammad Nabi,MI,2024,62af8546,Mohammad Nabi,1.5,No,No,Afghanistan,39,All-Rounder,RHB,Right Arm Off Spin,Capped,1.5
+605,MK Lomror,RCB,2023,da934ee8,Mahipal Lomror,0.95,No,Yes,India,23,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,
+606,SS Prabhudessai,RCB,2023,9385de2e,Suyash Prabhudessai,0.3,No,Yes,India,25,All-Rounder,RHB,Right Arm Medium,Uncapped,
+607,Wanindu Hasaranga,RCB,2023,a97c8ec2,Wanindu Hasaranga,10.75,No,Yes,Sri Lanka,25,All-Rounder,RHB,Right Arm Leg Spin,Capped,
+608,DJ Willey,RCB,2023,7f048519,David Willey,2.0,No,Yes,England,32,All-Rounder,LHB,Left Arm Fast Medium,Capped,
+609,Vijaykumar Vyshak,RCB,2023,54e52590,Vijaykumar Vyshak,0.2,Yes,No,India,26,Bowler,RHB,Right Arm Fast,Uncapped,0.2
+610,Simarjeet Singh,CSK,2024,30df8c66,Simarjeet Singh,0.2,No,Yes,India,25,Bowler,RHB,Right Arm Fast Medium,Uncapped,
+611,M Theekshana,CSK,2024,f24c6701,Maheesh Theekshana,0.7,No,Yes,Sri Lanka,23,Bowler,RHB,Right Arm Off Spin,Capped,
+612,Rasikh Dar,RCB,2025,b8527c3d,Rasikh Dar,6.0,No,No,India,25,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.3
+613,Mohsin Khan,LSG,2022,c33d8116,Mohsin Khan,0.2,No,No,India,23,Bowler,LHB,Left Arm Fast Medium,Uncapped,0.2
+614,K Gowtham,LSG,2022,90de905a,Krishnappa Gowtham,0.9,No,No,India,33,All-Rounder,RHB,Right Arm Off Spin,Capped,0.5
+615,C Sakariya,DC,2022,2cdce1be,Chetan Sakariya,4.2,No,No,India,24,Bowler,LHB,Left Arm Fast Medium,Capped,0.5
+616,Wiaan Mulder,SRH,2025,c96f6ac5,Wiaan Mulder,0.75,Yes,No,South Africa,27,All-Rounder,RHB,Right Arm Medium,Capped,0.75
+617,Himmat Singh,LSG,2025,ebcfef83,Himmat Singh,0.3,No,No,India,28,Batsman,RHB,Right Arm Off Spin,Uncapped,0.3
+618,Shahbaz Ahmed,LSG,2025,f9e6e7ef,Shahbaz Ahmed,2.4,No,No,India,29,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,1.0
+619,W O'Rourke,LSG,2025,cb9b8664,Will O'Rourke,3.0,Yes,No,New Zealand,23,Bowler,RHB,Right Arm Fast,Capped,1.5
+620,Akash Singh,LSG,2025,b483905d,Akash Singh,0.3,No,No,India,22,Bowler,RHB,Left Arm Fast,Uncapped,0.3
+621,AJ Finch,KKR,2022,b8d490fd,Aaron Finch,1.5,Yes,No,Australia,35,Batsman,RHB,Left Arm Slow Orthodox,Capped,1.5
+622,B Indrajith,KKR,2022,ff1e68fa,Baba Indrajith,0.2,No,No,India,27,Wicketkeeper,RHB,-,Uncapped,0.2
+623,RK Singh,KKR,2022,0a509d6b,Rinku Singh,0.55,No,No,India,24,Batsman,LHB,Right Arm Off Spin,Uncapped,0.2
+624,Harshit Rana,KKR,2022,77b1aa15,Harshit Rana,0.2,Yes,No,India,21,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,
+625,CJ Jordan,CSK,2022,ffe699c0,Chris Jordan,3.6,No,No,England,33,All-Rounder,RHB,Right Arm Fast Medium,Capped,2.0
+626,Abdul Basith,RR,2023,cc777ffa,Abdul Basith,0.2,No,No,India,24,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.2
+627,A Raghuvanshi,KKR,2024,d7017798,Angkrish Raghuvanshi,0.2,No,No,India,19,Batsman,RHB,Right Arm Off Spin,Uncapped,0.2
+628,AS Roy,KKR,2024,e4cdf230,Anukul Roy,0.2,No,Yes,India,25,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,
+629,Anmolpreet Singh,SRH,2024,1399b39c,Anmolpreet Singh,0.2,No,Yes,India,25,Batsman,RHB,-,Uncapped,
+630,JM Bairstow,MI,2025,abb83e27,Jonny Bairstow,5.25,Yes,No,England,35,Wicketkeeper,RHB,Right Arm Medium,Capped,2.0
+631,RA Bawa,MI,2025,ba6b2f91,Raj Bawa,0.3,No,No,India,22,All-Rounder,LHB,Right Arm Fast Medium,Uncapped,0.3
+632,RJ Gleeson,MI,2025,402f8494,Richard Gleeson,1.0,Yes,No,England,37,Bowler,RHB,Right Arm Fast,Capped,0.75
+633,Kusal Mendis,GT,2025,5d1e7582,Kusal Mendis,0.75,Yes,No,Sri Lanka,30,Wicketkeeper,RHB,Right Arm Leg Spin,Capped,0.75
+634,V Shankar,GT,2022,0994d0ae,Vijay Shankar,1.4,No,No,India,31,All-Rounder,RHB,Right Arm Fast Medium,Capped,0.5
+635,AA Kulkarni,LSG,2024,2d140b79,Arshin Kulkarni,0.2,No,No,India,19,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.2
+636,AJ Turner,LSG,2024,ff1e12a0,Ashton Turner,1.0,No,No,Australia,31,Batsman,RHB,Right Arm Off Spin,Capped,1.0
+637,Yudhvir Singh,LSG,2024,4885bbe6,Yudhvir Singh,0.2,No,Yes,India,26,All-Rounder,RHB,Right Arm Fast,Uncapped,
+638,Atharva Taide,SRH,2025,1ac746c8,Atharva Taide,0.3,No,No,India,24,Batsman,LHB,Left Arm Slow Orthodox,Uncapped,0.3
+639,Ramandeep Singh,KKR,2025,be24ead0,Ramandeep Singh,4.0,No,Yes,India,27,All-Rounder,RHB,Right Arm Medium,Uncapped,
+640,MM Ali,KKR,2025,bb351c23,Moeen Ali,2.0,No,No,England,37,All-Rounder,LHB,Right Arm Off Spin,Capped,2.0
+641,Navdeep Saini,RR,2022,21d4e29b,Navdeep Saini,2.6,No,No,India,29,Bowler,RHB,Right Arm Fast,Capped,0.75
+642,Q de Kock,LSG,2023,372455c4,Quinton de Kock,6.75,No,Yes,South Africa,30,Wicketkeeper,LHB,-,Capped,
+643,PN Mankad,LSG,2023,663b5e34,Prerak Mankad,0.2,No,No,India,28,All-Rounder,RHB,Right Arm Medium,Uncapped,0.2
+644,Naveen-ul-Haq,LSG,2023,c0c411cb,Naveen-ul-Haq,0.5,No,No,Afghanistan,23,Bowler,RHB,Right Arm Fast Medium,Capped,0.5
+645,Swapnil Singh,LSG,2023,983f2f61,Swapnil Singh,0.2,No,No,India,32,All-Rounder,RHB,Left Arm Slow Orthodox,Uncapped,0.2
+646,Mohsin Khan,LSG,2023,c33d8116,Mohsin Khan,0.2,No,Yes,India,24,Bowler,LHB,Left Arm Fast Medium,Uncapped,
+647,Kartik Tyagi,SRH,2023,5d2eea49,Kartik Tyagi,4.0,No,Yes,India,22,Bowler,RHB,Right Arm Fast,Uncapped,
+648,K Khejroliya,GT,2025,fa2f1dde,Kulwant Khejroliya,0.3,No,No,India,33,Bowler,LHB,Left Arm Fast Medium,Uncapped,0.3
+649,Fazalhaq Farooqi,RR,2025,e9c7f0d0,Fazalhaq Farooqi,2.0,No,No,Afghanistan,24,Bowler,RHB,Left Arm Fast Medium,Capped,2.0
+650,SV Samson,RR,2025,a4cc73aa,Sanju Samson,18.0,No,Yes,India,30,Wicketkeeper,RHB,-,Capped,
+651,SB Dubey,RR,2025,6b2ff18f,Shubham Dubey,0.8,No,No,India,30,Batsman,LHB,Right Arm Off Spin,Uncapped,0.3
+652,TU Deshpande,RR,2025,46a9bea1,Tushar Deshpande,6.5,No,No,India,29,Bowler,LHB,Right Arm Fast,Capped,1.0
+653,Akash Madhwal,MI,2024,4bd09374,Akash Madhwal,0.2,No,Yes,India,30,Bowler,RHB,Right Arm Fast Medium,Uncapped,
+654,S Gopal,MI,2024,7a8bd078,Shreyas Gopal,0.2,No,No,India,30,Bowler,RHB,Right Arm Leg Spin,Uncapped,0.2
+655,WD Parnell,RCB,2023,3a60e0b5,Wayne Parnell,0.75,Yes,No,South Africa,33,All-Rounder,LHB,Left Arm Fast,Capped,0.75
+656,Atharva Taide,PBKS,2023,1ac746c8,Atharva Taide,0.2,No,Yes,India,22,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,
+657,MW Short,PBKS,2023,a90e53ec,Matthew Short,0.2,Yes,No,Australia,27,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.2
+658,Harpreet Singh,PBKS,2023,28c78fb3,Harpreet Singh,0.4,No,No,India,31,Batsman,LHB,Right Arm Medium,Uncapped,0.2
+659,M Jansen,SRH,2024,81c36ee9,Marco Jansen,4.2,No,Yes,South Africa,23,All-Rounder,RHB,Left Arm Fast,Capped,
+660,KK Nair,RR,2022,944533a5,Karun Nair,1.4,No,No,India,30,Batsman,RHB,Right Arm Off Spin,Capped,0.5
+661,V Puthur,MI,2025,1e030637,Vignesh Puthur,0.3,No,No,India,24,All-Rounder,RHB,Left Arm Slow Unorthodox,Uncapped,0.3
+662,RD Gaikwad,CSK,2025,45a43fe2,Ruturaj Gaikwad,18.0,No,Yes,India,27,Batsman,RHB,-,Capped,
+663,R Ashwin,CSK,2025,495d42a5,Ravichandran Ashwin,9.75,No,No,India,38,All-Rounder,RHB,Right Arm Off Spin,Capped,2.0
+664,NT Ellis,CSK,2025,9eb1455b,Nathan Ellis,2.0,No,No,Australia,30,Bowler,RHB,Right Arm Fast Medium,Capped,1.25
+665,Q de Kock,KKR,2025,372455c4,Quinton de Kock,3.6,No,No,South Africa,32,Wicketkeeper,LHB,-,Capped,2.0
+666,MK Pandey,KKR,2025,93b4fc78,Manish Pandey,0.75,No,No,India,35,Batsman,RHB,-,Capped,0.75
+667,A Nortje,KKR,2025,acdc62f5,Anrich Nortje,6.5,No,No,South Africa,31,Bowler,RHB,Right Arm Fast,Capped,2.0
+668,K Rabada,PBKS,2023,e62dd25d,Kagiso Rabada,9.25,No,Yes,South Africa,27,Bowler,LHB,Right Arm Fast,Capped,
+669,SA Abbott,SRH,2022,1a2676c5,Sean Abbott,2.4,No,No,Australia,30,Bowler,RHB,Right Arm Fast,Capped,0.75
+670,S Gopal,SRH,2022,7a8bd078,Shreyas Gopal,0.75,No,No,India,28,Bowler,RHB,Right Arm Leg Spin,Uncapped,0.2
+671,MJ Santner,CSK,2022,e4a0deae,Mitchell Santner,1.9,No,No,New Zealand,30,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,1.0
+672,SH Johnson,KKR,2025,83c3e8e3,Spencer Johnson,2.8,No,No,Australia,29,Bowler,LHB,Left Arm Fast,Capped,2.0
+673,Anuj Rawat,RCB,2023,c8f5f961,Anuj Rawat,3.4,No,Yes,India,23,Wicketkeeper,LHB,-,Uncapped,
+674,JR Hazlewood,RCB,2023,03806cf8,Josh Hazlewood,7.75,No,Yes,Australia,31,Bowler,LHB,Right Arm Fast Medium,Capped,
+675,A Mishra,LSG,2023,6b19d823,Amit Mishra,0.5,No,No,India,40,Bowler,RHB,Right Arm Leg Spin,Capped,0.5
+676,RR Rossouw,PBKS,2024,cad00a4d,Rilee Rossouw,8.0,No,No,South Africa,34,Batsman,LHB,-,Capped,2.0
+677,LS Livingstone,PBKS,2024,50c6bc2b,Liam Livingstone,11.5,No,Yes,England,30,All-Rounder,RHB,Right Arm Leg Spin,Capped,
+678,Harpreet Singh,PBKS,2024,28c78fb3,Harpreet Singh,0.4,No,Yes,India,32,Batsman,LHB,-,Uncapped,
+679,R Dhawan,PBKS,2022,26a85969,Shikhar Dhawan,8.25,No,No,India,36,Batsman,LHB,-,Capped,2.0
+680,Azmatullah Omarzai,PBKS,2025,8f6dd463,Azmatullah Omarzai,2.4,No,No,Afghanistan,25,All-Rounder,RHB,Right Arm Fast Medium,Capped,1.5
+681,Sameer Rizvi,DC,2025,f89d3b11,Sameer Rizvi,0.95,No,No,India,21,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,0.3
+682,M Tiwari,DC,2025,fb5f69e4,Madhav Tiwari,0.4,No,No,India,21,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.3
+683,KR Sen,RR,2023,2e78f685,Kuldeep Sen,0.2,No,Yes,India,26,Bowler,RHB,Right Arm Fast,Uncapped,
+684,SSB Magala,CSK,2023,8361e524,Sisanda Magala,0.5,Yes,No,South Africa,32,All-Rounder,RHB,Right Arm Fast,Capped,0.5
+685,H Sharma,RCB,2024,52294a79,Himanshu Sharma,0.2,No,Yes,India,25,Bowler,RHB,Right Arm Leg Spin,Uncapped,
+686,Saurav Chauhan,RCB,2024,9e7225b0,Saurav Chuahan,0.2,No,No,India,23,Batsman,LHB,Right Arm Off Spin,Uncapped,0.2
+687,Saurav Chauhan,RCB,2024,9e7225b0,Saurav Chuahan,0.2,No,No,India,23,Batsman,LHB,Right Arm Off Spin,Uncapped,0.2
+688,RJW Topley,RCB,2024,8db7f47f,Reece Topley,1.9,No,Yes,England,29,Bowler,RHB,Left Arm Fast Medium,Capped,
+689,Mayank Dagar,RCB,2024,a457cfb5,Mayank Dagar,1.8,No,No,India,27,Bowler,RHB,Left Arm Slow Orthodox,Uncapped,0.0
+690,Suyash Sharma,KKR,2024,9440ef41,Suyash Sharma,0.2,No,Yes,India,20,Bowler,RHB,Right Arm Leg Spin,Uncapped,
+691,Prince Yadav,LSG,2025,80b2fb19,Prince Yadav,0.3,No,No,India,23,Bowler,RHB,Right Arm Fast,Uncapped,0.3
+692,MP Yadav,LSG,2025,b1ad996b,Mayank Yadav,11.0,No,Yes,India,22,Bowler,RHB,Right Arm Fast Medium,Uncapped,
+693,RD Chahar,PBKS,2024,2ed569a0,Rahul Chahar,5.25,No,Yes,India,24,Bowler,RHB,Right Arm Leg Spin,Capped,
+694,T Stubbs,MI,2023,85b3fab2,Tristan Stubbs,0.2,No,Yes,South Africa,22,Wicketkeeper,RHB,-,Capped,
+695,D Pretorius,CSK,2023,11614d87,Dwaine Pretorius,0.5,No,Yes,South Africa,33,All-Rounder,RHB,Right Arm Fast Medium,Capped,
+696,Mukesh Choudhary,CSK,2024,765a4731,Mukesh Choudhary,0.2,No,Yes,India,27,Bowler,LHB,Left Arm Fast Medium,Uncapped,
+697,MK Pandey,DC,2023,93b4fc78,Manish Pandey,2.4,No,No,India,33,Batsman,RHB,-,Capped,1.0
+698,YV Dhull,DC,2023,dd7e9b3b,Yash Dhull,0.5,No,Yes,India,20,Batsman,RHB,-,Uncapped,
+699,R Powell,DC,2023,650d5e49,Rovman Powell,2.8,No,Yes,West Indies,29,All-Rounder,RHB,Right Arm Fast Medium,Capped,
+700,Lalit Yadav,DC,2023,ad427b5c,Lalit Yadav,0.65,No,Yes,India,26,All-Rounder,RHB,Right Arm Off Spin,Uncapped,
+701,Mustafizur Rahman,DC,2023,0a8fce53,Mustafizur Rahman,2.0,No,Yes,Bangladesh,27,Bowler,LHB,Left Arm Fast Medium,Capped,
+702,DP Conway,CSK,2025,df5a6881,Devon Conway,6.25,No,No,New Zealand,33,Batsman,LHB,-,Capped,2.0
+703,Urvil Patel,CSK,2025,cf59b3f0,Urvil Patel,0.3,Yes,No,India,26,Wicketkeeper,RHB,-,Uncapped,0.3
+704,Shivam Mavi,KKR,2022,c38d3503,Shivam Mavi,7.25,No,No,India,23,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.4
+705,T Stubbs,MI,2022,85b3fab2,Tristan Stubbs,0.2,Yes,No,South Africa,23,Wicketkeeper,RHB,Right Arm Off Spin,Capped,
+706,R Sanjay Yadav,MI,2022,33ffc3dd,Suryakumar Yadav,8.0,No,Yes,India,31,Batsman,RHB,-,Capped,
+707,M Markande,MI,2022,a9fd84fb,Mayank Markande,0.65,No,No,India,24,Bowler,RHB,Right Arm Leg Spin,Capped,0.5
+708,A Manohar,GT,2024,0890552f,Abhinav Manohar,2.6,No,Yes,India,29,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,
+709,SH Johnson,GT,2024,83c3e8e3,Spencer Johnson,10.0,No,No,Australia,28,Bowler,LHB,Left Arm Fast Medium,Capped,0.5
+710,Simarjeet Singh,SRH,2025,30df8c66,Simarjeet Singh,1.5,No,No,India,27,Bowler,RHB,Right Arm Fast,Uncapped,0.3
+711,PD Salt,DC,2023,3d284ca3,Phil Salt,2.0,No,No,England,26,Wicketkeeper,RHB,-,Capped,2.0
+712,C Sakariya,DC,2023,2cdce1be,Chetan Sakariya,4.2,No,Yes,India,24,Bowler,LHB,Left Arm Fast Medium,Capped,
+713,B Sai Sudharsan,GT,2022,d5130a30,Sai Sudharsan,0.2,No,No,India,20,All-Rounder,LHB,Right Arm Leg Spin,Uncapped,0.2
+714,PJ Sangwan,GT,2022,9fc0ef64,Pradeep Sangwan,0.2,No,No,India,31,All-Rounder,RHB,Left Arm Fast,Uncapped,0.2
+715,P Dubey,PBKS,2025,ed5a5510,Pravin Dubey,0.3,No,No,India,31,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,0.3
+716,Sediqullah Atal,DC,2025,3c28853f,Sediqullah Atal,1.25,Yes,No,Afghanistan,23,Batsman,LHB,-,Capped,0.75
+717,Mustafizur Rahman,DC,2025,0a8fce53,Mustafizur Rahman,6.0,Yes,No,Bangladesh,29,Bowler,LHB,Left Arm Fast,Capped,2.0
+718,Yudhvir Singh,LSG,2023,4885bbe6,Yudhvir Singh,0.2,No,No,India,25,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.2
+719,S Joseph,LSG,2024,97290faf,Shamar Joseph,3.0,Yes,No,West Indies,24,Bowler,LHB,Right Arm Fast,Uncapped,0.2
+720,MK Pandey,KKR,2024,93b4fc78,Manish Pandey,0.5,No,No,India,34,Batsman,RHB,-,Capped,0.5
+721,T Kohler-Cadmore,RR,2024,f836b33d,Tom Kohler-Cadmore,0.4,No,No,England,29,Wicketkeeper,RHB,-,Uncapped,0.4
+722,NT Ellis,PBKS,2024,9eb1455b,Nathan Ellis,0.75,No,Yes,Australia,29,Bowler,RHB,Right Arm Fast Medium,Capped,
+723,MD Shanaka,GT,2023,3ff033bb,Dasun Shanaka,0.5,Yes,No,Sri Lanka,31,All-Rounder,RHB,Right Arm Medium,Capped,0.5
+724,Sanvir Singh,SRH,2023,b0f2baf4,Sanvir Singh,0.2,No,No,India,26,All-Rounder,RHB,Right Arm Fast,Uncapped,0.2
+725,Abdul Samad,SRH,2022,8e514b4c,Abdul Samad,4.0,No,Yes,India,20,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,
+726,P Simran Singh,PBKS,2022,9418198b,Arshdeep Singh,4.0,No,Yes,India,23,Bowler,LHB,Left Arm Fast Medium,Uncapped,
+727,DG Nalkande,GT,2022,cd8d2859,Darshan Nalkande,0.2,No,No,India,23,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.2
+728,Musheer Khan,PBKS,2025,d621b427,Musheer Khan,0.3,No,No,India,20,All-Rounder,RHB,Left Arm Slow Orthodox,Uncapped,0.3
+729,KA Jamieson,PBKS,2025,68c56d09,Kyle Jamieson,2.0,Yes,No,New Zealand,30,Bowler,RHB,Right Arm Fast,Capped,1.5
+730,Kumar Kushagra,DC,2024,57ca01b3,Kumar Kushagra,7.2,No,No,India,19,Wicketkeeper,RHB,-,Uncapped,0.2
+731,LB Williams,DC,2024,a1d95bd8,Lizaad Williams,0.5,Yes,No,South Africa,30,Bowler,LHB,Right Arm Fast,Capped,0.5
+732,N Jagadeesan,CSK,2022,bd54eef5,Narayan Jagadeesan,0.2,No,No,India,26,Wicketkeeper,RHB,-,Uncapped,0.2
+733,PH Solanki,CSK,2022,c695b423,Prashant Solanki,1.2,No,No,India,22,Bowler,RHB,Right Arm Leg Spin,Uncapped,0.2
+734,M Pathirana,CSK,2022,64839cb3,Matheesha Pathirana,0.2,Yes,No,Sri Lanka,19,Bowler,RHB,Right Arm Fast,Uncapped,0.2
+735,R Goyal,MI,2023,266849c1,Raghav Goyal,0.2,No,No,India,21,Bowler,LHB,Left Arm Slow Orthodox,Uncapped,0.2
+736,JD Unadkat,LSG,2023,1e66c162,Jaydev Unadkat,0.5,No,No,India,31,Bowler,RHB,Left Arm Fast Medium,Capped,0.5
+737,MK Lomror,RCB,2024,da934ee8,Mahipal Lomror,0.95,No,Yes,India,24,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,
+738,LH Ferguson,RCB,2024,2f9d0389,Lockie Ferguson,2.0,No,No,New Zealand,32,Bowler,RHB,Right Arm Fast,Capped,2.0
+739,M Siddharth,LSG,2024,cf0ccafa,Manimaran Siddharth,2.4,No,No,India,25,Bowler,RHB,Left Arm Slow Orthodox,Uncapped,0.2
+740,MP Yadav,LSG,2024,b1ad996b,Mayank Yadav,0.2,No,Yes,India,21,Bowler,RHB,Right Arm Fast Medium,Uncapped,
+741,KS Williamson,GT,2024,d027ba9f,Kane Williamson,2.0,No,Yes,New Zealand,33,Batsman,RHB,-,Capped,
+742,BR Sharath,GT,2024,c2dd89ea,BR Sharath,0.2,Yes,No,India,27,Wicketkeeper,RHB,-,Uncapped,0.2
+743,MJ Suthar,GT,2024,025c4400,Manav Suthar,0.2,No,No,India,21,Bowler,LHB,Left Arm Slow Orthodox,Uncapped,0.2
+744,J Little,GT,2024,9061a703,Joshua Little,4.4,No,Yes,Ireland,24,Bowler,RHB,Left Arm Fast Medium,Capped,
+745,Vijaykumar Vyshak,RCB,2024,54e52590,Vijaykumar Vyshak,0.2,No,Yes,India,27,Bowler,RHB,Right Arm Medium,Uncapped,
+746,M Vohra,LSG,2023,c03e2850,Manan Vohra,0.2,No,Yes,India,29,Batsman,RHB,-,Uncapped,
+747,KS Sharma,LSG,2023,39ed0d2f,Karan Sharma,0.2,No,Yes,India,24,All-Rounder,RHB,Right Arm Off Spin,Uncapped,
+748,KR Sen,RR,2024,2e78f685,Kuldeep Sen,0.2,No,Yes,India,27,Bowler,RHB,Right Arm Fast,Uncapped,
+749,C Sakariya,KKR,2025,2cdce1be,Chetan Sakariya,0.75,Yes,No,India,27,Bowler,LHB,Left Arm Medium,Capped,0.75
+750,HE van der Dussen,RR,2022,9948e262,Rassie van der Dussen,1.0,No,No,South Africa,33,Batsman,RHB,Right Arm Off Spin,Capped,1.0
+751,A Zampa,SRH,2025,14f96089,Adam Zampa,2.4,No,No,Australia,32,Bowler,RHB,Right Arm Leg Spin,Capped,2.0
+752,L Wood,MI,2024,65b6943c,Luke Wood,0.5,Yes,No,England,28,Bowler,LHB,Left Arm Fast,Capped,0.5
+753,Mayank Dagar,SRH,2023,a457cfb5,Mayank Dagar,1.8,No,No,India,26,All-Rounder,RHB,Left Arm Slow Orthodox,Uncapped,0.2
+754,Nithish Kumar Reddy,SRH,2023,aad0c365,Nitish Kumar Reddy,0.2,No,No,India,19,Wicketkeeper,RHB,Right Arm Fast Medium,Uncapped,0.2
+755,MJ Owen,PBKS,2025,f2c936d7,Mitchell Owen,3.0,Yes,No,Australia,23,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.0
+756,KT Maphaka,RR,2025,107c26fb,Kwena Maphaka,1.5,No,No,South Africa,18,Bowler,LHB,Left Arm Fast,Capped,0.75
+757,Akash Madhwal,RR,2025,4bd09374,Akash Madhwal,1.2,No,No,India,31,Bowler,RHB,Right Arm Fast,Uncapped,0.3
+758,M Vohra,LSG,2022,c03e2850,Manan Vohra,0.2,No,No,India,28,Batsman,RHB,-,Uncapped,0.2
+759,A Tomar,KKR,2022,aa5d8c9e,Abhijeet Tomar,0.4,No,No,India,27,Batsman,RHB,Right Arm Off Spin,Uncapped,0.2
+760,Anuj Rawat,RCB,2024,c8f5f961,Anuj Rawat,3.4,No,Yes,India,24,Wicketkeeper,LHB,-,Uncapped,
+761,AS Joseph,RCB,2024,b0946605,Alzarri Joseph,11.5,No,No,West Indies,27,Bowler,RHB,Right Arm Fast,Capped,1.0
+762,Lalit Yadav,DC,2024,ad427b5c,Lalit Yadav,0.65,No,Yes,India,28,Bowler,RHB,Right Arm Fast,Uncapped,
+763,Sikandar Raza,PBKS,2023,26d041c4,Sikandar Raza,0.5,No,No,Zimbabwe,36,All-Rounder,RHB,Right Arm Off Spin,Capped,0.5
+764,Vijaykumar Vyshak,PBKS,2025,54e52590,Vijaykumar Vyshak,1.8,No,No,India,28,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.3
+765,Mukesh Choudhary,CSK,2025,765a4731,Mukesh Choudhary,0.3,No,No,India,28,Bowler,LHB,Left Arm Fast,Uncapped,0.3
+766,MP Breetzke,LSG,2025,35f173a0,Matthew Breetzke,0.75,No,No,South Africa,26,Batsman,RHB,-,Capped,0.75
+767,N Thushara,RCB,2025,ee1b6c27,Nuwan Thushara,1.6,No,No,Sri Lanka,30,Bowler,RHB,Right Arm Fast,Capped,0.75
+768,Atharva Taide,PBKS,2024,1ac746c8,Atharva Taide,0.2,No,Yes,India,23,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,
+769,Tanush Kotian,RR,2024,5724e517,Tanush Kotian,0.2,Yes,No,India,25,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.2
+770,KA Maharaj,RR,2024,0b60eb09,Keshav Maharaj,0.5,Yes,No,South Africa,34,All-Rounder,RHB,Left Arm Slow Orthodox,Capped,0.5
+771,Liton Das,KKR,2023,0404d43c,Litton Das,0.5,No,No,Bangladesh,28,Wicketkeeper,RHB,-,Capped,0.5
+772,Mandeep Singh,KKR,2023,c3a96caf,Mandeep Singh,0.5,No,No,India,31,Batsman,RHB,-,Capped,0.5
+773,I Sharma,DC,2023,5bb1a1c4,Ishant Sharma,0.5,No,No,India,34,Bowler,RHB,Right Arm Fast,Capped,0.5
+774,RJW Topley,MI,2025,8db7f47f,Reece Topley,0.75,No,No,England,31,Bowler,RHB,Left Arm Fast,Capped,0.75
+775,K Kartikeya,RR,2025,f6d8a7ab,Kumar Kartikeya,0.3,No,No,India,27,Bowler,RHB,Left Arm Slow Orthodox,Uncapped,0.3
+776,AJ Hosein,SRH,2023,4d7f517e,Akeal Hosein,1.0,No,No,West Indies,29,Bowler,LHB,Left Arm Slow Orthodox,Capped,1.0
+777,PK Garg,DC,2023,bb965e9a,Priyam Garg,0.2,Yes,No,India,22,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.2
+778,RV Patel,DC,2023,60500956,Ripal Patel,0.2,No,Yes,India,27,All-Rounder,RHB,Right Arm Medium,Uncapped,
+779,S Kaul,RCB,2022,dcf81436,Siddarth Kaul,0.75,No,No,India,31,Bowler,RHB,Right Arm Fast Medium,Capped,0.75
+780,VR Aaron,GT,2022,0a3d54b9,Varun Aaron,0.5,No,No,India,32,Bowler,RHB,Right Arm Fast,Capped,0.5
+781,R Shepherd,LSG,2023,c5aef772,Romario Shepherd,0.5,No,No,West Indies,28,All-Rounder,RHB,Right Arm Fast,Capped,0.5
+782,RJ Gleeson,CSK,2024,402f8494,Richard Gleeson,0.5,Yes,No,England,36,Bowler,RHB,Right Arm Fast,Capped,0.5
+783,Yash Thakur,PBKS,2025,4b31f3a3,Yash Thakur,1.6,No,No,India,26,Bowler,RHB,Right Arm Fast Medium,Uncapped,0.3
+784,AS Roy,KKR,2022,e4cdf230,Anukul Roy,0.2,No,No,India,23,All-Rounder,LHB,Left Arm Slow Orthodox,Uncapped,0.2
+785,MJ Santner,CSK,2024,e4a0deae,Mitchell Santner,1.9,No,Yes,New Zealand,31,All-Rounder,LHB,Left Arm Slow Orthodox,Capped,
+786,JA Richardson,DC,2024,1ee08e9a,Jhye Richardson,5.0,No,No,Australia,27,Bowler,RHB,Right Arm Fast,Capped,1.5
+787,Mohit Rathee,PBKS,2023,9a5f2863,Mohit Rathee,0.2,No,No,India,24,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,0.2
+788,JDS Neesham,RR,2022,9219eff0,James Neesham,1.5,No,No,New Zealand,31,All-Rounder,LHB,Right Arm Fast Medium,Capped,1.5
+789,AF Milne,CSK,2022,350bb1b1,Adam Milne,1.9,No,No,New Zealand,29,Bowler,RHB,Right Arm Fast,Capped,1.5
+790,TG Southee,KKR,2023,13c35c9e,Tim Southee,1.5,No,Yes,New Zealand,34,Bowler,RHB,Right Arm Fast Medium,Capped,
+791,NM Coulter-Nile,RR,2022,56ab442f,Nathan Coulter-Nile,2.0,No,No,Australia,34,Bowler,RHB,Right Arm Fast Medium,Capped,2.0
+792,H Sharma,RCB,2023,52294a79,Himanshu Sharma,0.2,No,No,India,24,Bowler,RHB,Right Arm Leg Spin,Uncapped,0.2
+793,Akash Deep,RCB,2024,0a67aec0,Akash Deep,0.2,No,Yes,India,27,Bowler,RHB,Right Arm Fast Medium,Uncapped,
+794,P Dubey,DC,2023,ed5a5510,Pravin Dubey,0.5,No,Yes,India,29,All-Rounder,RHB,Right Arm Leg Spin,Uncapped,
+795,D Ferreira,DC,2025,f0af99a7,Donovan Ferreira,0.75,No,No,South Africa,26,Wicketkeeper,RHB,Right Arm Off Spin,Capped,0.75
+796,V Kaverappa,PBKS,2024,d4d929b0,Vidwath Kaverappa,0.2,No,Yes,India,24,Bowler,RHB,Right Arm Fast Medium,Uncapped,
+797,Aman Hakim Khan,KKR,2022,378daa89,Aman Khan,0.2,No,No,India,25,All-Rounder,RHB,Right Arm Fast Medium,Uncapped,0.2
+798,PVD Chameera,KKR,2024,327b58d3,Dushmantha Chameera,0.5,Yes,No,Sri Lanka,31,Bowler,RHB,Right Arm Fast,Capped,0.5
+799,MS Wade,GT,2024,afa7e784,Matthew Wade,2.4,No,Yes,Australia,35,Wicketkeeper,LHB,-,Capped,
+800,Kartik Tyagi,GT,2024,5d2eea49,Kartik Tyagi,0.6,No,No,India,23,Bowler,RHB,Right Arm Fast,Uncapped,0.2
+801,KM Jadhav,RCB,2023,99d63244,Kedar Jadhav,1.0,Yes,No,India,37,All-Rounder,RHB,Right Arm Off Spin,Capped,1.0
+802,Shivam Singh,PBKS,2024,e1d9ae9c,Shivam Singh,0.2,No,Yes,India,27,All-Rounder,RHB,Right Arm Off Spin,Uncapped,
+803,R Dhawan,PBKS,2024,26a85969,Shikhar Dhawan,8.25,No,Yes,India,38,Batsman,LHB,-,Capped,
+804,J Yadav,GT,2023,81049310,Jayant Yadav,1.7,No,Yes,India,32,All-Rounder,RHB,Right Arm Off Spin,Capped,
+805,Gurnoor Brar,PBKS,2023,99258814,Gurnoor Brar,0.2,Yes,No,India,22,Bowler,LHB,Right Arm Fast,Uncapped,0.2
+806,SS Prabhudessai,RCB,2024,9385de2e,Suyash Prabhudessai,0.3,No,Yes,India,26,All-Rounder,RHB,Right Arm Medium,Uncapped,
+807,KS Rathore,RR,2025,e3851766,Kunal Singh Rathore,0.3,No,No,India,22,Wicketkeeper,LHB,Right Arm Off Spin,Uncapped,0.3
+808,DG Nalkande,GT,2023,cd8d2859,Darshan Nalkande,0.2,No,Yes,India,24,Bowler,RHB,Right Arm Fast Medium,Uncapped,
+809,KS Sharma,LSG,2022,39ed0d2f,Karan Sharma,0.2,No,No,India,23,All-Rounder,RHB,Right Arm Off Spin,Uncapped,0.2
