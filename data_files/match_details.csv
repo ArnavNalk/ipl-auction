@@ -1,294 +1,294 @@
-,match_id,winner,venue,year,toss_winner,toss_decision,match_type,team_1,team_1_score,team_1_wickets,team_1_balls_faced,team_2,team_2_score,team_2_wickets,team_2_balls_faced
-0,1426261,SRH,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024,PBKS,field,Group Stage,SRH,182,9,120,PBKS,180,6,120
-1,1359507,CSK,"Eden Gardens, Kolkata",2023,KKR,field,Group Stage,CSK,235,4,120,KKR,186,8,120
-2,1304086,GT,"Wankhede Stadium, Mumbai",2022,GT,field,Group Stage,SRH,195,6,120,GT,199,5,120
-3,1304069,PBKS,"Maharashtra Cricket Association Stadium, Pune",2022,MI,field,Group Stage,PBKS,198,5,120,MI,186,9,120
-4,1473446,GT,"Narendra Modi Stadium, Ahmedabad",2025,MI,field,Group Stage,GT,196,8,120,MI,160,6,120
-5,1473503,SRH,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025,RCB,field,Group Stage,SRH,231,6,120,RCB,189,10,120
-6,1304090,MI,"Dr DY Patil Sports Academy, Mumbai",2022,MI,field,Group Stage,RR,158,6,120,MI,161,5,120
-7,1473450,PBKS,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025,PBKS,field,Group Stage,LSG,171,7,120,PBKS,177,2,101
-8,1359511,RR,"Sawai Mansingh Stadium, Jaipur",2023,RR,bat,Group Stage,RR,202,5,120,CSK,170,6,120
-9,1426277,LSG,"MA Chidambaram Stadium, Chepauk, Chennai",2024,LSG,field,Group Stage,CSK,210,4,120,LSG,213,4,120
-10,1426298,KKR,"Eden Gardens, Kolkata",2024,MI,field,Group Stage,KKR,157,7,99,MI,139,8,102
-11,1304053,LSG,"Brabourne Stadium, Mumbai",2022,LSG,field,Group Stage,CSK,210,7,120,LSG,211,4,120
-12,1304116,PBKS,"Wankhede Stadium, Mumbai",2022,SRH,bat,Group Stage,SRH,157,8,120,PBKS,160,5,95
-13,1473493,GT,"Wankhede Stadium, Mumbai",2025,GT,field,Group Stage,MI,155,8,120,GT,147,7,120
-14,1359478,RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023,SRH,field,Group Stage,RR,203,5,120,SRH,131,8,120
-15,1359497,RR,"Narendra Modi Stadium, Ahmedabad",2023,RR,field,Group Stage,GT,177,7,120,RR,179,7,118
-16,1422131,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2024,DC,bat,Group Stage,DC,191,5,120,CSK,171,6,120
-17,1370353,CSK,"Narendra Modi Stadium, Ahmedabad",2023,CSK,field,Final,GT,214,4,120,CSK,171,5,94
-18,1359481,GT,"Arun Jaitley Stadium, Delhi",2023,GT,field,Group Stage,DC,162,8,120,GT,163,4,115
-19,1422127,RR,"Sawai Mansingh Stadium, Jaipur",2024,DC,field,Group Stage,RR,185,5,120,DC,173,5,120
-20,1312200,GT,"Narendra Modi Stadium, Ahmedabad",2022,RR,bat,Final,RR,130,9,120,GT,133,3,113
-21,1304100,RCB,"Wankhede Stadium, Mumbai",2022,RCB,bat,Group Stage,RCB,192,3,120,SRH,125,10,120
-22,1473485,KKR,"Arun Jaitley Stadium, Delhi",2025,DC,field,Group Stage,KKR,204,9,120,DC,190,9,120
-23,1426282,RR,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024,RR,field,Group Stage,LSG,196,5,120,RR,199,3,116
-24,1304065,DC,"Brabourne Stadium, Mumbai",2022,KKR,field,Group Stage,DC,215,5,120,KKR,171,10,120
-25,1304073,RCB,"Wankhede Stadium, Mumbai",2022,DC,field,Group Stage,RCB,189,5,120,DC,173,7,120
-26,1426294,DC,"Arun Jaitley Stadium, Delhi",2024,RR,field,Group Stage,DC,221,8,120,RR,201,8,120
-27,1473470,MI,"Wankhede Stadium, Mumbai",2025,MI,field,Group Stage,SRH,162,5,120,MI,166,6,113
-28,1426312,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2024,SRH,bat,Final,SRH,113,10,117,KKR,114,2,67
-29,1359531,MI,"Wankhede Stadium, Mumbai",2023,GT,field,Group Stage,MI,218,5,120,GT,191,8,120
-30,1359527,KKR,"Eden Gardens, Kolkata",2023,PBKS,bat,Group Stage,PBKS,179,7,120,KKR,182,5,120
-31,1473489,RCB,"M Chinnaswamy Stadium, Bengaluru",2025,CSK,field,Group Stage,RCB,213,5,120,CSK,211,5,120
-32,1473466,MI,"Arun Jaitley Stadium, Delhi",2025,DC,field,Group Stage,MI,205,5,120,DC,193,10,119
-33,1304049,PBKS,"Dr DY Patil Sports Academy, Mumbai",2022,PBKS,field,Group Stage,RCB,205,2,120,PBKS,208,5,120
-34,1304048,DC,"Brabourne Stadium, Mumbai",2022,DC,field,Group Stage,MI,177,5,120,DC,179,6,117
-35,1473488,GT,"Narendra Modi Stadium, Ahmedabad",2025,SRH,field,Group Stage,GT,224,6,120,SRH,186,6,120
-36,1473467,CSK,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025,CSK,field,Group Stage,LSG,166,7,120,CSK,168,5,120
-37,1426305,LSG,"Wankhede Stadium, Mumbai",2024,MI,field,Group Stage,LSG,214,6,120,MI,196,6,120
-38,1359526,SRH,"Sawai Mansingh Stadium, Jaipur",2023,RR,bat,Group Stage,RR,214,2,120,SRH,217,6,120
-39,1359475,GT,"Narendra Modi Stadium, Ahmedabad",2023,GT,field,Group Stage,CSK,178,7,120,GT,182,5,120
-40,1359530,RR,"Eden Gardens, Kolkata",2023,RR,field,Group Stage,KKR,149,8,120,RR,151,1,82
-41,1473471,PBKS,"M Chinnaswamy Stadium, Bengaluru",2025,PBKS,field,Group Stage,RCB,95,9,85,PBKS,98,5,75
-42,1426295,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024,LSG,bat,Group Stage,LSG,165,4,120,SRH,167,0,60
-43,1304072,LSG,"Brabourne Stadium, Mumbai",2022,MI,field,Group Stage,LSG,199,4,120,MI,181,9,120
-44,1304064,RCB,"Maharashtra Cricket Association Stadium, Pune",2022,RCB,field,Group Stage,MI,151,6,120,RCB,152,3,114
-45,1426283,RCB,"Narendra Modi Stadium, Ahmedabad",2024,RCB,field,Group Stage,GT,200,3,120,RCB,206,1,100
-46,1473484,RR,"Sawai Mansingh Stadium, Jaipur",2025,RR,field,Group Stage,GT,209,4,120,RR,212,2,99
-47,1304101,CSK,"Dr DY Patil Sports Academy, Mumbai",2022,DC,field,Group Stage,CSK,208,6,120,DC,117,10,108
-48,1422126,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024,MI,field,Group Stage,SRH,277,3,120,MI,246,5,120
-49,1370352,GT,"Narendra Modi Stadium, Ahmedabad",2023,MI,field,Qualifier 2,GT,233,3,120,MI,171,10,115
-50,1426309,KKR,"Narendra Modi Stadium, Ahmedabad",2024,SRH,bat,Qualifier 1,SRH,159,10,120,KKR,164,2,84
-51,1359480,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2023,LSG,field,Group Stage,CSK,217,7,120,LSG,205,7,120
-52,1422130,GT,"Narendra Modi Stadium, Ahmedabad",2024,SRH,bat,Group Stage,SRH,162,8,120,GT,168,3,119
-53,1359479,RCB,"M Chinnaswamy Stadium, Bengaluru",2023,RCB,field,Group Stage,MI,171,7,120,RCB,172,2,102
-54,1359496,MI,"Wankhede Stadium, Mumbai",2023,MI,field,Group Stage,KKR,185,6,120,MI,186,5,109
-55,1473492,No Result,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025,SRH,field,Group Stage,DC,133,7,120,SRH,0,0,0
-56,1304052,RCB,"Dr DY Patil Sports Academy, Mumbai",2022,RCB,field,Group Stage,KKR,128,10,115,RCB,132,7,120
-57,1426276,RR,"Sawai Mansingh Stadium, Jaipur",2024,MI,bat,Group Stage,MI,179,9,120,RR,183,1,117
-58,1359510,KKR,"M Chinnaswamy Stadium, Bengaluru",2023,RCB,field,Group Stage,KKR,200,5,120,RCB,179,8,120
-59,1426299,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2024,RR,bat,Group Stage,RR,141,5,120,CSK,145,5,115
-60,1473451,GT,"M Chinnaswamy Stadium, Bengaluru",2025,GT,field,Group Stage,RCB,169,8,120,GT,170,2,108
-61,1304091,LSG,"Wankhede Stadium, Mumbai",2022,LSG,bat,Group Stage,LSG,195,3,120,DC,189,7,120
-62,1473447,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2025,SRH,bat,Group Stage,SRH,163,10,119,DC,166,3,98
-63,1473502,LSG,"Narendra Modi Stadium, Ahmedabad",2025,GT,field,Group Stage,LSG,235,2,120,GT,202,9,120
-64,1304087,DC,"Wankhede Stadium, Mumbai",2022,DC,field,Group Stage,KKR,146,9,120,DC,150,6,117
-65,1304068,CSK,"Dr DY Patil Sports Academy, Mumbai",2022,RCB,field,Group Stage,CSK,216,4,120,RCB,193,9,120
-66,1359506,RCB,"M Chinnaswamy Stadium, Bengaluru",2023,RR,field,Group Stage,RCB,189,9,120,RR,182,6,120
-67,1426260,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2024,CSK,field,Group Stage,KKR,137,9,120,CSK,141,3,109
-68,1426284,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2024,SRH,field,Group Stage,CSK,212,3,120,SRH,134,10,116
-69,1473509,MI,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2025,MI,bat,Eliminator,MI,228,5,120,GT,208,6,120
-70,1304063,SRH,"Dr DY Patil Sports Academy, Mumbai",2022,SRH,field,Group Stage,CSK,154,7,120,SRH,155,2,110
-71,1304075,GT,"Maharashtra Cricket Association Stadium, Pune",2022,GT,field,Group Stage,CSK,169,5,120,GT,170,7,120
-72,1426292,KKR,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024,LSG,field,Group Stage,KKR,235,6,120,LSG,137,10,103
-73,1473499,SRH,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025,SRH,field,Group Stage,LSG,205,7,120,SRH,206,5,119
-74,1473476,GT,"Eden Gardens, Kolkata",2025,KKR,field,Group Stage,GT,198,3,120,KKR,159,8,120
-75,1304059,RCB,"Wankhede Stadium, Mumbai",2022,RCB,field,Group Stage,RR,169,3,120,RCB,173,6,120
-76,1359537,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023,MI,field,Group Stage,LSG,177,4,120,MI,172,5,120
-77,1426302,DC,"Arun Jaitley Stadium, Delhi",2024,LSG,field,Group Stage,DC,208,4,120,LSG,189,9,120
-78,1359521,KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023,KKR,bat,Group Stage,KKR,171,9,120,SRH,166,8,120
-79,1473460,GT,"Narendra Modi Stadium, Ahmedabad",2025,RR,field,Group Stage,GT,217,6,120,RR,159,10,120
-80,1426267,CSK,"Wankhede Stadium, Mumbai",2024,MI,field,Group Stage,CSK,206,4,120,MI,186,6,120
-81,1359501,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023,PBKS,field,Group Stage,RCB,174,4,120,PBKS,150,10,113
-82,1426288,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024,SRH,bat,Group Stage,SRH,201,3,120,RR,200,7,120
-83,1304080,RR,"Wankhede Stadium, Mumbai",2022,DC,field,Group Stage,RR,222,2,120,DC,207,8,120
-84,1473440,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2025,CSK,field,Group Stage,MI,155,9,120,CSK,158,6,118
-85,1473505,SRH,"Arun Jaitley Stadium, Delhi",2025,SRH,bat,Group Stage,SRH,278,3,120,KKR,168,10,116
-86,1359540,RR,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2023,RR,field,Group Stage,PBKS,187,5,120,RR,189,6,120
-87,1304096,DC,"Brabourne Stadium, Mumbai",2022,SRH,field,Group Stage,DC,207,3,120,SRH,186,8,120
-88,1304079,CSK,"Dr DY Patil Sports Academy, Mumbai",2022,CSK,field,Group Stage,MI,155,7,120,CSK,156,7,120
-89,1473456,LSG,"Eden Gardens, Kolkata",2025,KKR,field,Group Stage,LSG,238,3,120,KKR,234,7,120
-90,1359517,RCB,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023,RCB,bat,Group Stage,RCB,126,9,120,LSG,108,10,120
-91,1426271,MI,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024,PBKS,field,Group Stage,MI,192,7,120,PBKS,183,10,120
-92,1304055,RR,"Dr DY Patil Sports Academy, Mumbai",2022,MI,field,Group Stage,RR,193,8,120,MI,170,8,120
-93,1304110,DC,"Dr DY Patil Sports Academy, Mumbai",2022,PBKS,field,Group Stage,DC,159,7,120,PBKS,142,9,120
-94,1473495,No Result,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2025,PBKS,bat,Group Stage,PBKS,122,1,63,DC,0,0,0
-95,1359491,RR,"MA Chidambaram Stadium, Chepauk, Chennai",2023,CSK,field,Group Stage,RR,175,8,120,CSK,172,6,120
-96,1422137,RR,"Sawai Mansingh Stadium, Jaipur",2024,RR,field,Group Stage,RCB,183,3,120,RR,189,4,118
-97,1359487,KKR,"Narendra Modi Stadium, Ahmedabad",2023,GT,bat,Group Stage,GT,204,4,120,KKR,207,7,120
-98,1422121,KKR,"Eden Gardens, Kolkata",2024,SRH,field,Group Stage,KKR,208,7,120,SRH,204,7,120
-99,1312197,GT,"Eden Gardens, Kolkata",2022,GT,field,Qualifier 1,RR,188,6,120,GT,191,3,120
-100,1304106,PBKS,"Brabourne Stadium, Mumbai",2022,RCB,field,Group Stage,PBKS,209,9,120,RCB,155,9,120
-101,1473483,RCB,"Arun Jaitley Stadium, Delhi",2025,RCB,field,Group Stage,DC,162,8,120,RCB,165,4,115
-102,1473482,MI,"Wankhede Stadium, Mumbai",2025,LSG,field,Group Stage,MI,215,7,120,LSG,161,10,120
-103,1304107,KKR,"Maharashtra Cricket Association Stadium, Pune",2022,KKR,bat,Group Stage,KKR,177,6,120,SRH,123,8,120
-104,1422120,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024,PBKS,field,Group Stage,DC,174,9,120,PBKS,177,6,120
-105,1359486,CSK,"Wankhede Stadium, Mumbai",2023,CSK,field,Group Stage,MI,157,8,120,CSK,159,3,114
-106,1422136,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024,SRH,field,Group Stage,CSK,165,5,120,SRH,166,4,111
-107,1359490,MI,"Arun Jaitley Stadium, Delhi",2023,MI,field,Group Stage,DC,172,10,120,MI,173,4,120
-108,1473494,CSK,"Eden Gardens, Kolkata",2025,KKR,bat,Group Stage,KKR,179,6,120,CSK,183,8,120
-109,1304054,KKR,"Wankhede Stadium, Mumbai",2022,KKR,field,Group Stage,PBKS,137,10,118,KKR,141,4,92
-110,1304111,SRH,"Wankhede Stadium, Mumbai",2022,MI,field,Group Stage,SRH,193,6,120,MI,190,7,120
-111,1426270,DC,"Narendra Modi Stadium, Ahmedabad",2024,DC,field,Group Stage,GT,89,10,112,DC,92,4,55
-112,1359516,MI,"Wankhede Stadium, Mumbai",2023,RR,bat,Group Stage,RR,212,7,120,MI,214,4,120
-113,1473457,GT,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025,GT,field,Group Stage,SRH,152,8,120,GT,153,3,103
-114,1359541,CSK,"Arun Jaitley Stadium, Delhi",2023,CSK,bat,Group Stage,CSK,223,3,120,DC,146,9,120
-115,1304097,MI,"Brabourne Stadium, Mumbai",2022,GT,field,Group Stage,MI,177,6,120,GT,172,5,120
-116,1304078,DC,"Brabourne Stadium, Mumbai",2022,DC,field,Group Stage,PBKS,115,10,120,DC,119,1,69
-117,1473441,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2025,DC,field,Group Stage,LSG,209,8,120,DC,211,9,120
-118,1473504,CSK,"Narendra Modi Stadium, Ahmedabad",2025,CSK,bat,Group Stage,CSK,230,5,120,GT,147,10,117
-119,1304081,GT,"Dr DY Patil Sports Academy, Mumbai",2022,GT,bat,Group Stage,GT,156,9,120,KKR,148,8,120
-120,1485779,DC,"Sawai Mansingh Stadium, Jaipur",2025,DC,field,Group Stage,PBKS,206,8,120,DC,208,4,120
-121,1359500,LSG,"Sawai Mansingh Stadium, Jaipur",2023,RR,field,Group Stage,LSG,154,7,120,RR,144,6,120
-122,1426266,KKR,"Eden Gardens, Kolkata",2024,KKR,field,Group Stage,LSG,161,7,120,KKR,162,2,105
-123,1426289,KKR,"Wankhede Stadium, Mumbai",2024,MI,field,Group Stage,KKR,169,10,120,MI,145,10,118
-124,1473461,DC,"M Chinnaswamy Stadium, Bengaluru",2025,DC,field,Group Stage,RCB,163,7,120,DC,169,4,110
-125,1426303,PBKS,"Barsapara Cricket Stadium, Guwahati",2024,RR,bat,Group Stage,RR,144,9,120,PBKS,145,5,114
-126,1359520,MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023,MI,field,Group Stage,PBKS,214,3,120,MI,216,4,116
-127,1359536,GT,"Narendra Modi Stadium, Ahmedabad",2023,SRH,field,Group Stage,GT,188,9,120,SRH,154,9,120
-128,1304058,LSG,"Dr DY Patil Sports Academy, Mumbai",2022,SRH,field,Group Stage,LSG,169,7,120,SRH,157,9,120
-129,1473498,GT,"Arun Jaitley Stadium, Delhi",2025,GT,field,Group Stage,DC,199,3,120,GT,205,0,117
-130,1473477,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025,DC,field,Group Stage,LSG,159,6,120,DC,161,2,110
-131,1426293,MI,"Wankhede Stadium, Mumbai",2024,MI,field,Group Stage,SRH,173,8,120,MI,174,3,108
-132,1304074,SRH,"Dr DY Patil Sports Academy, Mumbai",2022,SRH,field,Group Stage,PBKS,151,10,120,SRH,152,3,116
-133,1304062,GT,"Brabourne Stadium, Mumbai",2022,GT,field,Group Stage,PBKS,189,9,120,GT,190,4,120
-134,1473508,RCB,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025,RCB,field,Qualifier 1,PBKS,101,10,87,RCB,106,2,60
-135,1426285,KKR,"Eden Gardens, Kolkata",2024,DC,bat,Group Stage,DC,153,9,120,KKR,157,3,101
-136,1304108,GT,"Wankhede Stadium, Mumbai",2022,CSK,bat,Group Stage,CSK,133,5,120,GT,137,3,119
-137,1312199,RR,"Narendra Modi Stadium, Ahmedabad",2022,RR,field,Qualifier 2,RCB,157,8,120,RR,161,3,109
-138,1473462,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2025,KKR,field,Group Stage,CSK,103,9,120,KKR,107,2,65
-139,1359523,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2023,CSK,field,Group Stage,MI,139,8,120,CSK,140,4,109
-140,1359489,LSG,"M Chinnaswamy Stadium, Bengaluru",2023,LSG,field,Group Stage,RCB,212,2,120,LSG,213,9,120
-141,1426300,RCB,"M Chinnaswamy Stadium, Bengaluru",2024,DC,field,Group Stage,RCB,187,9,120,DC,140,10,120
-142,1359535,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2023,CSK,bat,Group Stage,CSK,144,6,120,KKR,147,4,118
-143,1422139,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024,LSG,bat,Group Stage,LSG,163,5,120,GT,130,10,120
-144,1473474,RCB,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025,RCB,field,Group Stage,PBKS,157,6,120,RCB,159,3,114
-145,1426290,RCB,"M Chinnaswamy Stadium, Bengaluru",2024,RCB,field,Group Stage,GT,147,10,120,RCB,152,6,83
-146,1359519,No Result,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023,CSK,field,Group Stage,LSG,125,7,118,CSK,0,0,0
-147,1304077,RCB,"Dr DY Patil Sports Academy, Mumbai",2022,LSG,field,Group Stage,RCB,181,6,120,LSG,163,8,120
-148,1304098,RR,"Wankhede Stadium, Mumbai",2022,PBKS,bat,Group Stage,PBKS,189,5,120,RR,190,4,120
-149,1473458,RCB,"Wankhede Stadium, Mumbai",2025,MI,field,Group Stage,RCB,221,5,120,MI,209,9,120
-150,1304061,LSG,"Dr DY Patil Sports Academy, Mumbai",2022,LSG,field,Group Stage,DC,149,3,120,LSG,155,4,120
-151,1426286,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024,LSG,field,Group Stage,MI,144,7,120,LSG,145,6,120
-152,1426269,RR,"Eden Gardens, Kolkata",2024,RR,field,Group Stage,KKR,223,6,120,RR,224,8,120
-153,1473481,No Result,"Eden Gardens, Kolkata",2025,PBKS,bat,Group Stage,PBKS,201,4,120,KKR,7,0,7
-154,1304104,DC,"Dr DY Patil Sports Academy, Mumbai",2022,DC,field,Group Stage,RR,160,6,120,DC,161,2,114
-155,1473439,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025,RR,field,Group Stage,SRH,286,6,120,RR,242,6,120
-156,1422123,GT,"Narendra Modi Stadium, Ahmedabad",2024,MI,field,Group Stage,GT,168,6,120,MI,162,9,120
-157,1359485,RR,"Barsapara Cricket Stadium, Guwahati",2023,DC,field,Group Stage,RR,199,4,120,DC,142,9,120
-158,1422135,PBKS,"Narendra Modi Stadium, Ahmedabad",2024,PBKS,field,Group Stage,GT,199,4,120,PBKS,200,7,120
-159,1359539,RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023,RCB,field,Group Stage,SRH,186,5,120,RCB,187,2,120
-160,1359493,SRH,"Eden Gardens, Kolkata",2023,KKR,field,Group Stage,SRH,228,4,120,KKR,205,7,120
-161,1473478,MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025,MI,field,Group Stage,SRH,143,8,120,MI,146,3,95
-162,1473497,PBKS,"Sawai Mansingh Stadium, Jaipur",2025,PBKS,bat,Group Stage,PBKS,219,5,120,RR,209,7,120
-163,1304112,LSG,"Dr DY Patil Sports Academy, Mumbai",2022,LSG,bat,Group Stage,LSG,210,0,120,KKR,208,8,120
-164,1304057,PBKS,"Brabourne Stadium, Mumbai",2022,CSK,field,Group Stage,PBKS,180,8,120,CSK,126,10,112
-165,1422119,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2024,RCB,bat,Group Stage,RCB,173,6,120,CSK,176,4,120
-166,1426273,SRH,"Arun Jaitley Stadium, Delhi",2024,DC,field,Group Stage,SRH,266,7,120,DC,199,10,120
-167,1359515,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",2023,CSK,bat,Group Stage,CSK,200,4,120,PBKS,201,6,120
-168,1473511,RCB,"Narendra Modi Stadium, Ahmedabad",2025,PBKS,field,Final,RCB,190,9,120,PBKS,184,7,120
-169,1473454,DC,"MA Chidambaram Stadium, Chepauk, Chennai",2025,DC,bat,Group Stage,DC,183,6,120,CSK,158,5,120
-170,1304094,PBKS,"Dr DY Patil Sports Academy, Mumbai",2022,GT,bat,Group Stage,GT,143,8,120,PBKS,145,2,100
-171,1359542,LSG,"Eden Gardens, Kolkata",2023,KKR,field,Group Stage,LSG,176,8,120,KKR,175,7,120
-172,1473507,RCB,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025,RCB,field,Group Stage,LSG,227,3,120,RCB,230,4,117
-173,1473442,PBKS,"Narendra Modi Stadium, Ahmedabad",2025,GT,field,Group Stage,PBKS,243,5,120,GT,232,5,120
-174,1304082,SRH,"Brabourne Stadium, Mumbai",2022,SRH,field,Group Stage,RCB,68,10,105,SRH,72,1,49
-175,1359503,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2023,CSK,field,Group Stage,SRH,134,7,120,CSK,138,3,112
-176,1426265,RR,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024,RR,field,Group Stage,PBKS,147,8,120,RR,152,7,120
-177,1426264,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024,LSG,bat,Group Stage,LSG,167,7,120,DC,170,4,112
-178,1359502,DC,"Arun Jaitley Stadium, Delhi",2023,DC,field,Group Stage,KKR,127,10,120,DC,128,6,120
-179,1304083,LSG,"Wankhede Stadium, Mumbai",2022,MI,field,Group Stage,LSG,168,6,120,MI,132,8,120
-180,1473506,PBKS,"Sawai Mansingh Stadium, Jaipur",2025,PBKS,field,Group Stage,MI,184,7,120,PBKS,187,3,118
-181,1473443,KKR,"Barsapara Cricket Stadium, Guwahati",2025,KKR,field,Group Stage,RR,151,9,120,KKR,153,2,110
-182,1304095,RCB,"Maharashtra Cricket Association Stadium, Pune",2022,CSK,field,Group Stage,RCB,173,8,120,CSK,160,8,120
-183,1359543,MI,"Wankhede Stadium, Mumbai",2023,MI,field,Group Stage,SRH,200,5,120,MI,201,2,113
-184,1473510,PBKS,"Narendra Modi Stadium, Ahmedabad",2025,PBKS,field,Qualifier 2,MI,203,6,120,PBKS,207,5,118
-185,1473455,RR,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025,PBKS,field,Group Stage,RR,205,4,120,PBKS,155,9,120
-186,1359514,SRH,"Arun Jaitley Stadium, Delhi",2023,SRH,bat,Group Stage,SRH,197,6,120,DC,188,6,120
-187,1426272,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024,LSG,field,Group Stage,CSK,176,6,120,LSG,180,2,120
-188,1304113,RCB,"Wankhede Stadium, Mumbai",2022,GT,bat,Group Stage,GT,168,5,120,RCB,170,2,115
-189,1304056,GT,"Maharashtra Cricket Association Stadium, Pune",2022,DC,field,Group Stage,GT,171,6,120,DC,157,9,120
-190,1473479,RCB,"M Chinnaswamy Stadium, Bengaluru",2025,RR,field,Group Stage,RCB,205,5,120,RR,194,9,120
-191,1359538,DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2023,PBKS,field,Group Stage,DC,213,2,120,PBKS,198,8,120
-192,1359492,GT,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023,GT,field,Group Stage,PBKS,153,8,120,GT,154,4,119
-193,1422134,KKR,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2024,KKR,bat,Group Stage,KKR,272,7,120,DC,166,10,110
-194,1359484,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023,SRH,bat,Group Stage,SRH,121,8,120,LSG,127,5,101
-195,1473438,RCB,"Eden Gardens, Kolkata",2025,RCB,field,Group Stage,KKR,174,8,120,RCB,177,3,99
-196,1422122,RR,"Sawai Mansingh Stadium, Jaipur",2024,RR,bat,Group Stage,RR,193,4,120,LSG,173,6,120
-197,1304105,MI,"Wankhede Stadium, Mumbai",2022,MI,field,Group Stage,CSK,97,10,104,MI,103,5,94
-198,1473480,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",2025,SRH,field,Group Stage,CSK,154,10,120,SRH,155,5,120
-199,1426287,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",2024,PBKS,field,Group Stage,CSK,162,7,120,PBKS,163,3,116
-200,1426268,SRH,"M Chinnaswamy Stadium, Bengaluru",2024,RCB,field,Group Stage,SRH,287,3,120,RCB,262,7,120
-201,1304060,KKR,"Maharashtra Cricket Association Stadium, Pune",2022,KKR,field,Group Stage,MI,161,4,120,KKR,162,5,97
-202,1473459,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025,PBKS,bat,Group Stage,PBKS,219,6,120,CSK,201,5,120
-203,1304076,RR,"Brabourne Stadium, Mumbai",2022,KKR,field,Group Stage,RR,217,5,120,KKR,210,10,120
-204,1304099,LSG,"Maharashtra Cricket Association Stadium, Pune",2022,KKR,field,Group Stage,LSG,176,7,120,KKR,101,10,89
-205,1426291,CSK,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2024,PBKS,field,Group Stage,CSK,167,9,120,PBKS,139,9,120
-206,1359518,DC,"Narendra Modi Stadium, Ahmedabad",2023,DC,bat,Group Stage,DC,130,8,120,GT,125,6,120
-207,1473475,MI,"Wankhede Stadium, Mumbai",2025,MI,field,Group Stage,CSK,176,5,120,MI,177,1,102
-208,1422138,MI,"Wankhede Stadium, Mumbai",2024,DC,field,Group Stage,MI,234,5,120,DC,205,8,120
-209,1359534,RCB,"Sawai Mansingh Stadium, Jaipur",2023,RCB,bat,Group Stage,RCB,171,5,120,RR,59,10,65
-210,1359522,GT,"Sawai Mansingh Stadium, Jaipur",2023,RR,bat,Group Stage,RR,118,10,114,GT,119,1,84
-211,1359488,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023,SRH,field,Group Stage,PBKS,143,9,120,SRH,145,2,103
-212,1473463,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025,LSG,field,Group Stage,GT,180,6,120,LSG,186,4,120
-213,1304109,RR,"Brabourne Stadium, Mumbai",2022,RR,bat,Group Stage,RR,178,6,120,LSG,154,8,120
-214,1312198,RCB,"Eden Gardens, Kolkata",2022,LSG,field,Eliminator,RCB,207,4,120,LSG,193,6,120
-215,1473468,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025,PBKS,bat,Group Stage,PBKS,111,10,96,KKR,95,10,92
-216,1473487,MI,"Sawai Mansingh Stadium, Jaipur",2025,RR,field,Group Stage,MI,217,2,120,RR,117,10,100
-217,1304102,KKR,"Dr DY Patil Sports Academy, Mumbai",2022,MI,field,Group Stage,KKR,165,9,120,MI,113,10,107
-218,1304047,KKR,"Wankhede Stadium, Mumbai",2022,KKR,field,Group Stage,CSK,131,5,120,KKR,133,4,111
-219,1422125,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2024,GT,field,Group Stage,CSK,206,6,120,GT,143,8,120
-220,1359483,KKR,"Eden Gardens, Kolkata",2023,RCB,field,Group Stage,KKR,204,7,120,RCB,123,10,107
-221,1359529,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2023,CSK,bat,Group Stage,CSK,167,8,120,DC,140,8,120
-222,1370351,MI,"MA Chidambaram Stadium, Chepauk, Chennai",2023,MI,bat,Eliminator,MI,182,8,120,LSG,101,10,102
-223,1422133,LSG,"M Chinnaswamy Stadium, Bengaluru",2024,RCB,field,Group Stage,LSG,181,5,120,RCB,153,10,120
-224,1359495,PBKS,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023,PBKS,field,Group Stage,LSG,159,8,120,PBKS,161,8,120
-225,1473491,PBKS,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2025,LSG,field,Group Stage,PBKS,236,5,120,LSG,199,7,120
-226,1304114,RR,"Brabourne Stadium, Mumbai",2022,CSK,bat,Group Stage,CSK,150,6,120,RR,151,5,120
-227,1304051,RR,"Maharashtra Cricket Association Stadium, Pune",2022,SRH,field,Group Stage,RR,210,6,120,SRH,149,7,120
-228,1426275,GT,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024,PBKS,bat,Group Stage,PBKS,142,10,120,GT,146,7,116
-229,1359513,GT,"Eden Gardens, Kolkata",2023,GT,field,Group Stage,KKR,179,7,120,GT,180,3,110
-230,1473452,KKR,"Eden Gardens, Kolkata",2025,SRH,field,Group Stage,KKR,200,6,120,SRH,120,10,105
-231,1359544,GT,"M Chinnaswamy Stadium, Bengaluru",2023,GT,field,Group Stage,RCB,197,5,120,GT,198,4,120
-232,1304092,CSK,"Maharashtra Cricket Association Stadium, Pune",2022,SRH,field,Group Stage,CSK,202,2,120,SRH,189,6,120
-233,1473501,MI,"Wankhede Stadium, Mumbai",2025,DC,field,Group Stage,MI,180,5,120,DC,121,10,111
-234,1473444,LSG,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025,LSG,field,Group Stage,SRH,190,9,120,LSG,193,5,106
-235,1304084,PBKS,"Wankhede Stadium, Mumbai",2022,CSK,field,Group Stage,PBKS,187,4,120,CSK,176,6,120
-236,1359505,PBKS,"Wankhede Stadium, Mumbai",2023,MI,field,Group Stage,PBKS,214,8,120,MI,201,6,120
-237,1426263,MI,"Wankhede Stadium, Mumbai",2024,MI,field,Group Stage,RCB,196,8,120,MI,199,3,96
-238,1473464,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025,PBKS,bat,Group Stage,PBKS,245,6,120,SRH,247,2,120
-239,1359525,GT,"Narendra Modi Stadium, Ahmedabad",2023,LSG,field,Group Stage,GT,227,2,120,LSG,171,7,120
-240,1426306,RCB,"M Chinnaswamy Stadium, Bengaluru",2024,CSK,field,Group Stage,RCB,218,5,120,CSK,191,7,120
-241,1422129,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024,LSG,bat,Group Stage,LSG,199,8,120,PBKS,178,5,120
-242,1359499,MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023,SRH,field,Group Stage,MI,192,5,120,SRH,178,10,120
-243,1359533,PBKS,"Arun Jaitley Stadium, Delhi",2023,DC,field,Group Stage,PBKS,167,7,120,DC,136,8,120
-244,1426310,RR,"Narendra Modi Stadium, Ahmedabad",2024,RR,field,Eliminator,RCB,172,8,120,RR,174,6,119
-245,1359476,PBKS,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023,KKR,field,Group Stage,PBKS,191,5,120,KKR,146,7,99
-246,1473472,GT,"Narendra Modi Stadium, Ahmedabad",2025,GT,field,Group Stage,DC,203,8,120,GT,204,3,120
-247,1426296,RCB,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2024,PBKS,field,Group Stage,RCB,241,7,120,PBKS,181,10,105
-248,1426279,RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024,RCB,bat,Group Stage,RCB,206,7,120,SRH,171,8,120
-249,1304071,SRH,"Brabourne Stadium, Mumbai",2022,SRH,field,Group Stage,KKR,175,8,120,SRH,176,3,111
-250,1304067,SRH,"Dr DY Patil Sports Academy, Mumbai",2022,SRH,field,Group Stage,GT,162,7,120,SRH,168,3,118
-251,1304088,LSG,"Maharashtra Cricket Association Stadium, Pune",2022,PBKS,field,Group Stage,LSG,153,8,120,PBKS,133,8,120
-252,1473448,RR,"Barsapara Cricket Stadium, Guwahati",2025,CSK,field,Group Stage,RR,182,9,120,CSK,176,6,120
-253,1426280,PBKS,"Eden Gardens, Kolkata",2024,PBKS,field,Group Stage,KKR,261,6,120,PBKS,262,2,116
-254,1359509,GT,"Narendra Modi Stadium, Ahmedabad",2023,MI,field,Group Stage,GT,207,6,120,MI,152,9,120
-255,1426281,DC,"Arun Jaitley Stadium, Delhi",2024,MI,field,Group Stage,DC,257,4,120,MI,247,9,120
-256,1359508,DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023,DC,bat,Group Stage,DC,144,9,120,SRH,137,6,120
-257,1473449,MI,"Wankhede Stadium, Mumbai",2025,MI,field,Group Stage,KKR,116,10,102,MI,121,2,80
-258,1304066,RR,"Wankhede Stadium, Mumbai",2022,LSG,field,Group Stage,RR,165,6,120,LSG,162,8,120
-259,1304089,GT,"Brabourne Stadium, Mumbai",2022,RCB,bat,Group Stage,RCB,170,6,120,GT,174,4,120
-260,1304070,GT,"Dr DY Patil Sports Academy, Mumbai",2022,RR,field,Group Stage,GT,192,4,120,RR,155,9,120
-261,1426297,GT,"Narendra Modi Stadium, Ahmedabad",2024,CSK,field,Group Stage,GT,231,3,120,CSK,196,8,120
-262,1426278,DC,"Arun Jaitley Stadium, Delhi",2024,GT,field,Group Stage,DC,224,4,120,GT,220,8,120
-263,1473473,LSG,"Sawai Mansingh Stadium, Jaipur",2025,LSG,bat,Group Stage,LSG,180,5,120,RR,178,5,120
-264,1359498,CSK,"M Chinnaswamy Stadium, Bengaluru",2023,RCB,field,Group Stage,CSK,226,6,120,RCB,218,8,120
-265,1359532,LSG,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023,SRH,bat,Group Stage,SRH,182,6,120,LSG,185,3,120
-266,1359477,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023,DC,field,Group Stage,LSG,193,6,120,DC,143,9,120
-267,1426311,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",2024,RR,field,Qualifier 2,SRH,175,9,120,RR,139,7,120
-268,1422128,KKR,"M Chinnaswamy Stadium, Bengaluru",2024,KKR,field,Group Stage,RCB,182,6,120,KKR,186,3,105
-269,1359524,DC,"Arun Jaitley Stadium, Delhi",2023,RCB,bat,Group Stage,RCB,181,4,120,DC,187,3,103
-270,1426307,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024,PBKS,bat,Group Stage,PBKS,214,5,120,SRH,215,6,120
-271,1473465,RCB,"Sawai Mansingh Stadium, Jaipur",2025,RCB,field,Group Stage,RR,173,4,120,RCB,175,1,111
-272,1426262,GT,"Sawai Mansingh Stadium, Jaipur",2024,GT,field,Group Stage,RR,196,3,120,GT,199,7,120
-273,1359504,GT,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023,GT,bat,Group Stage,GT,135,6,120,LSG,128,7,120
-274,1304085,RR,"Maharashtra Cricket Association Stadium, Pune",2022,RCB,field,Group Stage,RR,144,8,120,RCB,115,10,120
-275,1473500,RR,"Arun Jaitley Stadium, Delhi",2025,RR,field,Group Stage,CSK,187,8,120,RR,188,4,107
-276,1473445,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",2025,CSK,field,Group Stage,RCB,196,7,120,CSK,146,8,120
-277,1304093,KKR,"Wankhede Stadium, Mumbai",2022,KKR,field,Group Stage,RR,152,5,120,KKR,158,3,120
-278,1473453,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025,MI,field,Group Stage,LSG,203,8,120,MI,191,5,120
-279,1359512,LSG,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023,PBKS,field,Group Stage,LSG,257,5,120,PBKS,201,10,120
-280,1426274,KKR,"Eden Gardens, Kolkata",2024,RCB,field,Group Stage,KKR,222,6,120,RCB,221,10,120
-281,1304115,MI,"Wankhede Stadium, Mumbai",2022,MI,field,Group Stage,DC,159,7,120,MI,160,5,119
-282,1304050,GT,"Wankhede Stadium, Mumbai",2022,GT,field,Group Stage,LSG,158,6,120,GT,161,5,120
-283,1473490,KKR,"Eden Gardens, Kolkata",2025,KKR,bat,Group Stage,KKR,206,4,120,RR,205,8,120
-284,1359494,RCB,"M Chinnaswamy Stadium, Bengaluru",2023,DC,field,Group Stage,RCB,174,6,120,DC,151,9,120
-285,1422132,RR,"Wankhede Stadium, Mumbai",2024,RR,field,Group Stage,MI,125,9,120,RR,127,4,99
-286,1359482,PBKS,"Barsapara Cricket Stadium, Guwahati",2023,RR,field,Group Stage,PBKS,197,5,120,RR,192,7,120
-287,1359528,MI,"Wankhede Stadium, Mumbai",2023,MI,field,Group Stage,RCB,199,6,120,MI,200,4,106
-288,1370350,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2023,GT,field,Qualifier 1,CSK,172,7,120,GT,157,10,120
-289,1422124,RCB,"M Chinnaswamy Stadium, Bengaluru",2024,RCB,field,Group Stage,PBKS,176,6,120,RCB,178,6,120
-290,1304103,GT,"Maharashtra Cricket Association Stadium, Pune",2022,GT,bat,Group Stage,GT,144,4,120,LSG,82,10,86
-291,1473469,No Result,"Arun Jaitley Stadium, Delhi",2025,RR,field,Group Stage,DC,188,5,120,RR,188,5,120
-292,1473486,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",2025,PBKS,field,Group Stage,CSK,190,10,120,PBKS,194,6,120
+,match_id,winner,venue,date,season,toss_winner,toss_decision,match_type,team_1,team_1_score,team_1_wickets,team_1_balls_faced,team_2,team_2_score,team_2_wickets,team_2_balls_faced
+0,1426261,SRH,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-04-09,2024,PBKS,field,Group Stage,SRH,182,9,120,PBKS,180,6,120
+1,1359507,CSK,"Eden Gardens, Kolkata",2023-04-23,2023,KKR,field,Group Stage,CSK,235,4,120,KKR,186,8,120
+2,1304086,GT,"Wankhede Stadium, Mumbai",2022-04-27,2022,GT,field,Group Stage,SRH,195,6,120,GT,199,5,120
+3,1304069,PBKS,"Maharashtra Cricket Association Stadium, Pune",2022-04-13,2022,MI,field,Group Stage,PBKS,198,5,120,MI,186,9,120
+4,1473446,GT,"Narendra Modi Stadium, Ahmedabad",2025-03-29,2025,MI,field,Group Stage,GT,196,8,120,MI,160,6,120
+5,1473503,SRH,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-05-23,2025,RCB,field,Group Stage,SRH,231,6,120,RCB,189,10,120
+6,1304090,MI,"Dr DY Patil Sports Academy, Mumbai",2022-04-30,2022,MI,field,Group Stage,RR,158,6,120,MI,161,5,120
+7,1473450,PBKS,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-04-01,2025,PBKS,field,Group Stage,LSG,171,7,120,PBKS,177,2,101
+8,1359511,RR,"Sawai Mansingh Stadium, Jaipur",2023-04-27,2023,RR,bat,Group Stage,RR,202,5,120,CSK,170,6,120
+9,1426277,LSG,"MA Chidambaram Stadium, Chepauk, Chennai",2024-04-23,2024,LSG,field,Group Stage,CSK,210,4,120,LSG,213,4,120
+10,1426298,KKR,"Eden Gardens, Kolkata",2024-05-11,2024,MI,field,Group Stage,KKR,157,7,99,MI,139,8,102
+11,1304053,LSG,"Brabourne Stadium, Mumbai",2022-03-31,2022,LSG,field,Group Stage,CSK,210,7,120,LSG,211,4,120
+12,1304116,PBKS,"Wankhede Stadium, Mumbai",2022-05-22,2022,SRH,bat,Group Stage,SRH,157,8,120,PBKS,160,5,95
+13,1473493,GT,"Wankhede Stadium, Mumbai",2025-05-06,2025,GT,field,Group Stage,MI,155,8,120,GT,147,7,120
+14,1359478,RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-04-02,2023,SRH,field,Group Stage,RR,203,5,120,SRH,131,8,120
+15,1359497,RR,"Narendra Modi Stadium, Ahmedabad",2023-04-16,2023,RR,field,Group Stage,GT,177,7,120,RR,179,7,118
+16,1422131,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2024-03-31,2024,DC,bat,Group Stage,DC,191,5,120,CSK,171,6,120
+17,1370353,CSK,"Narendra Modi Stadium, Ahmedabad",2023-05-29,2023,CSK,field,Final,GT,214,4,120,CSK,171,5,94
+18,1359481,GT,"Arun Jaitley Stadium, Delhi",2023-04-04,2023,GT,field,Group Stage,DC,162,8,120,GT,163,4,115
+19,1422127,RR,"Sawai Mansingh Stadium, Jaipur",2024-03-28,2024,DC,field,Group Stage,RR,185,5,120,DC,173,5,120
+20,1312200,GT,"Narendra Modi Stadium, Ahmedabad",2022-05-29,2022,RR,bat,Final,RR,130,9,120,GT,133,3,113
+21,1304100,RCB,"Wankhede Stadium, Mumbai",2022-05-08,2022,RCB,bat,Group Stage,RCB,192,3,120,SRH,125,10,120
+22,1473485,KKR,"Arun Jaitley Stadium, Delhi",2025-04-29,2025,DC,field,Group Stage,KKR,204,9,120,DC,190,9,120
+23,1426282,RR,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-27,2024,RR,field,Group Stage,LSG,196,5,120,RR,199,3,116
+24,1304065,DC,"Brabourne Stadium, Mumbai",2022-04-10,2022,KKR,field,Group Stage,DC,215,5,120,KKR,171,10,120
+25,1304073,RCB,"Wankhede Stadium, Mumbai",2022-04-16,2022,DC,field,Group Stage,RCB,189,5,120,DC,173,7,120
+26,1426294,DC,"Arun Jaitley Stadium, Delhi",2024-05-07,2024,RR,field,Group Stage,DC,221,8,120,RR,201,8,120
+27,1473470,MI,"Wankhede Stadium, Mumbai",2025-04-17,2025,MI,field,Group Stage,SRH,162,5,120,MI,166,6,113
+28,1426312,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2024-05-26,2024,SRH,bat,Final,SRH,113,10,117,KKR,114,2,67
+29,1359531,MI,"Wankhede Stadium, Mumbai",2023-05-12,2023,GT,field,Group Stage,MI,218,5,120,GT,191,8,120
+30,1359527,KKR,"Eden Gardens, Kolkata",2023-05-08,2023,PBKS,bat,Group Stage,PBKS,179,7,120,KKR,182,5,120
+31,1473489,RCB,"M Chinnaswamy Stadium, Bengaluru",2025-05-03,2025,CSK,field,Group Stage,RCB,213,5,120,CSK,211,5,120
+32,1473466,MI,"Arun Jaitley Stadium, Delhi",2025-04-13,2025,DC,field,Group Stage,MI,205,5,120,DC,193,10,119
+33,1304049,PBKS,"Dr DY Patil Sports Academy, Mumbai",2022-03-27,2022,PBKS,field,Group Stage,RCB,205,2,120,PBKS,208,5,120
+34,1304048,DC,"Brabourne Stadium, Mumbai",2022-03-27,2022,DC,field,Group Stage,MI,177,5,120,DC,179,6,117
+35,1473488,GT,"Narendra Modi Stadium, Ahmedabad",2025-05-02,2025,SRH,field,Group Stage,GT,224,6,120,SRH,186,6,120
+36,1473467,CSK,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-04-14,2025,CSK,field,Group Stage,LSG,166,7,120,CSK,168,5,120
+37,1426305,LSG,"Wankhede Stadium, Mumbai",2024-05-17,2024,MI,field,Group Stage,LSG,214,6,120,MI,196,6,120
+38,1359526,SRH,"Sawai Mansingh Stadium, Jaipur",2023-05-07,2023,RR,bat,Group Stage,RR,214,2,120,SRH,217,6,120
+39,1359475,GT,"Narendra Modi Stadium, Ahmedabad",2023-03-31,2023,GT,field,Group Stage,CSK,178,7,120,GT,182,5,120
+40,1359530,RR,"Eden Gardens, Kolkata",2023-05-11,2023,RR,field,Group Stage,KKR,149,8,120,RR,151,1,82
+41,1473471,PBKS,"M Chinnaswamy Stadium, Bengaluru",2025-04-18,2025,PBKS,field,Group Stage,RCB,95,9,85,PBKS,98,5,75
+42,1426295,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-05-08,2024,LSG,bat,Group Stage,LSG,165,4,120,SRH,167,0,60
+43,1304072,LSG,"Brabourne Stadium, Mumbai",2022-04-16,2022,MI,field,Group Stage,LSG,199,4,120,MI,181,9,120
+44,1304064,RCB,"Maharashtra Cricket Association Stadium, Pune",2022-04-09,2022,RCB,field,Group Stage,MI,151,6,120,RCB,152,3,114
+45,1426283,RCB,"Narendra Modi Stadium, Ahmedabad",2024-04-28,2024,RCB,field,Group Stage,GT,200,3,120,RCB,206,1,100
+46,1473484,RR,"Sawai Mansingh Stadium, Jaipur",2025-04-28,2025,RR,field,Group Stage,GT,209,4,120,RR,212,2,99
+47,1304101,CSK,"Dr DY Patil Sports Academy, Mumbai",2022-05-08,2022,DC,field,Group Stage,CSK,208,6,120,DC,117,10,108
+48,1422126,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-03-27,2024,MI,field,Group Stage,SRH,277,3,120,MI,246,5,120
+49,1370352,GT,"Narendra Modi Stadium, Ahmedabad",2023-05-26,2023,MI,field,Qualifier 2,GT,233,3,120,MI,171,10,115
+50,1426309,KKR,"Narendra Modi Stadium, Ahmedabad",2024-05-21,2024,SRH,bat,Qualifier 1,SRH,159,10,120,KKR,164,2,84
+51,1359480,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2023-04-03,2023,LSG,field,Group Stage,CSK,217,7,120,LSG,205,7,120
+52,1422130,GT,"Narendra Modi Stadium, Ahmedabad",2024-03-31,2024,SRH,bat,Group Stage,SRH,162,8,120,GT,168,3,119
+53,1359479,RCB,"M Chinnaswamy Stadium, Bengaluru",2023-04-02,2023,RCB,field,Group Stage,MI,171,7,120,RCB,172,2,102
+54,1359496,MI,"Wankhede Stadium, Mumbai",2023-04-16,2023,MI,field,Group Stage,KKR,185,6,120,MI,186,5,109
+55,1473492,No Result,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025-05-05,2025,SRH,field,Group Stage,DC,133,7,120,SRH,0,0,0
+56,1304052,RCB,"Dr DY Patil Sports Academy, Mumbai",2022-03-30,2022,RCB,field,Group Stage,KKR,128,10,115,RCB,132,7,120
+57,1426276,RR,"Sawai Mansingh Stadium, Jaipur",2024-04-22,2024,MI,bat,Group Stage,MI,179,9,120,RR,183,1,117
+58,1359510,KKR,"M Chinnaswamy Stadium, Bengaluru",2023-04-26,2023,RCB,field,Group Stage,KKR,200,5,120,RCB,179,8,120
+59,1426299,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2024-05-12,2024,RR,bat,Group Stage,RR,141,5,120,CSK,145,5,115
+60,1473451,GT,"M Chinnaswamy Stadium, Bengaluru",2025-04-02,2025,GT,field,Group Stage,RCB,169,8,120,GT,170,2,108
+61,1304091,LSG,"Wankhede Stadium, Mumbai",2022-05-01,2022,LSG,bat,Group Stage,LSG,195,3,120,DC,189,7,120
+62,1473447,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2025-03-30,2025,SRH,bat,Group Stage,SRH,163,10,119,DC,166,3,98
+63,1473502,LSG,"Narendra Modi Stadium, Ahmedabad",2025-05-22,2025,GT,field,Group Stage,LSG,235,2,120,GT,202,9,120
+64,1304087,DC,"Wankhede Stadium, Mumbai",2022-04-28,2022,DC,field,Group Stage,KKR,146,9,120,DC,150,6,117
+65,1304068,CSK,"Dr DY Patil Sports Academy, Mumbai",2022-04-12,2022,RCB,field,Group Stage,CSK,216,4,120,RCB,193,9,120
+66,1359506,RCB,"M Chinnaswamy Stadium, Bengaluru",2023-04-23,2023,RR,field,Group Stage,RCB,189,9,120,RR,182,6,120
+67,1426260,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2024-04-08,2024,CSK,field,Group Stage,KKR,137,9,120,CSK,141,3,109
+68,1426284,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2024-04-28,2024,SRH,field,Group Stage,CSK,212,3,120,SRH,134,10,116
+69,1473509,MI,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2025-05-30,2025,MI,bat,Eliminator,MI,228,5,120,GT,208,6,120
+70,1304063,SRH,"Dr DY Patil Sports Academy, Mumbai",2022-04-09,2022,SRH,field,Group Stage,CSK,154,7,120,SRH,155,2,110
+71,1304075,GT,"Maharashtra Cricket Association Stadium, Pune",2022-04-17,2022,GT,field,Group Stage,CSK,169,5,120,GT,170,7,120
+72,1426292,KKR,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-05-05,2024,LSG,field,Group Stage,KKR,235,6,120,LSG,137,10,103
+73,1473499,SRH,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-05-19,2025,SRH,field,Group Stage,LSG,205,7,120,SRH,206,5,119
+74,1473476,GT,"Eden Gardens, Kolkata",2025-04-21,2025,KKR,field,Group Stage,GT,198,3,120,KKR,159,8,120
+75,1304059,RCB,"Wankhede Stadium, Mumbai",2022-04-05,2022,RCB,field,Group Stage,RR,169,3,120,RCB,173,6,120
+76,1359537,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-05-16,2023,MI,field,Group Stage,LSG,177,4,120,MI,172,5,120
+77,1426302,DC,"Arun Jaitley Stadium, Delhi",2024-05-14,2024,LSG,field,Group Stage,DC,208,4,120,LSG,189,9,120
+78,1359521,KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-05-04,2023,KKR,bat,Group Stage,KKR,171,9,120,SRH,166,8,120
+79,1473460,GT,"Narendra Modi Stadium, Ahmedabad",2025-04-09,2025,RR,field,Group Stage,GT,217,6,120,RR,159,10,120
+80,1426267,CSK,"Wankhede Stadium, Mumbai",2024-04-14,2024,MI,field,Group Stage,CSK,206,4,120,MI,186,6,120
+81,1359501,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-04-20,2023,PBKS,field,Group Stage,RCB,174,4,120,PBKS,150,10,113
+82,1426288,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-05-02,2024,SRH,bat,Group Stage,SRH,201,3,120,RR,200,7,120
+83,1304080,RR,"Wankhede Stadium, Mumbai",2022-04-22,2022,DC,field,Group Stage,RR,222,2,120,DC,207,8,120
+84,1473440,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2025-03-23,2025,CSK,field,Group Stage,MI,155,9,120,CSK,158,6,118
+85,1473505,SRH,"Arun Jaitley Stadium, Delhi",2025-05-25,2025,SRH,bat,Group Stage,SRH,278,3,120,KKR,168,10,116
+86,1359540,RR,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2023-05-19,2023,RR,field,Group Stage,PBKS,187,5,120,RR,189,6,120
+87,1304096,DC,"Brabourne Stadium, Mumbai",2022-05-05,2022,SRH,field,Group Stage,DC,207,3,120,SRH,186,8,120
+88,1304079,CSK,"Dr DY Patil Sports Academy, Mumbai",2022-04-21,2022,CSK,field,Group Stage,MI,155,7,120,CSK,156,7,120
+89,1473456,LSG,"Eden Gardens, Kolkata",2025-04-08,2025,KKR,field,Group Stage,LSG,238,3,120,KKR,234,7,120
+90,1359517,RCB,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-05-01,2023,RCB,bat,Group Stage,RCB,126,9,120,LSG,108,10,120
+91,1426271,MI,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-04-18,2024,PBKS,field,Group Stage,MI,192,7,120,PBKS,183,10,120
+92,1304055,RR,"Dr DY Patil Sports Academy, Mumbai",2022-04-02,2022,MI,field,Group Stage,RR,193,8,120,MI,170,8,120
+93,1304110,DC,"Dr DY Patil Sports Academy, Mumbai",2022-05-16,2022,PBKS,field,Group Stage,DC,159,7,120,PBKS,142,9,120
+94,1473495,No Result,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2025-05-08,2025,PBKS,bat,Group Stage,PBKS,122,1,63,DC,0,0,0
+95,1359491,RR,"MA Chidambaram Stadium, Chepauk, Chennai",2023-04-12,2023,CSK,field,Group Stage,RR,175,8,120,CSK,172,6,120
+96,1422137,RR,"Sawai Mansingh Stadium, Jaipur",2024-04-06,2024,RR,field,Group Stage,RCB,183,3,120,RR,189,4,118
+97,1359487,KKR,"Narendra Modi Stadium, Ahmedabad",2023-04-09,2023,GT,bat,Group Stage,GT,204,4,120,KKR,207,7,120
+98,1422121,KKR,"Eden Gardens, Kolkata",2024-03-23,2024,SRH,field,Group Stage,KKR,208,7,120,SRH,204,7,120
+99,1312197,GT,"Eden Gardens, Kolkata",2022-05-24,2022,GT,field,Qualifier 1,RR,188,6,120,GT,191,3,120
+100,1304106,PBKS,"Brabourne Stadium, Mumbai",2022-05-13,2022,RCB,field,Group Stage,PBKS,209,9,120,RCB,155,9,120
+101,1473483,RCB,"Arun Jaitley Stadium, Delhi",2025-04-27,2025,RCB,field,Group Stage,DC,162,8,120,RCB,165,4,115
+102,1473482,MI,"Wankhede Stadium, Mumbai",2025-04-27,2025,LSG,field,Group Stage,MI,215,7,120,LSG,161,10,120
+103,1304107,KKR,"Maharashtra Cricket Association Stadium, Pune",2022-05-14,2022,KKR,bat,Group Stage,KKR,177,6,120,SRH,123,8,120
+104,1422120,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-03-23,2024,PBKS,field,Group Stage,DC,174,9,120,PBKS,177,6,120
+105,1359486,CSK,"Wankhede Stadium, Mumbai",2023-04-08,2023,CSK,field,Group Stage,MI,157,8,120,CSK,159,3,114
+106,1422136,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-04-05,2024,SRH,field,Group Stage,CSK,165,5,120,SRH,166,4,111
+107,1359490,MI,"Arun Jaitley Stadium, Delhi",2023-04-11,2023,MI,field,Group Stage,DC,172,10,120,MI,173,4,120
+108,1473494,CSK,"Eden Gardens, Kolkata",2025-05-07,2025,KKR,bat,Group Stage,KKR,179,6,120,CSK,183,8,120
+109,1304054,KKR,"Wankhede Stadium, Mumbai",2022-04-01,2022,KKR,field,Group Stage,PBKS,137,10,118,KKR,141,4,92
+110,1304111,SRH,"Wankhede Stadium, Mumbai",2022-05-17,2022,MI,field,Group Stage,SRH,193,6,120,MI,190,7,120
+111,1426270,DC,"Narendra Modi Stadium, Ahmedabad",2024-04-17,2024,DC,field,Group Stage,GT,89,10,112,DC,92,4,55
+112,1359516,MI,"Wankhede Stadium, Mumbai",2023-04-30,2023,RR,bat,Group Stage,RR,212,7,120,MI,214,4,120
+113,1473457,GT,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025-04-06,2025,GT,field,Group Stage,SRH,152,8,120,GT,153,3,103
+114,1359541,CSK,"Arun Jaitley Stadium, Delhi",2023-05-20,2023,CSK,bat,Group Stage,CSK,223,3,120,DC,146,9,120
+115,1304097,MI,"Brabourne Stadium, Mumbai",2022-05-06,2022,GT,field,Group Stage,MI,177,6,120,GT,172,5,120
+116,1304078,DC,"Brabourne Stadium, Mumbai",2022-04-20,2022,DC,field,Group Stage,PBKS,115,10,120,DC,119,1,69
+117,1473441,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2025-03-24,2025,DC,field,Group Stage,LSG,209,8,120,DC,211,9,120
+118,1473504,CSK,"Narendra Modi Stadium, Ahmedabad",2025-05-25,2025,CSK,bat,Group Stage,CSK,230,5,120,GT,147,10,117
+119,1304081,GT,"Dr DY Patil Sports Academy, Mumbai",2022-04-23,2022,GT,bat,Group Stage,GT,156,9,120,KKR,148,8,120
+120,1485779,DC,"Sawai Mansingh Stadium, Jaipur",2025-05-24,2025,DC,field,Group Stage,PBKS,206,8,120,DC,208,4,120
+121,1359500,LSG,"Sawai Mansingh Stadium, Jaipur",2023-04-19,2023,RR,field,Group Stage,LSG,154,7,120,RR,144,6,120
+122,1426266,KKR,"Eden Gardens, Kolkata",2024-04-14,2024,KKR,field,Group Stage,LSG,161,7,120,KKR,162,2,105
+123,1426289,KKR,"Wankhede Stadium, Mumbai",2024-05-03,2024,MI,field,Group Stage,KKR,169,10,120,MI,145,10,118
+124,1473461,DC,"M Chinnaswamy Stadium, Bengaluru",2025-04-10,2025,DC,field,Group Stage,RCB,163,7,120,DC,169,4,110
+125,1426303,PBKS,"Barsapara Cricket Stadium, Guwahati",2024-05-15,2024,RR,bat,Group Stage,RR,144,9,120,PBKS,145,5,114
+126,1359520,MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-05-03,2023,MI,field,Group Stage,PBKS,214,3,120,MI,216,4,116
+127,1359536,GT,"Narendra Modi Stadium, Ahmedabad",2023-05-15,2023,SRH,field,Group Stage,GT,188,9,120,SRH,154,9,120
+128,1304058,LSG,"Dr DY Patil Sports Academy, Mumbai",2022-04-04,2022,SRH,field,Group Stage,LSG,169,7,120,SRH,157,9,120
+129,1473498,GT,"Arun Jaitley Stadium, Delhi",2025-05-18,2025,GT,field,Group Stage,DC,199,3,120,GT,205,0,117
+130,1473477,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-04-22,2025,DC,field,Group Stage,LSG,159,6,120,DC,161,2,110
+131,1426293,MI,"Wankhede Stadium, Mumbai",2024-05-06,2024,MI,field,Group Stage,SRH,173,8,120,MI,174,3,108
+132,1304074,SRH,"Dr DY Patil Sports Academy, Mumbai",2022-04-17,2022,SRH,field,Group Stage,PBKS,151,10,120,SRH,152,3,116
+133,1304062,GT,"Brabourne Stadium, Mumbai",2022-04-08,2022,GT,field,Group Stage,PBKS,189,9,120,GT,190,4,120
+134,1473508,RCB,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025-05-29,2025,RCB,field,Qualifier 1,PBKS,101,10,87,RCB,106,2,60
+135,1426285,KKR,"Eden Gardens, Kolkata",2024-04-29,2024,DC,bat,Group Stage,DC,153,9,120,KKR,157,3,101
+136,1304108,GT,"Wankhede Stadium, Mumbai",2022-05-15,2022,CSK,bat,Group Stage,CSK,133,5,120,GT,137,3,119
+137,1312199,RR,"Narendra Modi Stadium, Ahmedabad",2022-05-27,2022,RR,field,Qualifier 2,RCB,157,8,120,RR,161,3,109
+138,1473462,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2025-04-11,2025,KKR,field,Group Stage,CSK,103,9,120,KKR,107,2,65
+139,1359523,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-06,2023,CSK,field,Group Stage,MI,139,8,120,CSK,140,4,109
+140,1359489,LSG,"M Chinnaswamy Stadium, Bengaluru",2023-04-10,2023,LSG,field,Group Stage,RCB,212,2,120,LSG,213,9,120
+141,1426300,RCB,"M Chinnaswamy Stadium, Bengaluru",2024-05-12,2024,DC,field,Group Stage,RCB,187,9,120,DC,140,10,120
+142,1359535,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-14,2023,CSK,bat,Group Stage,CSK,144,6,120,KKR,147,4,118
+143,1422139,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-07,2024,LSG,bat,Group Stage,LSG,163,5,120,GT,130,10,120
+144,1473474,RCB,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025-04-20,2025,RCB,field,Group Stage,PBKS,157,6,120,RCB,159,3,114
+145,1426290,RCB,"M Chinnaswamy Stadium, Bengaluru",2024-05-04,2024,RCB,field,Group Stage,GT,147,10,120,RCB,152,6,83
+146,1359519,No Result,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-05-03,2023,CSK,field,Group Stage,LSG,125,7,118,CSK,0,0,0
+147,1304077,RCB,"Dr DY Patil Sports Academy, Mumbai",2022-04-19,2022,LSG,field,Group Stage,RCB,181,6,120,LSG,163,8,120
+148,1304098,RR,"Wankhede Stadium, Mumbai",2022-05-07,2022,PBKS,bat,Group Stage,PBKS,189,5,120,RR,190,4,120
+149,1473458,RCB,"Wankhede Stadium, Mumbai",2025-04-07,2025,MI,field,Group Stage,RCB,221,5,120,MI,209,9,120
+150,1304061,LSG,"Dr DY Patil Sports Academy, Mumbai",2022-04-07,2022,LSG,field,Group Stage,DC,149,3,120,LSG,155,4,120
+151,1426286,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-30,2024,LSG,field,Group Stage,MI,144,7,120,LSG,145,6,120
+152,1426269,RR,"Eden Gardens, Kolkata",2024-04-16,2024,RR,field,Group Stage,KKR,223,6,120,RR,224,8,120
+153,1473481,No Result,"Eden Gardens, Kolkata",2025-04-26,2025,PBKS,bat,Group Stage,PBKS,201,4,120,KKR,7,0,7
+154,1304104,DC,"Dr DY Patil Sports Academy, Mumbai",2022-05-11,2022,DC,field,Group Stage,RR,160,6,120,DC,161,2,114
+155,1473439,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025-03-23,2025,RR,field,Group Stage,SRH,286,6,120,RR,242,6,120
+156,1422123,GT,"Narendra Modi Stadium, Ahmedabad",2024-03-24,2024,MI,field,Group Stage,GT,168,6,120,MI,162,9,120
+157,1359485,RR,"Barsapara Cricket Stadium, Guwahati",2023-04-08,2023,DC,field,Group Stage,RR,199,4,120,DC,142,9,120
+158,1422135,PBKS,"Narendra Modi Stadium, Ahmedabad",2024-04-04,2024,PBKS,field,Group Stage,GT,199,4,120,PBKS,200,7,120
+159,1359539,RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-05-18,2023,RCB,field,Group Stage,SRH,186,5,120,RCB,187,2,120
+160,1359493,SRH,"Eden Gardens, Kolkata",2023-04-14,2023,KKR,field,Group Stage,SRH,228,4,120,KKR,205,7,120
+161,1473478,MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025-04-23,2025,MI,field,Group Stage,SRH,143,8,120,MI,146,3,95
+162,1473497,PBKS,"Sawai Mansingh Stadium, Jaipur",2025-05-18,2025,PBKS,bat,Group Stage,PBKS,219,5,120,RR,209,7,120
+163,1304112,LSG,"Dr DY Patil Sports Academy, Mumbai",2022-05-18,2022,LSG,bat,Group Stage,LSG,210,0,120,KKR,208,8,120
+164,1304057,PBKS,"Brabourne Stadium, Mumbai",2022-04-03,2022,CSK,field,Group Stage,PBKS,180,8,120,CSK,126,10,112
+165,1422119,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2024-03-22,2024,RCB,bat,Group Stage,RCB,173,6,120,CSK,176,4,120
+166,1426273,SRH,"Arun Jaitley Stadium, Delhi",2024-04-20,2024,DC,field,Group Stage,SRH,266,7,120,DC,199,10,120
+167,1359515,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",2023-04-30,2023,CSK,bat,Group Stage,CSK,200,4,120,PBKS,201,6,120
+168,1473511,RCB,"Narendra Modi Stadium, Ahmedabad",2025-06-03,2025,PBKS,field,Final,RCB,190,9,120,PBKS,184,7,120
+169,1473454,DC,"MA Chidambaram Stadium, Chepauk, Chennai",2025-04-05,2025,DC,bat,Group Stage,DC,183,6,120,CSK,158,5,120
+170,1304094,PBKS,"Dr DY Patil Sports Academy, Mumbai",2022-05-03,2022,GT,bat,Group Stage,GT,143,8,120,PBKS,145,2,100
+171,1359542,LSG,"Eden Gardens, Kolkata",2023-05-20,2023,KKR,field,Group Stage,LSG,176,8,120,KKR,175,7,120
+172,1473507,RCB,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-05-27,2025,RCB,field,Group Stage,LSG,227,3,120,RCB,230,4,117
+173,1473442,PBKS,"Narendra Modi Stadium, Ahmedabad",2025-03-25,2025,GT,field,Group Stage,PBKS,243,5,120,GT,232,5,120
+174,1304082,SRH,"Brabourne Stadium, Mumbai",2022-04-23,2022,SRH,field,Group Stage,RCB,68,10,105,SRH,72,1,49
+175,1359503,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2023-04-21,2023,CSK,field,Group Stage,SRH,134,7,120,CSK,138,3,112
+176,1426265,RR,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-04-13,2024,RR,field,Group Stage,PBKS,147,8,120,RR,152,7,120
+177,1426264,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-12,2024,LSG,bat,Group Stage,LSG,167,7,120,DC,170,4,112
+178,1359502,DC,"Arun Jaitley Stadium, Delhi",2023-04-20,2023,DC,field,Group Stage,KKR,127,10,120,DC,128,6,120
+179,1304083,LSG,"Wankhede Stadium, Mumbai",2022-04-24,2022,MI,field,Group Stage,LSG,168,6,120,MI,132,8,120
+180,1473506,PBKS,"Sawai Mansingh Stadium, Jaipur",2025-05-26,2025,PBKS,field,Group Stage,MI,184,7,120,PBKS,187,3,118
+181,1473443,KKR,"Barsapara Cricket Stadium, Guwahati",2025-03-26,2025,KKR,field,Group Stage,RR,151,9,120,KKR,153,2,110
+182,1304095,RCB,"Maharashtra Cricket Association Stadium, Pune",2022-05-04,2022,CSK,field,Group Stage,RCB,173,8,120,CSK,160,8,120
+183,1359543,MI,"Wankhede Stadium, Mumbai",2023-05-21,2023,MI,field,Group Stage,SRH,200,5,120,MI,201,2,113
+184,1473510,PBKS,"Narendra Modi Stadium, Ahmedabad",2025-06-01,2025,PBKS,field,Qualifier 2,MI,203,6,120,PBKS,207,5,118
+185,1473455,RR,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025-04-05,2025,PBKS,field,Group Stage,RR,205,4,120,PBKS,155,9,120
+186,1359514,SRH,"Arun Jaitley Stadium, Delhi",2023-04-29,2023,SRH,bat,Group Stage,SRH,197,6,120,DC,188,6,120
+187,1426272,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-19,2024,LSG,field,Group Stage,CSK,176,6,120,LSG,180,2,120
+188,1304113,RCB,"Wankhede Stadium, Mumbai",2022-05-19,2022,GT,bat,Group Stage,GT,168,5,120,RCB,170,2,115
+189,1304056,GT,"Maharashtra Cricket Association Stadium, Pune",2022-04-02,2022,DC,field,Group Stage,GT,171,6,120,DC,157,9,120
+190,1473479,RCB,"M Chinnaswamy Stadium, Bengaluru",2025-04-24,2025,RR,field,Group Stage,RCB,205,5,120,RR,194,9,120
+191,1359538,DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2023-05-17,2023,PBKS,field,Group Stage,DC,213,2,120,PBKS,198,8,120
+192,1359492,GT,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-04-13,2023,GT,field,Group Stage,PBKS,153,8,120,GT,154,4,119
+193,1422134,KKR,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2024-04-03,2024,KKR,bat,Group Stage,KKR,272,7,120,DC,166,10,110
+194,1359484,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-04-07,2023,SRH,bat,Group Stage,SRH,121,8,120,LSG,127,5,101
+195,1473438,RCB,"Eden Gardens, Kolkata",2025-03-22,2025,RCB,field,Group Stage,KKR,174,8,120,RCB,177,3,99
+196,1422122,RR,"Sawai Mansingh Stadium, Jaipur",2024-03-24,2024,RR,bat,Group Stage,RR,193,4,120,LSG,173,6,120
+197,1304105,MI,"Wankhede Stadium, Mumbai",2022-05-12,2022,MI,field,Group Stage,CSK,97,10,104,MI,103,5,94
+198,1473480,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",2025-04-25,2025,SRH,field,Group Stage,CSK,154,10,120,SRH,155,5,120
+199,1426287,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",2024-05-01,2024,PBKS,field,Group Stage,CSK,162,7,120,PBKS,163,3,116
+200,1426268,SRH,"M Chinnaswamy Stadium, Bengaluru",2024-04-15,2024,RCB,field,Group Stage,SRH,287,3,120,RCB,262,7,120
+201,1304060,KKR,"Maharashtra Cricket Association Stadium, Pune",2022-04-06,2022,KKR,field,Group Stage,MI,161,4,120,KKR,162,5,97
+202,1473459,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025-04-08,2025,PBKS,bat,Group Stage,PBKS,219,6,120,CSK,201,5,120
+203,1304076,RR,"Brabourne Stadium, Mumbai",2022-04-18,2022,KKR,field,Group Stage,RR,217,5,120,KKR,210,10,120
+204,1304099,LSG,"Maharashtra Cricket Association Stadium, Pune",2022-05-07,2022,KKR,field,Group Stage,LSG,176,7,120,KKR,101,10,89
+205,1426291,CSK,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2024-05-05,2024,PBKS,field,Group Stage,CSK,167,9,120,PBKS,139,9,120
+206,1359518,DC,"Narendra Modi Stadium, Ahmedabad",2023-05-02,2023,DC,bat,Group Stage,DC,130,8,120,GT,125,6,120
+207,1473475,MI,"Wankhede Stadium, Mumbai",2025-04-20,2025,MI,field,Group Stage,CSK,176,5,120,MI,177,1,102
+208,1422138,MI,"Wankhede Stadium, Mumbai",2024-04-07,2024,DC,field,Group Stage,MI,234,5,120,DC,205,8,120
+209,1359534,RCB,"Sawai Mansingh Stadium, Jaipur",2023-05-14,2023,RCB,bat,Group Stage,RCB,171,5,120,RR,59,10,65
+210,1359522,GT,"Sawai Mansingh Stadium, Jaipur",2023-05-05,2023,RR,bat,Group Stage,RR,118,10,114,GT,119,1,84
+211,1359488,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-04-09,2023,SRH,field,Group Stage,PBKS,143,9,120,SRH,145,2,103
+212,1473463,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-04-12,2025,LSG,field,Group Stage,GT,180,6,120,LSG,186,4,120
+213,1304109,RR,"Brabourne Stadium, Mumbai",2022-05-15,2022,RR,bat,Group Stage,RR,178,6,120,LSG,154,8,120
+214,1312198,RCB,"Eden Gardens, Kolkata",2022-05-25,2022,LSG,field,Eliminator,RCB,207,4,120,LSG,193,6,120
+215,1473468,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025-04-15,2025,PBKS,bat,Group Stage,PBKS,111,10,96,KKR,95,10,92
+216,1473487,MI,"Sawai Mansingh Stadium, Jaipur",2025-05-01,2025,RR,field,Group Stage,MI,217,2,120,RR,117,10,100
+217,1304102,KKR,"Dr DY Patil Sports Academy, Mumbai",2022-05-09,2022,MI,field,Group Stage,KKR,165,9,120,MI,113,10,107
+218,1304047,KKR,"Wankhede Stadium, Mumbai",2022-03-26,2022,KKR,field,Group Stage,CSK,131,5,120,KKR,133,4,111
+219,1422125,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2024-03-26,2024,GT,field,Group Stage,CSK,206,6,120,GT,143,8,120
+220,1359483,KKR,"Eden Gardens, Kolkata",2023-04-06,2023,RCB,field,Group Stage,KKR,204,7,120,RCB,123,10,107
+221,1359529,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-10,2023,CSK,bat,Group Stage,CSK,167,8,120,DC,140,8,120
+222,1370351,MI,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-24,2023,MI,bat,Eliminator,MI,182,8,120,LSG,101,10,102
+223,1422133,LSG,"M Chinnaswamy Stadium, Bengaluru",2024-04-02,2024,RCB,field,Group Stage,LSG,181,5,120,RCB,153,10,120
+224,1359495,PBKS,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-04-15,2023,PBKS,field,Group Stage,LSG,159,8,120,PBKS,161,8,120
+225,1473491,PBKS,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2025-05-04,2025,LSG,field,Group Stage,PBKS,236,5,120,LSG,199,7,120
+226,1304114,RR,"Brabourne Stadium, Mumbai",2022-05-20,2022,CSK,bat,Group Stage,CSK,150,6,120,RR,151,5,120
+227,1304051,RR,"Maharashtra Cricket Association Stadium, Pune",2022-03-29,2022,SRH,field,Group Stage,RR,210,6,120,SRH,149,7,120
+228,1426275,GT,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-04-21,2024,PBKS,bat,Group Stage,PBKS,142,10,120,GT,146,7,116
+229,1359513,GT,"Eden Gardens, Kolkata",2023-04-29,2023,GT,field,Group Stage,KKR,179,7,120,GT,180,3,110
+230,1473452,KKR,"Eden Gardens, Kolkata",2025-04-03,2025,SRH,field,Group Stage,KKR,200,6,120,SRH,120,10,105
+231,1359544,GT,"M Chinnaswamy Stadium, Bengaluru",2023-05-21,2023,GT,field,Group Stage,RCB,197,5,120,GT,198,4,120
+232,1304092,CSK,"Maharashtra Cricket Association Stadium, Pune",2022-05-01,2022,SRH,field,Group Stage,CSK,202,2,120,SRH,189,6,120
+233,1473501,MI,"Wankhede Stadium, Mumbai",2025-05-21,2025,DC,field,Group Stage,MI,180,5,120,DC,121,10,111
+234,1473444,LSG,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025-03-27,2025,LSG,field,Group Stage,SRH,190,9,120,LSG,193,5,106
+235,1304084,PBKS,"Wankhede Stadium, Mumbai",2022-04-25,2022,CSK,field,Group Stage,PBKS,187,4,120,CSK,176,6,120
+236,1359505,PBKS,"Wankhede Stadium, Mumbai",2023-04-22,2023,MI,field,Group Stage,PBKS,214,8,120,MI,201,6,120
+237,1426263,MI,"Wankhede Stadium, Mumbai",2024-04-11,2024,MI,field,Group Stage,RCB,196,8,120,MI,199,3,96
+238,1473464,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025-04-12,2025,PBKS,bat,Group Stage,PBKS,245,6,120,SRH,247,2,120
+239,1359525,GT,"Narendra Modi Stadium, Ahmedabad",2023-05-07,2023,LSG,field,Group Stage,GT,227,2,120,LSG,171,7,120
+240,1426306,RCB,"M Chinnaswamy Stadium, Bengaluru",2024-05-18,2024,CSK,field,Group Stage,RCB,218,5,120,CSK,191,7,120
+241,1422129,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-03-30,2024,LSG,bat,Group Stage,LSG,199,8,120,PBKS,178,5,120
+242,1359499,MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-04-18,2023,SRH,field,Group Stage,MI,192,5,120,SRH,178,10,120
+243,1359533,PBKS,"Arun Jaitley Stadium, Delhi",2023-05-13,2023,DC,field,Group Stage,PBKS,167,7,120,DC,136,8,120
+244,1426310,RR,"Narendra Modi Stadium, Ahmedabad",2024-05-22,2024,RR,field,Eliminator,RCB,172,8,120,RR,174,6,119
+245,1359476,PBKS,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-04-01,2023,KKR,field,Group Stage,PBKS,191,5,120,KKR,146,7,99
+246,1473472,GT,"Narendra Modi Stadium, Ahmedabad",2025-04-19,2025,GT,field,Group Stage,DC,203,8,120,GT,204,3,120
+247,1426296,RCB,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2024-05-09,2024,PBKS,field,Group Stage,RCB,241,7,120,PBKS,181,10,105
+248,1426279,RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-04-25,2024,RCB,bat,Group Stage,RCB,206,7,120,SRH,171,8,120
+249,1304071,SRH,"Brabourne Stadium, Mumbai",2022-04-15,2022,SRH,field,Group Stage,KKR,175,8,120,SRH,176,3,111
+250,1304067,SRH,"Dr DY Patil Sports Academy, Mumbai",2022-04-11,2022,SRH,field,Group Stage,GT,162,7,120,SRH,168,3,118
+251,1304088,LSG,"Maharashtra Cricket Association Stadium, Pune",2022-04-29,2022,PBKS,field,Group Stage,LSG,153,8,120,PBKS,133,8,120
+252,1473448,RR,"Barsapara Cricket Stadium, Guwahati",2025-03-30,2025,CSK,field,Group Stage,RR,182,9,120,CSK,176,6,120
+253,1426280,PBKS,"Eden Gardens, Kolkata",2024-04-26,2024,PBKS,field,Group Stage,KKR,261,6,120,PBKS,262,2,116
+254,1359509,GT,"Narendra Modi Stadium, Ahmedabad",2023-04-25,2023,MI,field,Group Stage,GT,207,6,120,MI,152,9,120
+255,1426281,DC,"Arun Jaitley Stadium, Delhi",2024-04-27,2024,MI,field,Group Stage,DC,257,4,120,MI,247,9,120
+256,1359508,DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-04-24,2023,DC,bat,Group Stage,DC,144,9,120,SRH,137,6,120
+257,1473449,MI,"Wankhede Stadium, Mumbai",2025-03-31,2025,MI,field,Group Stage,KKR,116,10,102,MI,121,2,80
+258,1304066,RR,"Wankhede Stadium, Mumbai",2022-04-10,2022,LSG,field,Group Stage,RR,165,6,120,LSG,162,8,120
+259,1304089,GT,"Brabourne Stadium, Mumbai",2022-04-30,2022,RCB,bat,Group Stage,RCB,170,6,120,GT,174,4,120
+260,1304070,GT,"Dr DY Patil Sports Academy, Mumbai",2022-04-14,2022,RR,field,Group Stage,GT,192,4,120,RR,155,9,120
+261,1426297,GT,"Narendra Modi Stadium, Ahmedabad",2024-05-10,2024,CSK,field,Group Stage,GT,231,3,120,CSK,196,8,120
+262,1426278,DC,"Arun Jaitley Stadium, Delhi",2024-04-24,2024,GT,field,Group Stage,DC,224,4,120,GT,220,8,120
+263,1473473,LSG,"Sawai Mansingh Stadium, Jaipur",2025-04-19,2025,LSG,bat,Group Stage,LSG,180,5,120,RR,178,5,120
+264,1359498,CSK,"M Chinnaswamy Stadium, Bengaluru",2023-04-17,2023,RCB,field,Group Stage,CSK,226,6,120,RCB,218,8,120
+265,1359532,LSG,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-05-13,2023,SRH,bat,Group Stage,SRH,182,6,120,LSG,185,3,120
+266,1359477,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-04-01,2023,DC,field,Group Stage,LSG,193,6,120,DC,143,9,120
+267,1426311,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",2024-05-24,2024,RR,field,Qualifier 2,SRH,175,9,120,RR,139,7,120
+268,1422128,KKR,"M Chinnaswamy Stadium, Bengaluru",2024-03-29,2024,KKR,field,Group Stage,RCB,182,6,120,KKR,186,3,105
+269,1359524,DC,"Arun Jaitley Stadium, Delhi",2023-05-06,2023,RCB,bat,Group Stage,RCB,181,4,120,DC,187,3,103
+270,1426307,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-05-19,2024,PBKS,bat,Group Stage,PBKS,214,5,120,SRH,215,6,120
+271,1473465,RCB,"Sawai Mansingh Stadium, Jaipur",2025-04-13,2025,RCB,field,Group Stage,RR,173,4,120,RCB,175,1,111
+272,1426262,GT,"Sawai Mansingh Stadium, Jaipur",2024-04-10,2024,GT,field,Group Stage,RR,196,3,120,GT,199,7,120
+273,1359504,GT,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-04-22,2023,GT,bat,Group Stage,GT,135,6,120,LSG,128,7,120
+274,1304085,RR,"Maharashtra Cricket Association Stadium, Pune",2022-04-26,2022,RCB,field,Group Stage,RR,144,8,120,RCB,115,10,120
+275,1473500,RR,"Arun Jaitley Stadium, Delhi",2025-05-20,2025,RR,field,Group Stage,CSK,187,8,120,RR,188,4,107
+276,1473445,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",2025-03-28,2025,CSK,field,Group Stage,RCB,196,7,120,CSK,146,8,120
+277,1304093,KKR,"Wankhede Stadium, Mumbai",2022-05-02,2022,KKR,field,Group Stage,RR,152,5,120,KKR,158,3,120
+278,1473453,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-04-04,2025,MI,field,Group Stage,LSG,203,8,120,MI,191,5,120
+279,1359512,LSG,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-04-28,2023,PBKS,field,Group Stage,LSG,257,5,120,PBKS,201,10,120
+280,1426274,KKR,"Eden Gardens, Kolkata",2024-04-21,2024,RCB,field,Group Stage,KKR,222,6,120,RCB,221,10,120
+281,1304115,MI,"Wankhede Stadium, Mumbai",2022-05-21,2022,MI,field,Group Stage,DC,159,7,120,MI,160,5,119
+282,1304050,GT,"Wankhede Stadium, Mumbai",2022-03-28,2022,GT,field,Group Stage,LSG,158,6,120,GT,161,5,120
+283,1473490,KKR,"Eden Gardens, Kolkata",2025-05-04,2025,KKR,bat,Group Stage,KKR,206,4,120,RR,205,8,120
+284,1359494,RCB,"M Chinnaswamy Stadium, Bengaluru",2023-04-15,2023,DC,field,Group Stage,RCB,174,6,120,DC,151,9,120
+285,1422132,RR,"Wankhede Stadium, Mumbai",2024-04-01,2024,RR,field,Group Stage,MI,125,9,120,RR,127,4,99
+286,1359482,PBKS,"Barsapara Cricket Stadium, Guwahati",2023-04-05,2023,RR,field,Group Stage,PBKS,197,5,120,RR,192,7,120
+287,1359528,MI,"Wankhede Stadium, Mumbai",2023-05-09,2023,MI,field,Group Stage,RCB,199,6,120,MI,200,4,106
+288,1370350,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-23,2023,GT,field,Qualifier 1,CSK,172,7,120,GT,157,10,120
+289,1422124,RCB,"M Chinnaswamy Stadium, Bengaluru",2024-03-25,2024,RCB,field,Group Stage,PBKS,176,6,120,RCB,178,6,120
+290,1304103,GT,"Maharashtra Cricket Association Stadium, Pune",2022-05-10,2022,GT,bat,Group Stage,GT,144,4,120,LSG,82,10,86
+291,1473469,No Result,"Arun Jaitley Stadium, Delhi",2025-04-16,2025,RR,field,Group Stage,DC,188,5,120,RR,188,5,120
+292,1473486,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",2025-04-30,2025,PBKS,field,Group Stage,CSK,190,10,120,PBKS,194,6,120

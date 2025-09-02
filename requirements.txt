@@ -8,5 +8,5 @@ streamlit
 matplotlib
 seaborn
 plotly
-scikit-learn
+scikit-learn==1.5.1
 xgboost
