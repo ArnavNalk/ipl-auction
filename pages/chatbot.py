@@ -5,7 +5,12 @@ import pandasai as pai
 from dotenv import load_dotenv
 from pandasai import Agent, SmartDataframe
 from pandasai_litellm.litellm import LiteLLM
+import sys
 
+def handle_exception(exc_type, exc_value, exc_traceback):
+    print("❌ Exception caught:", exc_value)
+    st.error("⚠️ Oops! Something went wrong on our end. Please try again.")
+sys.excepthook = handle_exception
 load_dotenv()
 gemini_key = os.getenv("GOOGLE_API_KEY")
 
@@ -227,7 +232,8 @@ Question: {question}"""
                 
             except Exception as e:
                 error_msg = f"❌ **Error:** {str(e)}"
-                st.error(error_msg)
+                print(error_msg)
+                st.error('Oops there was an error please try again later')
                 
                 st.info(
                     "💡 **Tips to get better results:**\n"

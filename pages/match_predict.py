@@ -1,10 +1,13 @@
 import streamlit as st
 import pandas as pd
 import joblib
+import sys
 
-# --- Load the pre-trained model and data ---
+def handle_exception(exc_type, exc_value, exc_traceback):
+    print("❌ Exception caught:", exc_value)
+    st.error("⚠️ Oops! Something went wrong on our end. Please try again.")
 
-# Load the machine learning pipeline
+sys.excepthook = handle_exception
 try:
     with open('models/best_chase_prediction_model.pkl', 'rb') as f:
         pipeline = joblib.load(f)
@@ -23,7 +26,33 @@ except FileNotFoundError:
     st.stop()
 
 
-# --- Streamlit Page Configuration ---
+def compute_latest_team_form():
+    match_df = pd.read_csv("data_files/match_details.csv")
+    match_df['date'] = pd.to_datetime(match_df['date'])
+    match_df.sort_values('date', inplace=True)
+
+    match_df['team_1_win'] = (match_df['team_1'] == match_df['winner']).astype(int)
+    match_df['team_2_win'] = (match_df['team_2'] == match_df['winner']).astype(int)
+
+    team1_df = match_df[['date','season','match_id', 'team_1', 'team_1_win']].rename(columns={'team_1': 'team', 'team_1_win': 'win'})
+    team2_df = match_df[['date','season','match_id', 'team_2', 'team_2_win']].rename(columns={'team_2': 'team', 'team_2_win': 'win'})
+
+    form_df = pd.concat([team1_df, team2_df]).sort_values(by='date').reset_index(drop=True)
+    form_df['form'] = form_df.groupby(['team','season'])['win'].rolling(window=5, min_periods=1).mean().reset_index(level=['team','season'], drop=True)
+    form_df['form'] = form_df.groupby(['team','season'])['form'].shift(1)
+    form_df.fillna(0, inplace=True)
+
+    # ✅ latest form per team from latest season
+    latest_season = form_df['season'].max()
+    latest_form = (
+        form_df[form_df['season'] == latest_season]
+        .sort_values('date')
+        .groupby('team')
+        .tail(1)
+        .set_index('team')['form']
+        .to_dict()
+    )
+    return latest_form
 
 st.set_page_config(
     page_title="IPL Chase Predictor",
@@ -58,7 +87,9 @@ with col3:
     balls_of_over = st.slider("Balls of Current Over Completed", 0, 5, 0)
 
 
-# --- Prediction Logic ---
+latest_form = compute_latest_team_form()
+batting_team_form = latest_form.get(batting_team, 0)
+bowling_team_form = latest_form.get(bowling_team, 0)
 
 if st.button("Predict Win Probability"):
     if batting_team == bowling_team:
@@ -82,7 +113,9 @@ if st.button("Predict Win Probability"):
             'wickets_remaining': [wickets_remaining],
             'target_score': [target],
             'crr': [crr],
-            'rrr': [rrr]
+            'rrr': [rrr],
+            'batting_team_form': [batting_team_form],
+            'bowling_team_form': [bowling_team_form]
         })
 
         # The pipeline automatically handles the one-hot encoding
