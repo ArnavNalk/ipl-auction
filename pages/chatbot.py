@@ -11,8 +11,8 @@ def handle_exception(exc_type, exc_value, exc_traceback):
     print("❌ Exception caught:", exc_value)
     st.error("⚠️ Oops! Something went wrong on our end. Please try again.")
 sys.excepthook = handle_exception
-load_dotenv()
-gemini_key = os.getenv("GOOGLE_API_KEY")
+os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
+gemini_key = st.secrets["GOOGLE_API_KEY"]
 
 # Only initialize LLM and config once
 if 'llm_initialized' not in st.session_state:
