@@ -1,183 +1,212 @@
 import os
 import streamlit as st
 import pandas as pd
-import pandasai as pai
 from dotenv import load_dotenv
-from pandasai import Agent, SmartDataframe
-from pandasai_litellm.litellm import LiteLLM
+import google.generativeai as genai
+import sqlite3
 import sys
+import logging
+
+logging.basicConfig(filename='chatbot.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def handle_exception(exc_type, exc_value, exc_traceback):
-    print("❌ Exception caught:", exc_value)
+    logging.error("❌ Exception caught:", exc_value)
     st.error("⚠️ Oops! Something went wrong on our end. Please try again.")
+
 sys.excepthook = handle_exception
 os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
 gemini_key = st.secrets["GOOGLE_API_KEY"]
 
-# Only initialize LLM and config once
-if 'llm_initialized' not in st.session_state:
-    llm = LiteLLM(
-        model="gemini/gemini-2.5-flash",
-        api_key=gemini_key,
-        use_vertex=False
-    )
-
-    pai.config.set({
-        "llm": llm,
-        "verbose": False,
-        "use_error_correction_framework": False,
-        "max_rows": 8,
-        "enforce_privacy": False,
-        "save_logs": False,
-        "enable_cache": True,
-        "open_charts": False,
-        "direct_sql":False,
-        'conversational':True
-    })
-    
-    st.session_state.llm_initialized = True
-
-def smart_optimize_dataframe(df):
-    """Balance memory optimization with data integrity"""
-    df = df.copy()
-    
-    # Drop only truly useless columns
-    df = df.dropna(axis=1, how='all')
-    
-    # Keep column names intact for better query understanding
-    # (Don't shorten - helps LLM understand the data better)
-    
-    # Efficient type conversion
-    for col in df.select_dtypes(include=['object']).columns:
-        nunique = df[col].nunique()
-        if nunique / len(df) < 0.4:
-            df[col] = df[col].astype('category')
-    
-    # Numeric downcasting
-    for col in df.select_dtypes(include=['int']).columns:
-        df[col] = pd.to_numeric(df[col], downcast='integer')
-    
-    for col in df.select_dtypes(include=['float']).columns:
-        df[col] = pd.to_numeric(df[col], downcast='float')
-    
-    return df
-
-def smart_strategic_sample(df, max_rows, key_column=None):
-    """Strategic sampling that preserves data distribution"""
-    if len(df) <= max_rows:
-        return df
-    
-    # For ball-by-ball data: stratified sampling by year/match
-    if 'match_id' in df.columns and 'season' in df.columns:
-        # Sample proportionally across seasons
-        result_dfs = []
-        for season in df['season'].unique():
-            season_df = df[df['season'] == season]
-            season_sample_size = int(max_rows * (len(season_df) / len(df)))
-            
-            if len(season_df) > season_sample_size:
-                # Sample complete matches from this season
-                matches = season_df['match_id'].unique()
-                n_matches = max(1, season_sample_size // 300)  # ~300 balls per match
-                sampled_matches = pd.Series(matches).sample(n=min(n_matches, len(matches)), random_state=42)
-                result_dfs.append(season_df[season_df['match_id'].isin(sampled_matches)])
-            else:
-                result_dfs.append(season_df)
-        
-        return pd.concat(result_dfs, ignore_index=True)
-    
-    # For match data: keep all data (it's already small)
-    elif 'match_id' in df.columns or 'season' in df.columns:
-        return df  # Don't sample match-level data
-    
-    # For other data: random sample
-    return df.sample(n=min(max_rows, len(df)), random_state=42)
-
-@st.cache_data
-def load_data():
-    """Load with smart optimization"""
-    dataframes = {}
-    
-    files_config = {
-        'match': {
-            'path': 'data_files/match_details.csv',
-            'name': 'Match Details',
-            'desc': 'Match results, scores, winners',
-            'sample': None  # Keep all match data (usually small)
-        },
-        'table': {
-            'path': 'data_files/IPLTablesData.csv',
-            'name': 'Points Table',
-            'desc': 'Team standings by season',
-            'sample': None  # Keep all table data
-        },
-        'balls': {
-            'path': 'data_files/ball_by_ball.csv',
-            'name': 'Ball Data',
-            'desc': 'Ball-by-ball delivery details',
-            'sample': 25000  # Increased for better accuracy
-        },
-        'squad': {
-            'path': 'data_files/IPLSquads.csv',
-            'name': 'Squad Data',
-            'desc': 'Player squad and role info',
-            'sample': None  # Keep all squad data
-        }
-    }
-    
-    for key, config in files_config.items():
-        try:
-            # Load CSV
-            df = pd.read_csv(config['path'], index_col=0)
-            
-            # Strategic sampling
-            if config['sample'] and len(df) > config['sample']:
-                df = smart_strategic_sample(df, max_rows=config['sample'])
-            
-            # Optimize without losing important info
-            df = smart_optimize_dataframe(df)
-            df = df.drop_duplicates()
-            df.name = config['name']
-            df.description = config['desc']
-            
-            dataframes[key] = {
-                'df': df,
-                'name': config['name'],
-                'desc': config['desc']
-            }
-            
-        except FileNotFoundError:
-            pass
-        except Exception as e:
-            st.error(f"❌ Error loading {config['name']}: {str(e)}")
-    
-    return dataframes
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
+model = genai.GenerativeModel("gemini-2.5-flash")
 
 @st.cache_resource
-def initialize_agent(_dataframes):
-    smart_dfs = []
-    for key, data in _dataframes.items():
-        df = data['df']
-        sdf = SmartDataframe(
-            df, 
-            config={
-                "name": data['name'],
-                "description": data['desc']
-            }
-        )
-        smart_dfs.append(sdf)
-    return Agent(smart_dfs)
+
+def get_connection():
+    return sqlite3.connect("ipl_auction.db", check_same_thread=False)
+conn = get_connection()
+
+SCHEMA = """
+IPL DB 2022-2025
+
+TABLE match_details
+grain one row per match
+match_id INTEGER
+winner TEXT match winner only
+venue TEXT
+date TIMESTAMP
+season INTEGER
+toss_winner TEXT
+toss_decision TEXT bat/bowl
+match_type TEXT group/q1/eliminator/q2/final
+team_1 TEXT batting first
+team_1_score INTEGER
+team_1_wickets INTEGER
+team_1_balls_faced INTEGER
+team_2 TEXT batting second
+team_2_score INTEGER
+team_2_wickets INTEGER
+team_2_balls_faced INTEGER
+note IPL champion = team with W in final column of ipltablesdata
+
+TABLE ball_by_ball
+grain one row per delivery
+match_id INTEGER
+inning INTEGER
+is_super_over INTEGER
+batting_team TEXT
+bowling_team TEXT
+over INTEGER
+ball INTEGER
+batter TEXT
+non_striker TEXT
+bowler TEXT
+runs_off_bat INTEGER
+extras INTEGER
+extras_type TEXT
+total_runs INTEGER
+is_wicket INTEGER
+player_out TEXT
+kind TEXT dismissal type
+fielder_name TEXT
+note extras_type can be contain entries like 'legbyes, noballs'
+note use SUM(runs_off_bat) for batter runs
+note use SUM(total_runs) for team totals
+note exclude run outs from bowler wickets
+
+TABLE iplsquads
+grain one row per player-season
+player_name TEXT
+team TEXT
+year INTEGER
+price REAL crore value
+replacement TEXT
+retained TEXT
+country TEXT
+age INTEGER
+role TEXT Batter/Bowler/All-Rounder/Wicketkeeper
+batting_style TEXT
+bowling_style TEXT
+c/u/a TEXT capped/uncapped/associate
+base_price REAL
+
+TABLE ipltablesdata
+grain one row per team-season
+position INTEGER
+team TEXT
+p INTEGER played
+w INTEGER wins
+l INTEGER losses
+t INTEGER ties
+nr INTEGER no result
+pts INTEGER
+nrr REAL
+year INTEGER
+q1 TEXT qualifier1 result
+e TEXT eliminator result
+q2 TEXT qualifier2 result
+f TEXT final result
+note final winner has f='W'
+note position is league standing not IPL champion
+
+TABLE super_over_details
+grain one row per super over match
+match_id INTEGER
+winner TEXT
+is_so_match INTEGER
+so_team1_name TEXT
+so_team2_name TEXT
+so_team1_score INTEGER
+so_team1_wickets INTEGER
+so_team1_balls_faced INTEGER
+so_team2_score INTEGER
+so_team2_wickets INTEGER
+so_team2_balls_faced INTEGER
+
+RELATIONSHIPS
+match_details.match_id = ball_by_ball.match_id
+match_details.match_id = super_over_details.match_id
+
+COMMON LOGIC
+IPL winner = team with f='W'
+top batter = SUM(runs_off_bat) by batter
+top bowler = COUNT wickets by bowler excluding run outs
+team score = SUM(total_runs)
+strike rate = runs*100/balls
+economy = runs conceded/overs
+"""
+
+def generate_sql(question):
+
+    prompt = f"""
+    You are an expert IPL analytics SQLite assistant.
+    Generate ONLY valid SQLite SQL.
+    STRICT RULES:
+    - Return ONLY executable SQLite SQL
+    - No markdown
+    - No explanations
+    - No comments
+    - Only SELECT queries
+    - Never hallucinate columns or tables
+    - Use only schema provided
+    - Use LIMIT 20 unless aggregation query
+    - Use proper GROUP BY when aggregating
+    - Use semantic meaning of columns carefully
+
+    Important:
+    - match winner != tournament winner
+    - Exclude run outs when calculating bowler wickets
+    - Use runs_off_bat for batter runs
+    - Use total_runs for innings/team totals
+
+    {SCHEMA}
+
+    User Question:
+    {question}
+    """
+
+    response = model.generate_content(prompt)
+    sql = response.text.strip()
+    usage = response.usage_metadata
+    if not sql.lower().startswith("select"):
+        raise ValueError("Only SELECT queries allowed")
+    return {
+        "sql": sql,
+        "prompt_tokens": usage.prompt_token_count,
+        "completion_tokens": usage.candidates_token_count,
+        "total_tokens": usage.total_token_count
+    }
+
+def execute_sql(sql):
+    try:
+        df = pd.read_sql(sql, conn)
+        return df
+    except Exception as e:
+        return str(e)
+
+def summarize_results(question, df):
+
+    prompt = f"""
+    Answer the user's question naturally.
+    You MUST trust the query results completely.
+    The database results are the source of truth.
+    Do NOT override results using world knowledge.
+    Question:
+    {question}
+    Query Results:
+    {df.to_string(index=False, max_rows=None, max_cols=None)}
+    Give a concise conversational response.
+    """
+    response = model.generate_content(prompt)
+    usage = response.usage_metadata
+    return {
+        "response": response.text,
+        "prompt_tokens": usage.prompt_token_count,
+        "completion_tokens": usage.candidates_token_count,
+        "total_tokens": usage.total_token_count
+    }
 
 st.title("🤖 IPL Data Chatbot")
-dataframes = load_data()
-if len(dataframes) ==0:
-    st.error("❌ Service currently unavialabe.")
-    st.stop()
-
-if 'agent' not in st.session_state:
-    with st.spinner("⚙️ Initializing AI chatbot..."):
-        st.session_state.agent = initialize_agent(dataframes)
-agent = st.session_state.agent
 
 st.info(
     "🏏 **Ask questions about IPL data (2022-2025)**\n\n"
@@ -217,15 +246,37 @@ Question: {question}"""
         with st.spinner("🤔 Analyzing data..."):
             try:
                 # Query the agent
-                response = agent.chat(prompt)
-                
-                # Display response
-                st.markdown(response)
-                
-                # Save to history
+                sql_result = generate_sql(question)
+                result = execute_sql(sql_result["sql"])
+                if isinstance(result, str):
+                    st.error(result)
+                else:
+                    summary_response = summarize_results(question, result)
+                    st.markdown(summary_response["response"])
+                    sql_prompt_tokens = sql_result["prompt_tokens"]
+                    sql_completion_tokens = sql_result["completion_tokens"]
+                    sql_total_tokens = sql_result["total_tokens"]
+                    summary_prompt_tokens = summary_response["prompt_tokens"]
+                    summary_completion_tokens = summary_response["completion_tokens"]
+                    summary_total_tokens = summary_response["total_tokens"]
+                    grand_total_tokens = (sql_total_tokens +summary_total_tokens)
+                    logging.info(f"""
+                        QUESTION:{question}
+                        GENERATED SQL:{sql_result["sql"]}
+                        QUERY RESULTS:{result.to_string(index=False, max_rows=None, max_cols=None)}
+                        FINAL RESPONSE:{summary_response["response"]}
+                        SQL PROMPT TOKENS:{sql_prompt_tokens}
+                        SQL COMPLETION TOKENS:{sql_completion_tokens}
+                        SQL TOTAL TOKENS:{sql_total_tokens}
+                        SUMMARY PROMPT TOKENS:{summary_prompt_tokens}
+                        SUMMARY COMPLETION TOKENS:{summary_completion_tokens}
+                        SUMMARY TOTAL TOKENS:{summary_total_tokens}
+                        GRAND TOTAL TOKENS:{grand_total_tokens}
+                        {'='*80}
+                        """)
                 st.session_state.chat_messages.append({
                     "role": "assistant", 
-                    "content": response
+                    "content": summary_response["response"]
                 })
                 
                 st.session_state.query_count += 1
